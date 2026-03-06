@@ -1,0 +1,3 @@
+Notes for birthrate to deathrate influence:  ~(-.02)
+
+Birthrate generally has a negligible to small indirect effect on death rates, primarily through demographic age structure rather than a direct causal link. Populations with higher birthrates tend to have a younger age distribution, which is associated with lower overall death rates because younger populations have lower mortality risk, while lower birthrates contribute to population aging and higher age-adjusted death rates

@@ -1,0 +1,42 @@
+Notes for this influence:
+
+Healthcare Access to Birthrate = +0.04
+
+Healthcare access has a small direct positive effect on birthrate through improved maternal survival, infant survival, and reproductive confidence. While expanded healthcare also reduces teen birthrates and disparities (a small negative counter-effect), the net direct influence remains slightly positive.
+
+Long-term fertility decline in advanced societies is primarily mediated through higher-order variables such as education, female workforce participation, and economic development; not healthcare access alone. 
+
+Healthcare quality, not access or cost, has most of the force on birthrates. For this reason, we can assign this as a slight positive pressure of +0.04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

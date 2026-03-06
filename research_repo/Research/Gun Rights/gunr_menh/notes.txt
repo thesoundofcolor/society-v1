@@ -1,0 +1,66 @@
+Notes for this influence:
+
+Gun Rights -> Mental Health = -0.09
+
+Guns don’t create mental illness, but they can make bad mental health outcomes more final. The biggest channel is suicide: when a crisis hits, firearms raise the chance it ends in death instead of recovery. Some people feel safer and more empowered with gun access, but that benefit is uneven and doesn’t fully offset the suicide/lethality pathway at scale. -0.09 keeps it realistic and leaves room for higher-order conditions (trust, healthcare, substance abuse, crime) to swing it.
+
+*This might be better articulated with higher order influences. 
+Some proposed examples:
+Gun Rights * Mental Health -> Deathrate
+Gun Rights * Purpose/Meaning -> Mental Health -> Deathrate
+Gun Rights * Spirituality/God -> Mental Health
+
+~Evan Levy 2/20/26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

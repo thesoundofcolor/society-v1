@@ -1,0 +1,11 @@
+Sebastian Stier,
+Internet diffusion and regime type: Temporal patterns in technology adoption,
+Telecommunications Policy,
+Volume 41, Issue 1,
+2017,
+Pages 25-34,
+ISSN 0308-5961,
+https://doi.org/10.1016/j.telpol.2016.10.005.
+(https://www.sciencedirect.com/science/article/pii/S0308596116301963)
+Abstract: It is often assumed that the Internet would threaten the survival of authoritarian regimes. Accordingly, most country-comparative studies have identified a democracy advantage in Internet diffusion. This paper revisits these technology-centric assumptions by conceptualizing the adoption of the Internet as a dynamic phenomenon with multiple phases that unfold differently depending on the political system. It is argued theoretically, that initially, the Internet diffuses faster in democracies because of inherent innovation advantages. However, authoritarian regimes adopt the Internet at comparable rates when the economic benefits of the technology outweigh the democratization risks. Yearly cross-sectional regressions for the years 1996–2013 show that the relationship between regime type and Internet diffusion varies temporally as authoritarian regimes have caught up considerably. Since 2013, there are no significant differences between democracies and authoritarian regimes anymore and monarchies even outperform democracies.
+Keywords: Internet diffusion; Technology adoption; Regime type; Democracy; Authoritarian regimes

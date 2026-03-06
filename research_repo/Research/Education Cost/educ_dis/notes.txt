@@ -1,0 +1,3 @@
+Notes for this influence:
+
+negligible, mostly indirect. setting to 0.0

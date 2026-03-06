@@ -1,0 +1,3 @@
+Notes for this influence:
+
+ ±0.04 to ±0.14 but needs higher-order to represent so we will keep it at +0.02 for prototype.

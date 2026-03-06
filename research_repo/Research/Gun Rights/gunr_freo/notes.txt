@@ -1,0 +1,9 @@
+Notes for this influence:
+
+Gun Rights -> Freedom of Speech = 0.0
+
+There is no clear direct empirical evidence that greater gun rights or firearm prevalence increases freedom of speech. While some argue that widespread gun ownership deters authoritarianism and indirectly protects speech, this effect operates structurally rather than through a measurable pairwise relationship.
+
+In some contexts, the presence of firearms may even suppress speech through intimidation or perceived threat. For this reason, the direct influence is modeled as neutral, with any protective or suppressive effects mediated through higher-order interactions involving Authoritarianism, Liberty, Public Trust, and Law Enforcement.
+
+~Evan Levy 2/15/26

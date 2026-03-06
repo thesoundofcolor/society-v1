@@ -1,0 +1,6 @@
+Notes for this influence:
+
+Diversity -> Discrimination (+0.10) [01-03-26  ~Evan L.]
+
+This is a positive influence that is highly context-dependent. Research suggests that increased diversity can be associated with higher levels of discrimination under certain environmental and social conditions, particularly where economic stress, low institutional trust, or weak social integration are present. While the effect can be strong in specific contexts (potentially as high as +0.23), accurately modeling those contextual conditions is outside the scope of this system. To avoid overstatement while still acknowledging the measurable pressure, this influence is conservatively set to +0.10.
+

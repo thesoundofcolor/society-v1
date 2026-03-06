@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# temp files
+*.tmp
+*.log
+
+# latex build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# vscode
+.vscode/
+
+# python
+__pycache__/
+*.pyc

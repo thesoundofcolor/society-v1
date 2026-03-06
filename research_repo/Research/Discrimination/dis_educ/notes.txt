@@ -1,0 +1,3 @@
+Notes for this influence:
+
+minor ( < .2 ) influence. Consensus suggests .3 to .5, but over biases its magnitudes. may need to tune this in the future? Medium confidence

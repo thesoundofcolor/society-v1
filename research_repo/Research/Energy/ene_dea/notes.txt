@@ -1,0 +1,7 @@
+Notes for this influence:
+
+Mostly negative influence, however conditionally if energy is "dirty" it can increase mortality rates.
+
+For now we will set this to -0.12 but it can also be +0.1 from higher-order influences
+
+-0.12  [01-01-2026 ~Evan L.]

@@ -1,0 +1,9 @@
+Notes for this influence:
+
+Gun Rights -> Crime = +0.06
+
+This is a complicated and nuanced interaction that depends heavily on surrounding conditions. In environments where Public Trust, Law Enforcement, and Liberty are high, firearms may contribute to deterrence effects and reduce certain types of crime. However, when Addiction, Mental Health, Poverty, or Corruption are elevated, the presence of more guns can increase the likelihood or severity of criminal outcomes.
+
+While the direction of this relationship can shift under different states, guns can reduce or increase crime rates, but the general trend across studies shows a small positive association between higher gun prevalence and increases in crime. For this reason, the baseline pairwise influence is modeled as slightly positive, with the understanding that higher-order interactions will meaningfully modify its effect in both magnitude, shape, and direction.
+
+~Evan Levy 2/15/26

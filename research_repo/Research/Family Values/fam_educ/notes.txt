@@ -1,0 +1,7 @@
+Notes for this influence:
+
+Family Values -> Education Cost = +0.00
+
+Negligible if any direct influence. Ideal family values increases the factors that lead to choosing private schools and more expensive universities. Some family values can reduce cost through student financial aid or by supplementing or paying for a child's education. This influence is far too complex and mostly indirect. 
+
+If this is to be changed: [ X ≤ (±0.04)]

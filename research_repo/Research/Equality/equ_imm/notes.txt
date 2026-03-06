@@ -1,0 +1,30 @@
+Notes for this influence:
+
+Equality -> Immigration = 0
+
+Indirect. MAYBE could justify a sliver of influence (+0.01). Setting at 0 for now and can mediate through higher-order weights.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

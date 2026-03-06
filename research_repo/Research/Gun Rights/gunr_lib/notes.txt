@@ -1,0 +1,13 @@
+Notes for this influence:
+
+Gun Rights -> Liberty  = +0.2
+
+Gun rights are a strong component of liberty within the American framework. They represent autonomy, self-defense capacity, and a theoretical check against tyranny. For the individual carrier, they expand agency and perceived security.
+
+However, this influence is not purely positive. Firearms can also be used to intimidate, suppress, or directly remove liberty from others. Liberty here is partially redistributive, expanding for some while potentially contracting for others.
+
+This relationship is highly conditional. Its full positive weight depends on rule of law, public trust, cultural norms around force, and overall social stability.
+
+Assigned a strong but dampened magnitude of +0.20 to reflect its deep association with liberty while allowing higher-order interactions to amplify or constrain the effect depending on system state.
+
+~Evan Levy 2/17/26

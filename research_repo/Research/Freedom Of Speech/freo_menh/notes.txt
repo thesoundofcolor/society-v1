@@ -1,0 +1,40 @@
+Notes for this influence:
+
+Freedom of Speech -> Mental Health = +0.2
+
+Freedom of Speech has a complex but net positive influence on Mental Health. Open expression supports emotional regulation, identity formation, and psychological autonomy, while suppression of speech is consistently associated with stress, anxiety, and self-censorship. Although exposure to harmful or hostile speech can negatively affect mental health in some contexts, existing research often relies on limited or assumption-driven methodologies and does not isolate strong causal effects. Overall, the benefits of free expression outweigh these harms, justifying a moderate positive value.
+
+~Evan Levy 2/6/26
+
+Bound this magnitude between +0.15 and +0.25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
