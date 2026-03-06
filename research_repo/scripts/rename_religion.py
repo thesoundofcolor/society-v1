@@ -1,3 +1,5 @@
+# This is to rename the old directories previously called "rel" (Religion) to "spi" (spirituality/god)
+
 import os
 
 BASE_DIR = "Research"
@@ -5,7 +7,10 @@ BASE_DIR = "Research"
 OLD_TEXT = "Religion"
 NEW_TEXT = "Spirituality-God"
 
-DRY_RUN = False  # set to False to apply changes
+DRY_RUN = True  # set to False to apply changes... 
+
+# We don't need this script anymore, so don't use it. 
+# Maybe we can recycle this script for something else?
 
 def safe_rename(old_path, new_path):
     if old_path == new_path:
@@ -61,4 +66,4 @@ for root, dirs, files in os.walk(BASE_DIR, topdown=False):
         if new_name != name:
             safe_rename(old_dir, os.path.join(root, new_name))
 
-print("✅ Finished (dry-run mode)." if DRY_RUN else "✅ Finished.")
+print("Finished (dry-run mode)." if DRY_RUN else "Finished.")
