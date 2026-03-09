@@ -1,0 +1,3 @@
+Notes for this influence:
+
+There is research that says Energy production has a positive influence on discrimination, however, the papers are all very subjective and romantic. I do not see any quantitative evidence for this influence so I will set the weight based on my intuition: ZERO 0.0

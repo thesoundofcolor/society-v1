@@ -1,0 +1,4 @@
+Notes for this influence:
+
+
+requires higher-order conditions, such as cost-of-living, minimum wage, employment, and others. Setting at 0.0 for simplicity.

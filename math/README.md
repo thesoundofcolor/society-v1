@@ -1,12 +1,22 @@
 # Math
 
-Yeah, this is where math stuff will go. Anticipation, but no guarantees.
+This is where math stuff will go.
 
-This message will self destruct in
+Nothing of consequence is here yet, but I did find some functions we can use to shape edge connections. They are pretty basic and not tested within the model yet. I saved them in: *Shapes*
+
+This message will self destruct in:
 3...
+
 2...
+
+
 1...
+
+
+
 2...
+
 4...
+
 8..?
-9... I forgot how to math X_x
+9... Like I said, no math here yet X_x

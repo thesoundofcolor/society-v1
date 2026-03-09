@@ -1,0 +1,5 @@
+Notes for this influence:
+
+"The relationship between social diversity and taxes is complex and context-dependent, with no clear evidence of a uniformly positive or negative direct effect on overall tax levels. A reasonable normalized magnitude for the direct influence of social diversity on taxes would be small, likely between −0.2 and +0.2, reflecting mostly indirect and nuanced effects mediated by social cohesion, corporate governance, and tax morale." Consensus AI
+
+I'm putting it at -.02 for now bu may change with higher-order influences

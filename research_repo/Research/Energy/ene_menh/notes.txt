@@ -1,5 +1,0 @@
-Notes for this influence:
-
-Mostly indirect but can also have direct influences that are highly conditional and require higher-order context. It can be positive or negative, between -0.1 to +0.15
-
-Setting to +0.03 to indicate a small mental health benefit from more energy which is defensibly with the provided papers I added to the corresponding repo directory. [01-02-2026 ~Evan L.]

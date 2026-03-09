@@ -1,0 +1,5 @@
+Notes for this influence:
+
+Equality -> Birthrate (+0.05)
+
+Indirect but somewhat of an influence. Though more Equality doesn't directly mean more fertility, more equality allows other forces to induce more fertility. For this reason we can assign a small positive pressure. 

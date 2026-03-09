@@ -1,0 +1,31 @@
+Notes for this influence:
+
+Energy Production -> Healthcare Access: +0.29  [01-02-2026 ~Evan L.]
+
+The literature consistently shows that reliable energy production is a foundational requirement for healthcare access. Electrification enables core medical functions: lighting, refrigeration, sterilization, diagnostics, communications, and emergency services—and produces large, measurable increases in service availability, especially in rural and off-grid contexts. While energy alone is not sufficient to guarantee healthcare quality or utilization, it functions as a gatekeeping infrastructure without which access collapses. Given its first-order enabling role, a strong positive weight is warranted.
+
+
+Reliable energy production is a necessary infrastructure layer for healthcare access.
+
+The Energies review shows that electricity is required for:
+
+Vaccine refrigeration
+Sterilization
+Lighting for emergency and nighttime care
+Diagnostic equipment
+Communications and data systems
+-------------------------------------------------------------
+The WHO/Health Policy & Planning implementation study in Ghana and Uganda found:
+
+24-hour emergency services rose from ~8% to ~100% after solar electrification in Ghana
+Reliability of electricity rose to >90% uninterrupted access
+Community satisfaction jumped from <10% to >90%
+Health worker retention, motivation, and night availability increased measurably
+--------------------------------------------------------------
+
+Healthcare systems cannot scale services, staffing, or equipment without energy
+Electrification triggers follow-on investments in equipment and staffing
+Energy access precedes (and enables) healthcare access, not the reverse
+
+---------------------------------------------------------------------
+

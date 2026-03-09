@@ -1,7 +1,0 @@
-Notes for this influence:
-
-Workforce availability and skill capacity supporting renewable energy deployment but this is very small effect.
-
-< 0.04
-
-Setting to 0.01  [12-31-25 ~Evan L.]

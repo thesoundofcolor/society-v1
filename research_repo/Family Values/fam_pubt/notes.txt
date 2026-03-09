@@ -1,0 +1,8 @@
+Notes for this influence:
+
+Family Values -> Public Trust = 0
+
+Negligible and highly context dependent direct influence. 
+
+*For future tuning:
+Could maybe justify ±0.04

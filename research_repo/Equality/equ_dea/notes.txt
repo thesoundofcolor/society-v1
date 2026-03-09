@@ -1,0 +1,17 @@
+Notes for this influence:
+
+Equality -> Deathrate (-0.12) [01-04-26 ~Evan L.]
+
+Direct influence; Socioeconomic, opportunistic, and educational equalities all contribute to factors that directly influences mortality rates in numerous studies. The weight of this, like most influence weights, is difficult to deduce but we could surmise through research evidence that it is a moderate negative influence. My best qualitative guesstimate is between -0.1 and -0.26. I will assign a conservative but obvious negative weight of -0.12
+
+
+
+
+
+
+
+
+
+
+
+

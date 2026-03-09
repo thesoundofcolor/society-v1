@@ -1,7 +1,0 @@
-Notes for this influence:
-
-Diversity -> Crime (+0.05) [01-03-26 ~Evan L.]
-
-The literature I could find did not support strong or direct causal relationship between diversity and crime. Where positive associations appear, they are small in magnitude and highly context-dependent, operating primarily through short-term social coordination and cohesion pressures rather than criminal propensity or cultural factors. Structural variables such as poverty, residential instability, and inequality exert far stronger influence on crime rates. A modest positive weight is used here to represent diversity as a weak pressure that can elevate crime risk under certain conditions, not as a primary or deterministic driver.
-
-We will use this as a higher-order influence when rank-3 is implemented.

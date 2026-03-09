@@ -1,3 +1,0 @@
-In the root directory, open GIT BASH and enter this to create a "links.txt" file in all child directories, remember to change the embedded text for efficiency please!:
-
-find . -type d -exec sh -c 'echo "Links for X to Y influences: " > "{}/links.txt"' \;

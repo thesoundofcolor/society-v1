@@ -1,0 +1,5 @@
+Notes for this influence:
+
+Context dependent and indirect. setting to 0.0
+
+But higher orders can influence between -.05 and +.05

@@ -1,0 +1,5 @@
+Notes for this influence:
+
+Minimal direct influence, we can set a small positive pressure for now, but if there is instability in the engine we can set this to 0.0
+
+Setting to: (+0.02)

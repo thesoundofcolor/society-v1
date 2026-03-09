@@ -1,0 +1,3 @@
+Notes for this influence:
+
+this should have a higher-order influence, such as dampening authoritarianism's effect on other variables or vice versa, however it does not have a direct influence

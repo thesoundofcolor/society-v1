@@ -1,0 +1,3 @@
+Notes for auth to edua influence:
+
+I'll keep this at zero since it is too small of an influence while also being too complex to accurately replicate

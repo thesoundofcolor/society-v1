@@ -1,5 +1,0 @@
-Notes for this influence:
-
-Energy Production → Family Values (0.00):
-
-While energy access clearly influences material conditions such as health, education, and household stability, the research I have been able to find does not support any direct influence on family values. The outcomes measured are economic and wellbeing-related, not cultural or normative. Any effect energy production may have on family values would be indirect and mediated through long-term socioeconomic and educational factors, rather than a first-order relationship. To avoid overreach, this influence is treated as zero.

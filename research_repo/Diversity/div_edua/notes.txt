@@ -1,0 +1,6 @@
+Notes for this influence:
+
+"Overall, the direct effect of social diversity on discrimination is positive but context-dependent, with a reasonable normalized magnitude around +0.3 to +0.5, reflecting a moderate influence that can be mitigated or amplified by organizational and social climates." ~ Consensus AI
+
+I will keep the weight around and between (±).1 with higher-order context direction. 
+

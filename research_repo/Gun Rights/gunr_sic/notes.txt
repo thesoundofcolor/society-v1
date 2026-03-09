@@ -1,0 +1,23 @@
+Notes for this influence:
+
+Gun Rights -> Sickness/Disease = 0.0
+
+No clean direct pathway from gun rights to disease prevalence. Most “health” effects people cite are actually routed through injury/death burden or violence exposure/stress effects, which should be modeled via mediated links (Gun Rights -> Crime/Mental Health -> Sickness/Disease Burden) rather than forced into a direct disease edge. Consensus suggests a -0.4 influence but I can not find any justification for a non-zero magnitude.
+
+~Evan Levy 2/20/26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

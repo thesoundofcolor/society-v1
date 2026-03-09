@@ -1,3 +1,0 @@
-Notes for birthrate to crime influence:
-
-too small of influence. I'm assigning a null 0 to save myself from unnecessary complexity and nuance. 

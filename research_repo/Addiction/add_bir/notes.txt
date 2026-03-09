@@ -1,0 +1,28 @@
+Notes for this influence:
+
+Addiction → Birthrate = –0.16
+
+Addiction exerts a moderately negative influence on birthrates through both biological and social mechanisms. Many addictive substances impair reproductive function. Tobacco, alcohol, and various drugs disrupt endocrine signaling, reduce sperm quality, interfere with ovulation, and increase infertility risk. These physiological effects reduce the probability of successful conception. (See: "PIIS0015028214023541.pdf")
+
+Addiction also contributes to environmental conditions that reduce family formation. Substance dependence correlates with economic instability, deteriorating health, relationship breakdown, and long-term life instability. These factors reduce the likelihood of stable partnerships and planned childbearing.
+
+However, the effect is not extreme. Addiction does not fully suppress reproduction and can sometimes increase unplanned pregnancies due to impaired judgment and reduced contraceptive consistency. Because of these counteracting mechanisms, the net influence is best modeled as a moderate negative pressure rather than a strong suppression.
+
+
+**Shapes**
+
+This edge may be better modeled as an asymmetric negative S-curve rather than a strictly monotonic decline. From the origin, increases in addiction lower birthrate gradually at first, then more strongly through the middle range as biological and social instability compound. Near the upper extreme, the curve may flatten and show a slight rebound, not because addiction becomes beneficial, but because unplanned pregnancies and reduced contraceptive consistency may partially offset the broader suppressive effect.
+
+Shaping functions:
+Gompertz-style negative decline
+Tanh-based negative curve
+Sigmoid might work
+SwiGLU looks cool to test out
+
+Note: Try using factored cube form; which, I think, should help give more control.
+
+I used this formula in GeoGebra:
+
+f(x) = a(x-r1)(x-r2)(x-r3)
+
+Then make these 4 sliders: a, r1, r2, r3

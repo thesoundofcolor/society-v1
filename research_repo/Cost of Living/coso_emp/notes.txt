@@ -1,0 +1,3 @@
+Notes for this influence:
+
+Cost of living doesn't directly influence employment rates, though it may indirectly through transportation costs. I'll keep it 0 for now, but a small negative pressure is defensible.

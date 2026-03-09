@@ -1,0 +1,12 @@
+Notes for Addiction -> Agriculture influence:
+
+Addiction -> Agriculture = -0.08
+
+Addiction has  a small direct influence on agriculture. It negatively impacts productivity; primarily through reduced labor reliability, increased workplace accidents, and workforce turnover. Agricultural work often involves heavy machinery, long hours, and physically demanding labor, making substance impairment particularly dangerous and disruptive.
+
+Research on opioid use in agricultural industries shows that addiction contributes to absenteeism, slower reaction time, decreased productivity, and higher injury risk among workers. It can also reduce available labor and increase hiring turnover, which disrupts operations for farms and agricultural businesses.
+
+However, agriculture can partially mitigate these effects through mechanization, workforce replacement, and operational adjustments. As a result, while addiction has a clear negative impact on agricultural output and workforce stability, the systemic influence is moderate rather than severe.
+
+**Shapes**
+Because this is a relatively weak influence with no strong evidence of nonlinear behavior, the relationship can reasonably be modeled as a simple linear response.

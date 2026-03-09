@@ -1,5 +1,0 @@
-Notes for this influence:
-
-Family Values -> Corruption = -0.09
-
-This influence is context-dependent. Family-oriented social structures can, in some cases, increase corruption through nepotism or favoritism. However, within this model, Family Values is intentionally defined with a positive normative bias, representing healthy parenting styles, ethical treatment of others, and value systems that emphasize responsibility and accountability. Under this framing, stronger family values tend to modestly reduce corruption by reinforcing moral norms and discouraging exploitative behavior. Higher-order influences may override or reverse this effect in specific contexts, but the baseline influence remains negative.

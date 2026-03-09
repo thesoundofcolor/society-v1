@@ -1,0 +1,12 @@
+Notes for this influence:
+
+Freedom of Speech -> Public Trust = +0.09
+
+Freedom of Speech has a mixed but slightly positive influence on Public Trust. In the short term, open speech and free media can reduce trust in specific institutions or officials by increasing scrutiny, criticism, and exposure of failure or corruption. However, over the long term, transparency and the ability to openly contest information improve perceived legitimacy, procedural fairness, and trust in the system as a whole rather than in individual actors.
+
+Because the effect is context-dependent and asymmetric, reducing blind trust while supporting durable institutional trust, a small positive value is assigned.
+
+~Evan Levy 2-6-26
+
+
+

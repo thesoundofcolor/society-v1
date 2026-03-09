@@ -1,2 +1,2 @@
-notes for the engine. 
+notes for designs. 
 sorry, nothing here yet... get to work!

@@ -1,0 +1,53 @@
+Notes for this influence:
+
+Gun Rights -> Deathrate = +0.16 
+
+There is a strong and consistent association between firearm prevalence and increased mortality, particularly through suicide. While homicide effects are more conditional, suicide data alone justifies a meaningful positive influence.
+
+This value represents the baseline population-level pressure. Higher-order interactions, especially with Mental Health, Crime, Public Trust, and Addiction will meaningfully amplify or dampen this effect. The raw pairwise influence is positive, but the system context determines how intense it becomes.
+
+~Evan Levy 2/15/26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

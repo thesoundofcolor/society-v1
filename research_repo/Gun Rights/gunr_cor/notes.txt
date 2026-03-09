@@ -1,0 +1,22 @@
+Notes for this influence:
+
+Gun Rights -> Corruption = 0.0
+
+No straight-forward direct influence. One large study (saved in repo as "ssrn-1090441.pdf") found that countries with increased gun density generally had less corruption and more civil freedoms and prosperity. However, this is a complex correlation that isn't defined by a simple linear pairwise causal pathway. We could possibly justify a small "pressure-like" magnitude between -0.03 and 0.0 to show the negative dampening effect guns has on corruption, but I will set at 0.0 for now. 
+
+~Evan Levy 2/10/26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

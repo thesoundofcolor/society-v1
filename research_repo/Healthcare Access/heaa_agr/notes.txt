@@ -1,0 +1,12 @@
+Notes for this influence:
+
+Healthcare Access -> Agriculture = +0.18
+
+Improved healthcare access INCREASES agricultural capacity by preserving healthy labor time and reducing productivity loss from illness. In labor-intensive systems this effect is strong, as fewer missed days and better physical functioning directly raise output per worker. In highly mechanized systems the effect is smaller, but still present through human capital stability and workforce reliability.
+
+This influence is moderate but not too dominant since agriculture is also driven by land quality, technology, capital access, infrastructure, skills, education, and climate.
+
+**Shaping:
+A concave saturating function (logarithmic or low-steepness Hill curve); Marginal gains are largest when baseline healthcare access is low and diminish as access approaches saturation. Early expansion recovers lost labor capacity; later expansion yields smaller incremental productivity gains.
+
+~Evan Levy 2/22/26

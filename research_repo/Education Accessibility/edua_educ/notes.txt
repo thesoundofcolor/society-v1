@@ -1,0 +1,5 @@
+Notes for this influence:
+
+Housing markets can shape the influence, maybe consider cost of living? Maybe composite variables: "Housing Costs" or "Real Estate Market"?
+
+Setting to 0.0 for now, medium confidence

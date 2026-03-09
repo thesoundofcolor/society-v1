@@ -1,5 +1,0 @@
-Notes for this influence:
-
-Equality -> Liberty = +0.06
-
-Equality and liberty are closely related, but the relationship is not strong or linear. Increasing equality does not automatically increase liberty, and in some cases can introduce new constraints. Still, greater equality tends to slightly expand effective liberty by reducing domination and widening access to freedoms that would otherwise be unevenly distributed. The net influence is therefore positive, but intentionally small.

@@ -1,0 +1,3 @@
+Notes for this influence:
+
+All the research I could find had pandemic-related datasets. I could not find more generalized oriented information so I will assign this weight to 0. However, I have the intuition that death rates have a negative pressure (~ -.04) but this would be speculative without research resources to support. Maybe revisit this?

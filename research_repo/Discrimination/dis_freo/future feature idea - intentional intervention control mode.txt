@@ -1,0 +1,25 @@
+Future Modeling Note — Intentional Intervention Mode
+In the current system, direct user manipulation of a variable represents a change in the 
+societal state itself. For example, lowering Discrimination simply indicates that 
+discriminatory behaviors and conditions are less prevalent within the modeled society. The 
+model does not currently distinguish how such reductions occur.
+
+However, in real societies, equivalent state outcomes may arise through very different causal 
+mechanisms. Discrimination may decline organically through cultural change, economic integration, 
+or educational progress, or it may decline through deliberate interventions such as legislation, 
+enforcement mechanisms, or institutional pressure.
+
+These different pathways can produce distinct secondary effects. For example, reductions in 
+discrimination achieved through social or legal intervention may impose additional constraints 
+on other societal variables,such as Free Speech, through mechanisms like harassment law, 
+speech regulation, or institutional enforcement. By contrast, reductions produced organically 
+through upstream social changes may have little or no direct impact on expressive freedom.
+
+A future extension of the system may introduce an Intentional Intervention Mode at the 
+control layer. In this mode, user adjustments would represent deliberate societal actions rather 
+than passive state changes. This distinction would allow the model to explore differences between 
+organic social evolution and policy-driven intervention, potentially increasing realism in scenarios 
+where causal pathways meaningfully affect downstream outcomes.
+
+This feature is deferred in the current version to preserve interpretability and avoid conflating 
+state variables with intervention mechanics during early model development.

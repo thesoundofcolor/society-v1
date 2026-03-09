@@ -1,7 +1,0 @@
-Notes for this influence:
-
-Direct influence, military is positively increased from more energy production. 
-
-between +0.1 to +0.3
-
-I will set this to +0.16 [01-02-2026 ~Evan L.]

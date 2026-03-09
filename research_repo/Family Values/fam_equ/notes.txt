@@ -1,0 +1,6 @@
+Notes for this influence:
+
+Family Values -> Equality = 0.0
+
+Far too complex and context-dependent for a negligible to zero influence. 
+Assigning 0.0

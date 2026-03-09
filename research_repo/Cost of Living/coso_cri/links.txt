@@ -1,0 +1,34 @@
+Links for Cost of Living influence on Crime : 
+
+Analyzing Factors Influencing Crime Rates in Communities by Lasso Regression
+J. Dai, "Analyzing Factors Influencing Crime Rates in Communities by Lasso Regression," 2024 IEEE MIT Undergraduate Research Technology Conference (URTC), Cambridge, MA, USA, 2024, pp. 1-4, doi: 10.1109/URTC65039.2024.10937580. keywords: {Costs;Noise;Education;Urban planning;Predictive models;Data models;Stability analysis;Public security;Socioeconomics;Strain;Crime rate prediction;Lasso regression;noise variables;feature selection;data preprocessing},
+
+Yıldız, H., Shahzad, M.R. Network linkages between housing prices and crime risk: evidence from 26 regions in Türkiye. Crime Law Soc Change 82, 1081–1109 (2024). https://doi.org/10.1007/s10611-024-10166-6
+
+Economic Assistance to Impoverished Americans
+Relationship to Incidence of Crime
+JAMES De FRONZO
+First published: February 1983
+https://doi.org/10.1111/j.1745-9125.1983.tb00254.x
+
+Lance Hannon, James Defronzo, The Truly Disadvantaged, Public Assistance, and Crime, Social Problems, Volume 45, Issue 3, 1 August 1998, Pages 383–392, https://doi.org/10.2307/3097192
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

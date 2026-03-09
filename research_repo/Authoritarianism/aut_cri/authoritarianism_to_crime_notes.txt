@@ -1,0 +1,3 @@
+Notes for Authoritarianism -> Crime influence:  ~ (-.06)
+
+Authoritarianism is given a small negative weight on Crime. Cross-national studies often find that stable autocracies report lower homicide and street-crime rates than transitional or weak democracies, even after basic controls. However, this effect is entangled with under-reporting and the displacement of violence into state repression rather than genuine social peace. I’m treating this as a very modest downward pressure on recorded crime, not as an endorsement of authoritarianism as ‘safer’ overall.

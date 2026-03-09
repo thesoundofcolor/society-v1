@@ -1,0 +1,5 @@
+Notes for this influence:
+
+Indirect influence. Perhaps when there is war or civil unrest, law enforcement may be positively influenced via regulations and policies that aim to secure and protect energy facilities. This requires higher-order context and is conditional. For this reason, let's just keep it practical and assign a NULL.
+
+0.0 	[01-02-2026 ~Evan L.]

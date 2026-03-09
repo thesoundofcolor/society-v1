@@ -1,4 +1,0 @@
-Notes for this influence:
-
-
-Maybe a small positive influence, but it is mostly indirect so we shall set this weight at 0.00

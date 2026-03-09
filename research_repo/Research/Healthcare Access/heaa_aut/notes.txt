@@ -1,9 +1,0 @@
-Notes for this influence:
-
-Healthcare Access to Authoritarianism = 0.0
-
-There is no direct structural pathway from increased healthcare access to increased authoritarian control. While authoritarian regimes may expand healthcare provisions as a tool to strengthen legitimacy and social stability (reverse direction), healthcare access itself does not inherently generate authoritarian tendencies.
-
-This remains a null direct influence in pairwise modeling.
-
-~Evan Levy 2/23/26

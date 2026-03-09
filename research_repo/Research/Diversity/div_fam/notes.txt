@@ -1,5 +1,0 @@
-Notes for this influence:
-
-Consensus believes this to be a positive weight, however, I think under the least amount of context there is a small negative influence on family values due to value mismatches, traditional deviations, and cross cultural social shifts.
-
-This might be incorrect, o please scrutinize this if need be and try different values, if not set it to zero to avoid convolution.

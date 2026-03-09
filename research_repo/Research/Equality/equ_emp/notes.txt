@@ -1,7 +1,0 @@
-Notes for this influence:
-
-+0.12 [01-08-26 ~Evan L.]
-
-More equality/equity corresponds with more opportunities through inclusion. This can actually be in the reverse (negative weight) if the inclusion is synthetic or ulteriorly motivated. 
-
-Corruption reaching a threshold can flip the influence maybe? Come back to this when tuning higher-orders.
