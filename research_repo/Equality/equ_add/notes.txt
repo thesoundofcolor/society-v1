@@ -1,3 +1,5 @@
 Notes for this influence:
 
-Equality itself does not show a correlation with addiction directly. The effects are predominantly indirect. There are surely pathways that higher-order influences could stimulate but for pairwise influence it is 0.0.
+Equality → Addiction = 0.0
+
+Equality itself does not show a correlation with addiction directly. If any, the effects are predominantly indirect.

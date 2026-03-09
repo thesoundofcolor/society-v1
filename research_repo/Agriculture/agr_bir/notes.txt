@@ -1,1 +1,5 @@
 Notes for this influence:
+
+Agriculture → Birthrate = .13
+
+Note needed here to explain research and weight coordination.

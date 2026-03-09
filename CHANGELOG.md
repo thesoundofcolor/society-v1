@@ -8,12 +8,14 @@
 
 ### Research Repo
 - **Addiction**
-  - Went back to complete note.txt files for addiction influences:
+  - Went back to add/update notes for addiction influences:
     - Add → Agr
+	- Add → Aut
   - Added research sources and files to:
 	- Add → Agr
-  - Added links to:
+  - Added/updated links to:
     - Add → Agr
+	- Add → Aut
   
 ### Intervention vs State Dynamics
 - Idea saved as interventio_vs_state_dynamics.md in ./notes/

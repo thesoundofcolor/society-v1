@@ -1,6 +1,8 @@
 Notes for this influence:
 
-Family Values -> Deathrate = 
+Family Values → Deathrate = 0.0
+
+No direct influence has been recorded in any empirical studies rsearched. Because there is no evidence so far, this is a zero weight.
 
 
 
