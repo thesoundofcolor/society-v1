@@ -1,5 +1,16 @@
 # Society V1 - Change Log
 
+## 2026-03-09
+
+### The 42
+- **v3.0**
+  - Added quotes to the header of each variable page
+- **v2.6**
+  - Finished *Agriculture* section (page 4)
+
+### Research Repo
+- **Addiction**
+
 ## 2026-03-08
 
 ### Repository
