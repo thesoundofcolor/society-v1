@@ -1,10 +1,11 @@
 # Society V1
+Society V1 is an artistic control board built around an experimental model of society. Rather than assigning values to societal forces in pursuit of an ideal outcome, the system attempts to model how those forces interact. It does this through a network of 42 conceptual variables, each represented by a physical slider.
 
-Society V1 is an artistic and experimental framework for modeling societal dynamics through a system of 42 interacting variables, each represented by a physical slider. These variables correspond to fundamental societal constructs (e.g., poverty, agriculture, education, freedom of speech, etc.) and interact through a structured network of conditional influences.
+Each variable corresponds to a broad societal construct (e.g., poverty, agriculture, education, freedom of speech, etc.) and exerts conditional influence on others through a structured matrix of weighted relationships. Moving a slider does not simply change a single variable; it perturbs the surrounding network, causing downstream variables to respond according to the directional influences between them.
 
-The project combines conceptual modeling, interdisciplinary research synthesis, and physical interface design to explore how changes in societal factors propagate through complex systems.
+The project combines conceptual modeling, interdisciplinary research synthesis, and physical interface design as a way to explore how changes in societal conditions propagate through complex systems.
 
-This repository contains the research materials, documentation, and development artifacts supporting the Society V1 model.
+This repository contains the research materials, documentation, and development artifacts that support the Society V1 model.
 
 # Repository
 
