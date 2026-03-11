@@ -1,1 +1,33 @@
 Notes for this influence:
+
+Addiction → Education Access = -0.07
+
+Addiction has a small but direct negative influence on education access. Substance use disorders can impair academic performance, reduce attendance, and in some cases lead to disciplinary exclusion from educational institutions. However, most of the stronger relationships between addiction and education operate through indirect pathways (poverty, crime, mental health, family instability). When isolating direct mechanisms only, the influence is present but relatively weak.
+
+~ E. Levy 3/11/26
+
+**Shapes**
+I am thinking linear or soft logorithmic.
+
+- Linear
+  - Totally acceptable if I want to keep this simple. Addiction steadily reduces education access in proportion to severity. Because the effect is very small, more complex curves might be indistinguishable from linear ones.
+
+- Soft logistic / threshold
+  - Probably more realistic. At lower levels, school programs, leniency, and personal resilience can keep doors open. As addiction severity rises, disciplinary action becomes more likely and the person is more likely to redirect effort and agency toward feeding the addiction instead of maintaining access to education.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

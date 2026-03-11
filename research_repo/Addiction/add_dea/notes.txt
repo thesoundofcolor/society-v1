@@ -1,1 +1,52 @@
 Notes for this influence:
+
+Addiction → Death Rate = +0.31
+
+Addiction has a direct and well-documented influence on mortality. The most obvious mechanism is overdose, but the pathway is broader than that. Substance use disorders elevate mortality through multiple channels including poisoning/overdose, disease progression, organ damage, accidents while intoxicated, suicide, and violence. Of course, the focus here is only on deaths where the outcome can reasonably be attributed to substance use or addiction-related behaviors, including situations where criminal or risky actions were motivated by addiction even if the individual was not actively intoxicated at the time.
+
+Longitudinal studies consistently show significantly elevated death rates among individuals with substance use disorders compared to the general population.
+ 
+See:
+- joe-et-al-2011-addict-death-rates-during-a-four-year-posttreatment-follow-up.pdf
+- joe-simpson-2011-mortality-rates-among-opioid-addicts-in-a-longitudinal-study.pdf
+
+Several of the studies in this repo track cohorts of individuals with opioid or substance use disorders over multiple years and repeatedly show mortality rates that are several times higher than baseline population levels. The exact magnitude varies by substance, population, and follow-up duration, but the signal is extremely consistent across the literature.
+
+Because the relationship is direct, biologically grounded, and repeatedly observed in cohort studies, a moderately strong positive influence is appropriate here.
+
+Reasonable range from the literature:
++0.24 to +0.38
+
+This places the direct influence at a very high level, reflecting that addiction meaningfully increases mortality risk while still allowing other variables (healthcare access, mental health, poverty, violence, etc.) to contribute independently to the death-rate node.
+
+Shapes
+
+Linear
+- Perfectly acceptable for Society V1. Mortality pressure rises proportionally with addiction prevalence.
+
+Logistic 
+- Probably the most realistic. Mortality risk increases rapidly as addiction becomes more prevalent but eventually saturates due to population limits and overlapping causes of death.
+
+Threshold (mild)
+- Could represent the point where addiction prevalence becomes large enough to noticeably elevate population mortality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

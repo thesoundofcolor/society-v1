@@ -1,0 +1,10 @@
+10% - Negligible: Barely detectable; almost non-existent.
+20% - Minimal: Present in small amounts; minimal impact.
+30% - Slight: Recognizable, but minor (akin to "light" or "annoyance" level).
+40% - Sparse: Scattered or thin; noticeable but thin distribution.
+50% - Moderate: Mid-range; clearly present and typical.
+60% - Substantial: A solid, significant, or ample amount.
+70% - Heavy: High in concentration or volume; weighty.
+80% - Intensive: Concentrated, rapid, or profound action.
+90% - Extreme/Severe: Highest intensity, approaching maximum; harsh.
+100% - Total/Absolute: Complete and total; no exceptions

@@ -1,6 +1,17 @@
 # Society V1 - Change Log
 Path-Dependent Influence Weights
 
+## 2026-03-11
+
+### Anatomy of the 42
+- **v3.1.2**
+  - Added more edge summary entries for *Addiction*
+  
+### Research Repo
+- *Addiction*
+  - Read more papers and added some to Addiction to crime, cost of living, education access, and death rate.
+  -Added notes for Addiction output directories: Cost of Living, Crime, Death Rate, Education Access
+
 ## 2026-03-10
 
 ### The 42
