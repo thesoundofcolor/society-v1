@@ -10,6 +10,9 @@ Path-Dependent Influence Weights
   - Careated variable formatting macro; now every variable is formatted with: \var{variable name}
   - Changed title from *"Society V1: The 42"* to *"Society V1, Anatomy of the 42"*
   - Worked on making a matrix edge graph using TikZ library but not actually added yet
+  
+### README
+- Updated main project README.md, I felt like it was too technical. The project is already so hard to explain to people, gotta lighten things up a bit!
 
 
 ## 2026-03-09

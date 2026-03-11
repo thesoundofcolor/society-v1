@@ -22,14 +22,14 @@ The conceptual and technical foundations of Society V1 are described in the foll
 
 - Whitepaper
 
-- The 42
+- Anatomy of the 42
   - Defines each of the system’s variables, including conceptual scope, included and excluded components, measurement considerations, and methodological notes.
 
 - Computational & Mathematical Architecture (CMA)
   - Describes the influence engine and mathematical framework governing interactions between variables within the model.
 
 - Physical system Architecture PSA
-
+  - Physical construction details, circuit design, 3D modeling, and mechanical details.
 
 # Repository Structure
 
