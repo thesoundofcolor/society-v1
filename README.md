@@ -28,10 +28,11 @@ This repository serves several functions:
 
 The conceptual and technical foundations of Society V1 are described in the following primary documents:
 
-- Whitepaper
+- **[Whitepaper](documents/Whitepaper/Society_v1_v1.11.pdf)**
+  - Overview of Society V1. For anyone unfamiliar with the project, start here.
 
-- Anatomy of the 42
-  - Defines each of the system’s variables, including conceptual scope, included and excluded components, measurement considerations, and methodological notes.
+- **[Anatomy of the 42](documents/'The 42'/The_42_v3.1.pdf)**
+  - Defines each of the system’s variables, outlining conceptual scope, included and excluded components, measurement considerations, and methodological notes.
 
 - Computational & Mathematical Architecture (CMA)
   - Describes the influence engine and mathematical framework governing interactions between variables within the model.
