@@ -1,5 +1,9 @@
 # Society V1
-Society V1 is an artistic control board built around an experimental model of society. Rather than assigning values to societal forces in pursuit of an ideal outcome, the system attempts to model how those forces interact. It does this through a network of 42 conceptual variables, each represented by a physical slider.
+Society V1 is an experimental simulation of societal dynamics presented through a physical control board. The system represents 42 conceptual forces within society; variables such as poverty, agriculture, education, freedom of speech, and others, each mapped to a physical slider.
+
+Rather than assigning values to produce a desired outcome, the model attempts to represent how these forces interact using an influence network informed by aggregated research, comparative data, and structured reasoning.
+
+Moving a slider does not simply change a single variable. It alters the pressures acting across the entire system.
 
 Each variable corresponds to a broad societal construct (e.g., poverty, agriculture, education, freedom of speech, etc.) and exerts conditional influence on others through a structured matrix of weighted relationships. Moving a slider does not simply change a single variable; it perturbs the surrounding network, causing downstream variables to respond according to the directional influences between them.
 
@@ -69,7 +73,7 @@ This risk can be mitigated through the introduction of additional minds.
 
 Please send help.
 
-# Use & Discussion
+# Open Use
 
 The materials in this repository are provided for research, discussion, and educational purposes. Readers are encouraged to examine the sources, question assumptions, and explore alternative interpretations.
 
