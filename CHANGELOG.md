@@ -13,6 +13,8 @@ Path-Dependent Influence Weights
   
 ### README
 - Updated main project README.md, I felt like it was too technical. The project is already so hard to explain to people, gotta lighten things up a bit!
+- Repo structure directory list was not formatted as a list; it is now fixed
+- Revised Authorship and Use & Discussion
 
 
 ## 2026-03-09

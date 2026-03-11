@@ -49,10 +49,28 @@ The repository is organized into several major directories:
 
 Society V1 is an ongoing research and development effort. Conceptual definitions, influence relationships, and supporting documentation may evolve as additional research and analysis are incorporated.
 
+# Model Limitations
+
+Society V1 is an experimental model intended to explore relationships between conceptual societal variables. It is not a predictive engine, nor should its outputs be interpreted as authoritative conclusions about real-world societies.
+
+The model attempts to synthesize insights from research literature, empirical data, and disciplined reasoning into a structured system of interacting variables. However, any attempt to compress complex social phenomena into a finite set of parameters necessarily introduces simplifications, assumptions, and potential biases.
+
+The purpose of the system is therefore exploratory rather than definitive. Its value lies in provoking questions, revealing possible interaction pathways, and encouraging deeper investigation into the dynamics of social systems.
+
+This project is not meant to earn a doctorate or appear in a scientific journal. Readers should treat the model as a conceptual instrument, a tool for thought, a profound simulation, a thought-provoking art piece,  rather than a final description of reality.
+
 # Authorship
 
-The system is currently developed by a single modeler synthesizing research across multiple disciplines in an effort to construct a structured representation of societal dynamics. Hopefully he has not gone completely insane before the project is complete. This can be mitigated through the use of peer assistance. Please send help.
+The system is currently developed by a single modeler synthesizing research across multiple disciplines in an attempt to construct a structured representation of societal dynamics.
 
-# Use and Discussion
+Whether this individual remains sane by the time the project is complete remains uncertain.
 
-The materials in this repository are provided for research, discussion, and educational purposes. Readers are encouraged to examine the sources, question assumptions, and explore alternative interpretations. This is an open source project, Society is for society...
+This risk can be mitigated through the introduction of additional minds.
+
+Please send help.
+
+# Use & Discussion
+
+The materials in this repository are provided for research, discussion, and educational purposes. Readers are encouraged to examine the sources, question assumptions, and explore alternative interpretations.
+
+This is an open source project. Society belongs to society.
