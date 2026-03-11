@@ -1,15 +1,19 @@
 # Society V1
-Society V1 is an experimental simulation of societal dynamics presented through a physical control board. The system represents 42 conceptual forces within society; variables such as poverty, agriculture, education, freedom of speech, and others, each mapped to a physical slider.
+Society V1 is a machine built to interact with an abstraction of society.
 
-Rather than assigning values to produce a desired outcome, the model attempts to represent how these forces interact using an influence network informed by aggregated research, comparative data, and structured reasoning.
+It is a physical control board designed to explore an experimental simulation of societal dynamics. At first glance it appears to be nothing more than a panel of sliders and motors driving a piece of software. In truth, it is something stranger: an instrument composed of 42 motorized sliders, each representing a conceptual force operating within society, variables such as poverty, agriculture, education, freedom of speech, and many others.
 
-Moving a slider does not simply change a single variable. It alters the pressures acting across the entire system.
+Moving a slider does not simply adjust a number or trigger a programmed response. It changes the pressures acting across an interconnected system. When one force shifts, the surrounding network responds, propagating influence through the system and reshaping the collective state of the model.
 
-Each variable corresponds to a broad societal construct (e.g., poverty, agriculture, education, freedom of speech, etc.) and exerts conditional influence on others through a structured matrix of weighted relationships. Moving a slider does not simply change a single variable; it perturbs the surrounding network, causing downstream variables to respond according to the directional influences between them.
+The relationships between these variables are not arbitrarily chosen to produce a desirable outcome, though bias inevitably creeps in. Instead, they are constructed from aggregated empirical research, comparative data, and conservative reasoning, methodically distilled to approximate how real societal forces push and pull against one another.
 
-The project combines conceptual modeling, interdisciplinary research synthesis, and physical interface design as a way to explore how changes in societal conditions propagate through complex systems.
+Under the hood, real-world data extracted from research is combined with a bit of mathematical magic. Through the use of transformation matrices, conditional non-linear algebra, activation functions, and influence-shaping mechanisms, slider movements are translated into system-wide responses grounded in observable dynamics.
 
-This repository contains the research materials, documentation, and development artifacts that support the Society V1 model.
+Of course, no machine can truly simulate a society. The complexity of human systems exceeds anything that can be captured in a finite model. Society V1 therefore approaches the problem through deliberate reduction: compressing vast social forces into structured relationships that can be manipulated and observed.
+
+The result is an impossible device, a controller for interacting with an abstraction of society itself.
+
+This repository contains the research materials, documentation, and development artifacts supporting the Society V1 system.
 
 # Repository
 
