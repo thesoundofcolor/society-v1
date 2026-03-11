@@ -35,15 +35,15 @@ The conceptual and technical foundations of Society V1 are described in the foll
 
 The repository is organized into several major directories:
 
-documents/        Formal system documentation and conceptual descriptions
-research_repo/    Research sources and reference materials organized by variable
-math/             Mathematical modeling, including notes and derivations
-engine/           The influence engine; the part of SV1 that lives in software
-design			  Hardware design; Including circuit design, body/enclosure, and mechanical concepts related to the physical features of SV1
-notes/            Working notes and exploratory ideas
-images/           Diagrams and visual materials
-archive/          Historical drafts and deprecated materials
-testing/		  Safe place for testing things out, like simulations, code, math, etc. A sandbox directory.
+- documents/        Formal system documentation and conceptual descriptions
+- research_repo/    Research sources and reference materials organized by variable
+- math/             Mathematical modeling, including notes and derivations
+- engine/           The influence engine; the part of SV1 that lives in software
+- design			  Hardware design; Including circuit design, body/enclosure, and mechanical concepts related to the physical features of SV1
+- notes/            Working notes and exploratory ideas
+- images/           Diagrams and visual materials
+- archive/          Historical drafts and deprecated materials
+- testing/		  Safe place for testing things out, like simulations, code, math, etc. A sandbox directory.
 
 # Project Status
 
@@ -51,8 +51,8 @@ Society V1 is an ongoing research and development effort. Conceptual definitions
 
 # Authorship
 
-The system is currently developed by a single modeler synthesizing research across multiple disciplines in an effort to construct a structured representation of societal dynamics.
+The system is currently developed by a single modeler synthesizing research across multiple disciplines in an effort to construct a structured representation of societal dynamics. Hopefully he has not gone completely insane before the project is complete. This can be mitigated through the use of peer assistance. Please send help.
 
 # Use and Discussion
 
-The materials in this repository are provided for research, discussion, and educational purposes. Readers are encouraged to examine the sources, question assumptions, and explore alternative interpretations.
+The materials in this repository are provided for research, discussion, and educational purposes. Readers are encouraged to examine the sources, question assumptions, and explore alternative interpretations. This is an open source project, Society is for society...
