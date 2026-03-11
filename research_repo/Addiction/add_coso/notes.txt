@@ -1,1 +1,28 @@
-Notes for this influence:
+Notes for Addiction -> Cost of Living influence:
+
+Addiction -> Cost of Living = +0.15
+
+This is a moderate positive direct influence.  Most of the actual influence is indirect.
+
+The connection here is not really about prices directly, but about the economic burden addiction places on society as a whole. Health care utilization, lost productivity, disability, crime-related costs, housing instability, and other downstream pressures all contribute to economic strain that ultimately exerts a positive affordability pressure. (negative effect (a bad thing), but positive weight; more cost of living)
+
+This is a distributed effect rather than a direct pricing mechanism, so the weight shouldn't be too high. Still, the cumulative burden across multiple sectors seems large enough that a moderate positive influence is justified.
+
+This is likely nonlinear in reality. Small levels of addiction are manageable, but once prevalence rises the economic and social burden compounds more quickly.
+
+
+**Shape**
+ Mild accelerating non-linear
+
+**WARNING**
+Might run into problems if this isn't managed precisely. I might need to reanalyze cost of living entirely but we shall see. 
+Beware of: 
+Addiction → Cost of Living
+Addiction → Employment
+Addiction → Poverty
+Addiction → Health Burden
+Employment → Poverty
+Poverty → Cost of Living
+Health Burden → Cost of Living
+
+keeping it moderate instead of large prevents double-counting influence through multiple routes in network.

@@ -1,1 +1,29 @@
-Notes for this influence:
+
+Addiction → Crime = +0.30
+
+Substance use disorders show a strong and consistent association with criminal activity. Crimes may arise from intoxication effects, impaired judgment, or economic pressure to finance substance use. Criminal justice populations consistently show high prevalence of addiction-related disorders, and multiple crime categories are elevated among individuals with substance abuse problems. 
+
+see "sar-9-001.pdf" in repo
+
+Given the strength and directness of this relationship in the literature, a moderately strong positive influence is reasonable.
+
+Between +0.22 and +0.37
+
+~ E. Levy 3/10/26
+
+**Shaping**
+- Linear for this could totally work.
+
+- Logistic/Saturating curve could be more realistic. Also, not very difficult
+  - y = 1 / (1 + e^(-k(x - x_{0})))
+  - In GeoGebra: y = \frac{1}{1 + e^{-k(x-x_0)}}
+  
+- Threshold Curve (policy-relevant) This seems a bit aggressive to me, but it could work
+  - low addiction → minimal crime influence
+    mid addiction → sharp increase
+    high addiction → strong influence
+	
+	This could represent social tipping points, where addiction prevalence becomes large enough to destabilize communities.
+	
+	Maybe something like:
+	y = x^2

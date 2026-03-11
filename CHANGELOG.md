@@ -1,15 +1,30 @@
 # Society V1 - Change Log
+Path-Dependent Influence Weights
+
+## 2026-03-10
+
+### The 42
+- **v3.1**
+  - Added rhettorical questions section to front page paragraph.
+  - Worked on Addiction's edge weights table
+  - Careated variable formatting macro; now every variable is formatted with: \var{variable name}
+  - Changed title from *"Society V1: The 42"* to *"Society V1, Anatomy of the 42"*
+  - Worked on making a matrix edge graph using TikZ library but not actually added yet
+
 
 ## 2026-03-09
 
 ### The 42
 - **v3.0**
   - Added quotes to the header of each variable page
+  - Second page for each variable to show influence pathway table
 - **v2.6**
   - Finished *Agriculture* section (page 4)
 
 ### Research Repo
 - **Addiction**
+  - Not really much changed, I spent most of the day reading through and making sure all research was valid.
+
 
 ## 2026-03-08
 
@@ -18,8 +33,11 @@
 - Moved research repo to root directory
 
 ### Research Repo
+- Renamed Ukranian documents to have translated English file names
+- Found and deleted a random VPN .exe file in crime/cri_agr/  (whoops!)
+  - Still remains a mystery on why it was ther but it did correlate to my research work. So I either accidentally download a VPN installer instead of a research .pdf, perhaps a site installed it behind my back (unlikely), or another user followed behind me and installed it there. It was not intalled in my envioronment, and found no further threat. ~E.L. 
 - **Addiction**
-  - Went back to add/update notes for addiction influences:
+  - Add/update notes for addiction influences:
     - Add → Agr
 	- Add → Aut
   - Added research sources and files to:
@@ -30,6 +48,7 @@
   
 ### Intervention vs State Dynamics
 - Idea saved as interventio_vs_state_dynamics.md in ./notes/
+
 
 ## 2026-03-07
 
@@ -42,6 +61,7 @@
   - Added references to companion documents:
     - *Society V1: Whitepaper*
   - Convinced myself page 1 is actually done, but we will see how long that actually lasts (X_x)
+
 
 ## 2026-03-06
 
@@ -63,6 +83,7 @@
   - Intional influences would be conditional, maybe if you press a button, like a clutch, any user input would use different weights on the influence edge.
     - Not only isn't this a new layer of complexity but it may be impossible to articulate.
 	- It would bring the model closer to real-life, but it also might introduce a level of incohereance that might ruin the mechanics. This is just an idea right now...
+
 
 ## 2026-03-05
 
