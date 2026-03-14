@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Project Questions
+    url: https://github.com/thesoundofcolor/society-v1/issues
+    about: Ask general questions about the model or repository.
+
+  - name: Contribution Guide
+    url: https://github.com/thesoundofcolor/society-v1/blob/main/CONTRIBUTING.md
+    about: Please read the contribution guidelines before submitting an issue.
