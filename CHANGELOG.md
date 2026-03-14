@@ -2,14 +2,30 @@
 
 ## 2026-03-14
 
+### Repository
+- Updated README.md (main)
+- Added main repo documents
+	- Created CONTRIBUTING.md
+	- Created CITATION.cff
+	- Created LICENSE
+	- MODEL_SPECIFICATION.md (with example skeleton)
+- Created .github/ISSUE_TEMPLATE/
+	- Issue templates and config.yml
+	- Templates added:
+		- Bug report
+		- Documentation Issue
+		- Questions
+		- Research Issue
+	
 ### Anatomy of the 42
 - **v3.1.3**
 	- Added to Addiction edge summary table:
-		- Addiciton → Education Access
+		- Revised summaries
 
 ### Research Repo
-- Addiction → Education Quality
+- Addiction → Family Values
   - Updated notes.txt
+
 
 
 ## 2026-03-13
