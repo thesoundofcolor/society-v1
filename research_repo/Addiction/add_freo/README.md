@@ -6,4 +6,4 @@ It can, however, severely influence the ability to actually speak. A good illust
 
 This is a biochemical impairment, not a constitutional one.
 
-![Quaalude Scene Screenshot](images/random/wolf_of_wallstreet_quaalude_scene.jpg)
+![Quaalude Scene Screenshot](/images/random/wolf_of_wallstreet_quaalude_scene.jpg)
