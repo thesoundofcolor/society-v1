@@ -1,10 +1,8 @@
-
 # Society V1: A Social Calculator
 
 *A physical interface for exploring the forces that shape society.*
----
-## Quick Navigation
 
+## Quick Navigation
 Start here depending on what you're looking for:
 
 - **Understanding the project:**  
@@ -41,7 +39,6 @@ The result is an impossible device, a controller for interacting with an abstrac
 This repository contains the research materials, documentation, and development artifacts supporting the Society V1 system.
 
 # Repository
-
 This repository serves several functions:
 
 - Transparency, providing visibility into the research sources and reasoning informing the model.
@@ -50,7 +47,6 @@ This repository serves several functions:
 - It should be understood as a working research archive rather than a finalized publication.
 
 # Core Documents
-
 The conceptual and technical foundations of Society V1 are described in the following primary documents:
 
 - **[Whitepaper](documents/whitepaper/Society_v1_v1.11.pdf)**
@@ -66,7 +62,6 @@ The conceptual and technical foundations of Society V1 are described in the foll
   - Physical construction details, circuit design, 3D modeling, and mechanical details.
 
 # Repository Structure
-
 The repository is organized into several major directories:
 
 - documents/        Formal system documentation and conceptual descriptions
@@ -80,11 +75,9 @@ The repository is organized into several major directories:
 - testing/		  Safe place for testing things out, like simulations, code, math, etc. A sandbox directory.
 
 # Project Status
-
 Society V1 is an ongoing research and development effort. Conceptual definitions, influence relationships, and supporting documentation may evolve as additional research and analysis are incorporated.
 
 # Model Limitations
-
 Society V1 is an experimental model intended to explore relationships between conceptual societal variables. It is not a predictive engine, nor should its outputs be interpreted as authoritative conclusions about real-world societies.
 
 The model attempts to synthesize insights from research literature, empirical data, and disciplined reasoning into a structured system of interacting variables. However, any attempt to compress complex social phenomena into a finite set of parameters necessarily introduces simplifications, assumptions, and potential biases.
@@ -94,7 +87,6 @@ The purpose of the system is therefore exploratory rather than definitive. Its v
 This project is not meant to earn a doctorate or appear in a scientific journal. Readers should treat the model as a conceptual instrument, a tool for thought, a profound simulation, a thought-provoking art piece,  rather than a final description of reality.
 
 # Authorship
-
 The system is currently developed by a single modeler synthesizing research across multiple disciplines in an attempt to construct a structured representation of societal dynamics.
 
 Whether this individual remains sane by the time the project is complete remains uncertain.
@@ -104,7 +96,6 @@ This risk can be mitigated through the introduction of additional minds.
 Please send help.
 
 # Open Use
-
 The materials in this repository are provided for research, discussion, and educational purposes. Readers are encouraged to examine the sources, question assumptions, and explore alternative interpretations.
 
 This is an open source project. Society belongs to society.
