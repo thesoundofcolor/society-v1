@@ -1,1 +1,68 @@
 Notes for this influence:
+
+Addiction → Family Values = -0.21
+
+Substance addiction destabilizes family structures and weakens the transmission of family values through several pathways:
+
+- Household instability
+  - Addiction introduces financial strain, unpredictability, and conflict into the household.
+  - Priorities often shift from long-term responsibilities to short-term substance maintenance.
+
+- Parental capacity deterioration
+  - Intoxication, withdrawal cycles, and declining health reduce caregiving consistency.
+  - Children experience reduced supervision, emotional availability, and structure.
+
+- Family conflict and breakdown
+  - Addiction is strongly associated with:
+    - divorce and separation
+    - domestic conflict
+    - neglect and abuse risk
+  - Trust within the household erodes as addiction becomes the dominant organizing force in family life.
+
+- Intergenerational transmission
+  - Children raised in high-addiction environments face higher exposure to trauma and unstable attachment patterns.
+  - These conditions weaken the transmission of norms, traditions, and family stability across generations.
+
+Empirical research consistently links substance use disorders to family disruption and impaired parental functioning.
+
+The effect is strong but not maximal because:
+
+- Many families maintain cohesion despite addiction in one member.
+- Extended family, community, or religious networks can buffer some of the damage.
+- Recovery and treatment can partially restore family relationships and values.
+
+**Shapes**
+
+- Soft logistic decline
+
+  - Low addiction prevalence → most families remain stable; values create resistance at first.
+  - Moderate addiction prevalence → noticeable increases in family conflict, instability, and breakdown.
+  - High addiction prevalence → family structures deteriorate more rapidly as addiction becomes normalized within communities and multiple household members are affected.
+
+Shape note: Family systems tolerate isolated addiction cases, but once addiction becomes common within a social network or community the ability of families to maintain consistent norms and structure declines more rapidly.
+
+- Mild threshold curve (possibly with a kink indicating early resistance)
+
+  - Healthy families with strong values may be able to resist early addiction pressures through caring social networks, financial and emotional support, and spiritual or cultural guidance.
+
+  - Family systems are somewhat shock-absorbing. One addicted individual does not always collapse the family unit, but once instability crosses a certain threshold deterioration accelerates. In severe cases, a single deeply addicted family member can reach a tipping point where the entire household begins to unravel.
+  
+ **Higher-order Note:**
+ Once family cohesion deteriorates, secondary effects propagate into mental health, education stability, and crime risk.
+ 
+ **Warning**
+Even though the direct weight is −0.21, the system influence could become much larger through propagation.
+
+Be very aware of these edges and look out for feedback loops!
+ 
+Addiction
+	↓
+Family Values
+	↓
+Mental Health / Childhood Stability
+	↓
+Crime / Education / Addiction risk
+	↓
+Addiction
+
+~Evan Levy 3/13/26

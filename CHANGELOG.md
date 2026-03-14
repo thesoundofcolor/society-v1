@@ -1,6 +1,31 @@
 # Society V1 - Change Log
 Path-Dependent Influence Weights
 
+## 2026-03-13
+
+### Anatomy of the 42
+- Addiction edge summary table:
+	- Addiciton → Education Access
+	- Addiciton → Education Quality
+	- Addiciton → Employment
+	- Addiciton → Equality
+	- Addiciton → Family Values
+
+### Research Repo
+- Addiction → Education Quality
+  - Updated notes.txt
+- Addiciton → Employment
+  - Added research to repo
+  - notes.txt and links.txt
+- Addiciton → Education Cost
+  - Updated note.txt and links.txt
+- Addiciton → Equality
+  - notes.txt and links.txt
+  - Added more research
+- Addiciton → Family Values
+  - notes.txt and links.txt 
+  - Added more research
+
 ## 2026-03-11
 
 ### Anatomy of the 42

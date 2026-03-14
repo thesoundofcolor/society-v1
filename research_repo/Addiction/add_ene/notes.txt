@@ -1,1 +1,5 @@
 Notes for this influence:
+
+Addiction → Energy Production = 0.0
+
+Not a direct influence. (More Addiction levels does not correlate to more/or less Energy production)

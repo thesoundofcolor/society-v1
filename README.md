@@ -1,5 +1,5 @@
 # Society V1
-Society V1 is a machine built to interact with an abstraction of society.
+Society V1 is a machine built to interact with an abstraction of society. 
 
 It is a physical control board designed to explore an experimental simulation of societal dynamics. At first glance it appears to be nothing more than a panel of sliders and motors driving a piece of software. In truth, it is something stranger: an instrument composed of 42 motorized sliders, each representing a conceptual force operating within society, variables such as poverty, agriculture, education, freedom of speech, and many others.
 
@@ -34,10 +34,10 @@ The conceptual and technical foundations of Society V1 are described in the foll
 - **[Anatomy of the 42](documents/Anatomy_of_the_42/The_42_v3.1.pdf)**
   - Defines each of the system’s variables, outlining conceptual scope, included and excluded components, measurement considerations, and methodological notes.
 
-- Computational & Mathematical Architecture (CMA)
+- Computational & Mathematical Architecture (CMA) *Status: Pending*
   - Describes the influence engine and mathematical framework governing interactions between variables within the model.
 
-- Physical system Architecture PSA
+- Physical system Architecture (PSA) *Status: Pending*
   - Physical construction details, circuit design, 3D modeling, and mechanical details.
 
 # Repository Structure

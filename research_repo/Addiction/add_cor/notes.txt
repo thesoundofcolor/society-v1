@@ -1,1 +1,5 @@
 Notes for this influence:
+
+Addiction → Corruption = 0.0
+
+Not a direct influence; addiction itself does not increase/decrease corruption levels

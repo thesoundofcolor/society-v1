@@ -1,1 +1,58 @@
 Notes for this influence:
+
+Addiction → Employment = -0.23
+
+Substance addiction measurably reduces the likelihood of obtaining and maintaining employment through several different pathways:
+
+- Reduced hiring probability lowers job acquisition rates
+  - HR/hiring drug screen policy or employers may view it as a risk due to reliability, security, or safety concerns.
+
+- Job retention is threatened, leading to termination or quitting:
+	- Workplace performance decays leading to termination
+	- Disengagement; motivation and responsibility lower
+	  - Long-term addiction frequently leads to unstable income strategies (informal work, survival economies) rather than formal employment
+	- Addiction increases:
+		- absenteeism
+		- impaired cognitive performance
+		- workplace accidents
+		- interpersonal conflict
+		- disciplinary termination
+
+- Health and legal instability
+  - Chronic substance use increases illness, injury, and criminal justice involvement, all of which disrupt labor participation.
+
+Empirical studies consistently find higher unemployment persistence among individuals with substance use disorders and lower transition rates into employment.
+
+
+The effect is moderately strong rather than strong because:
+
+- Many individuals with addiction remain employed.
+- Certain labor sectors tolerate substance use more than others.
+- Treatment and recovery programs partially restore employability.
+- Stigma toward addiction is less hostile than in the past; many employers will be understanding and may even provide assistance for treatment or time to improve.
+
+
+**Caution****
+This edge participates in a reinforcing loop with unemployment and poverty:
+Addiction
+	↓
+Employment
+	↓
+Income stability
+	↓
+Economic stress
+	↓
+Addiction
+
+
+We can also think not only about the employee being affected by addiction, but also the employer. If addiction prevalence is high enough, some employers or managers may also struggle with addiction, reducing workplace stability and organizational reliability.
+
+
+**Shapes**
+
+- *Soft logistic decline*
+	- Low addiction levels → minimal impact on employment
+	- Moderate addiction → noticeable drop in employment stability and hiring probability
+	- High addiction prevalence → employment participation declines more rapidly due to compounding social and health effects
+
+Shape note: Early or minor substance use often remains compatible with employment, but as addiction severity increases the ability to maintain consistent work deteriorates nonlinearly.

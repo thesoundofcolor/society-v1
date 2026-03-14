@@ -1,1 +1,14 @@
 Notes for this influence:
+
+Addiction → Equality = -0.11
+
+Addiction modestly erodes equality by disproportionately impacting already disadvantaged populations. Substance use disorders correlate strongly with lower socioeconomic status and can reinforce class stratification through mechanisms such as reduced employment stability, criminal justice involvement, health deterioration, family instability, and social pressure.
+
+However, most of addiction’s influence on equality is indirect, flowing through other variables already present; particularly Employment, Poverty, Education, Crime, and Health. Because those pathways capture the bulk of the causal transmission, the direct edge from Addiction to Equality should remain relatively weak to avoid double-counting systemic effects. (between -0.05 and -0.14)
+
+This edge represents residual inequality amplification: addiction tends to concentrate harm among vulnerable populations and suppress upward mobility, subtly widening social gaps over time.
+
+Shape:
+Primary: Linear; influence scales gradually with addiction prevalence.
+
+Secondary: Reverse saturation; at very high addiction levels the inequality effect tapers, as harm becomes broadly distributed across the population rather than concentrated within specific groups.

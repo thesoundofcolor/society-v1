@@ -1,1 +1,42 @@
 Notes for this influence:
+
+Addiction → Education Quality = -0.17
+
+This is a moderately negative influence. Addiction degrades learning quality through impaired concentration, poorer academic performance, absenteeism, disciplinary problems, and broader classroom disengagement. However, some of the stronger observed effects are likely indirect, channeled through other variables such as mental health, sleep, family instability, and poverty. So while this edge should be stronger than Addiction → Education Access, I think -0.17 is probably a middle value if I am isolating direct influence only.
+
+My likely range: -0.14 to -0.20 (Maybe -0.22 at the very most)
+
+~ E. Levy 3/13/26
+
+**Shaping**
+Linear
+- Acceptable for V1. Educational performance degrades proportionally with addiction severity.
+
+Soft logistic / threshold
+- More realistic and not difficult to implement; I do worry about multi-path overlap, but hopefully careful weight tuning and balanced echo effect will protect overflow. Institutions can compensate at low levels, but as addiction prevalence rises classroom stability and academic performance degrade more rapidly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
