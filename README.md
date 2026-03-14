@@ -64,15 +64,15 @@ The conceptual and technical foundations of Society V1 are described in the foll
 # Repository Structure
 The repository is organized into several major directories:
 
-- documents/        Formal system documentation and conceptual descriptions
-- research_repo/    Research sources and reference materials organized by variable
-- math/             Mathematical modeling, including notes and derivations
-- engine/           The influence engine; the part of SV1 that lives in software
-- design			  Hardware design; Including circuit design, body/enclosure, and mechanical concepts related to the physical features of SV1
-- notes/            Working notes and exploratory ideas
-- images/           Diagrams and visual materials
-- archive/          Historical drafts and deprecated materials
-- testing/		  Safe place for testing things out, like simulations, code, math, etc. A sandbox directory.
+- `documents/`        Formal system documentation and conceptual descriptions
+- `research_repo/`    Research sources and reference materials organized by variable
+- `math/`             Mathematical modeling, including notes and derivations
+- `engine/`           The influence engine; the part of SV1 that lives in software
+- `design/`			  Hardware; embedded electronics and mechanical designs related to the physical features of SV1
+- `notes/`            Working notes and exploratory ideas
+- `images/`           Diagrams and visual materials
+- `archive/`          Historical drafts and deprecated materials
+- `testing/`		  Safe place for testing things out, like simulations, code, math, etc. A sandbox directory.
 
 # Project Status
 Society V1 is an ongoing research and development effort. Conceptual definitions, influence relationships, and supporting documentation may evolve as additional research and analysis are incorporated.
