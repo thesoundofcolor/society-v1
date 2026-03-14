@@ -49,20 +49,22 @@ Shape note: Family systems tolerate isolated addiction cases, but once addiction
   
  **Higher-order Note:**
  Once family cohesion deteriorates, secondary effects propagate into mental health, education stability, and crime risk.
- 
- **Warning**
-Even though the direct weight is −0.21, the system influence could become much larger through propagation.
 
-Be very aware of these edges and look out for feedback loops!
- 
-Addiction
-	↓
-Family Values
-	↓
-Mental Health / Childhood Stability
-	↓
-Crime / Education / Addiction risk
-	↓
-Addiction
+>
+> ***Warning***
+>Even though the direct weight is −0.21, the system influence could become much larger through propagation.
+>
+>- **Be very aware of these edges and look out for feedback loops!**
+> 
+>             Addiction
+>	             ↓
+>           Family Values
+>	            ↓↓
+>     Mental Health / Employment
+>	            ↓↓↓
+>   Crime / Poverty / Spirituality
+>	            ↓↓↓↓
+>             Addiction
+>
 
 ~Evan Levy 3/13/26

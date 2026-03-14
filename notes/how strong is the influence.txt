@@ -1,3 +1,5 @@
+Reference notes for doing output edge summaries for 'Anatomoy of the 42'
+
 10% - Negligible: Barely detectable; almost non-existent.
 20% - Minimal: Present in small amounts; minimal impact.
 30% - Slight: Recognizable, but minor (akin to "light" or "annoyance" level).
@@ -8,3 +10,13 @@
 80% - Intensive: Concentrated, rapid, or profound action.
 90% - Extreme/Severe: Highest intensity, approaching maximum; harsh.
 100% - Total/Absolute: Complete and total; no exceptions
+
+Or this ladder, which I like better:
+Negligible
+Slight
+Moderate
+Substantial
+Strong
+Significant
+Heavy
+Extreme

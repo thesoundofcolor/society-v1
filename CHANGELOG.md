@@ -1,5 +1,16 @@
-# Society V1 - Change Log
-Path-Dependent Influence Weights
+# Society V1 - Captian's Log
+
+## 2026-03-14
+
+### Anatomy of the 42
+- **v3.1.3**
+	- Added to Addiction edge summary table:
+		- Addiciton → Education Access
+
+### Research Repo
+- Addiction → Education Quality
+  - Updated notes.txt
+
 
 ## 2026-03-13
 
