@@ -4,12 +4,13 @@ Path-Dependent Influence Weights
 ## 2026-03-13
 
 ### Anatomy of the 42
-- Addiction edge summary table:
-	- Addiciton → Education Access
-	- Addiciton → Education Quality
-	- Addiciton → Employment
-	- Addiciton → Equality
-	- Addiciton → Family Values
+- **v3.1.3**
+	- Added to Addiction edge summary table:
+		- Addiciton → Education Access
+		- Addiciton → Education Quality
+		- Addiciton → Employment
+		- Addiciton → Equality
+		- Addiciton → Family Values
 
 ### Research Repo
 - Addiction → Education Quality
