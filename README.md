@@ -1,5 +1,30 @@
-# Society V1
-Society V1 is a machine built to interact with an abstraction of society. 
+
+# Society V1: A Social Calculator
+
+*A physical interface for exploring the forces that shape society.*
+---
+## Quick Navigation
+
+Start here depending on what you're looking for:
+
+- **Understanding the project:**  
+  [Whitepaper](documents/whitepaper/Society_v1_v1.11.pdf)
+
+- **Variable definitions:**  
+  [Anatomy of the 42](documents/Anatomy_of_the_42/The_42_v3.1.pdf)
+
+- **Mathematical architecture:**  
+  Computational & Mathematical Architecture (coming soon)
+
+- **Physical system design:**  
+  Physical System Architecture (coming soon)
+
+- **Contributing or reporting issues:**  
+  [CONTRIBUTING.md](blob/main/CONTRIBUTING.md)
+
+---
+
+***Society V1 is a machine built to interact with a simulated abstraction of society.***
 
 It is a physical control board designed to explore an experimental simulation of societal dynamics. At first glance it appears to be nothing more than a panel of sliders and motors driving a piece of software. In truth, it is something stranger: an instrument composed of 42 motorized sliders, each representing a conceptual force operating within society, variables such as poverty, agriculture, education, freedom of speech, and many others.
 
