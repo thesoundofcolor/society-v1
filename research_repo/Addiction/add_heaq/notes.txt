@@ -6,7 +6,7 @@ If Addiction rises, Healthcare Quality declines through overload, complexity of 
 
 Addiction moderately lowers healthcare quality by increasing demand on emergency, mental health, and long-term care systems. This sustained pressure contributes to provider burnout, longer wait times, and reduced attention per patient, ultimately lowering overall care effectiveness even in otherwise stable systems. Evidence shows substance use disorders are associated with higher healthcare utilization and strain on service delivery systems, supporting a consistent but not overwhelming degradation effect.
 
-Shaping Note:
+***Shaping Note:***
 Near-linear early; degradation accelerates at higher addiction levels as system saturation and burnout compound.
 
 1) Logistic:

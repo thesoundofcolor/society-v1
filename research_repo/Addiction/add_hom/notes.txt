@@ -1,1 +1,34 @@
 Notes for this influence:
+
+Addiction → Homelessness = +0.18
+
+If Addiction rises, Homelessness increases through financial instability, breakdown of relationships, and reduced ability to maintain employment or housing. However, this relationship is not purely causal, as both addiction and homelessness are often driven by shared underlying factors such as poverty, cost of living, and mental illness.
+
+Addiction contributes to homelessness by increasing economic strain, impairing decision-making, and destabilizing social support systems. Substance use can lead to job loss, eviction, and fractured family relationships, all of which increase housing vulnerability. However, longitudinal research shows that much of the observed relationship is explained by underlying personal and structural factors rather than direct causation alone. Some evidence suggests specific substances (e.g., alcohol, illicit drugs) may increase the probability of entering homelessness, but the overall effect remains moderate and context-dependent (See: `SSM_accepted_version_2015.pdf`). 
+
+Additionally, the relationship is bidirectional, with homelessness itself reinforcing substance use, further complicating causal interpretation (mentioned in: `doran_2022_ic_210314_1640714811.27318.pdf`).
+
+***Shaping Note:***
+
+1) Threshold / Conditional Curve:
+Minimal effect at low addiction levels; noticeable increases in homelessness occur once addiction begins disrupting income, employment, or housing stability.
+
+2) Logistic (Context-Dependent):
+Effect accelerates in vulnerable populations (low income, weak support systems), but remains muted in stable environments with strong safety nets.
+
+3) Dynamic Modifier (higher-order state dependent):
+A large portion of the relationship is driven by underlying variables (employment, poverty, cost of living, mental illness), meaning this edge should not be treated as purely causal. Preferably this isthe goal, but keep things simple at first!
+
+Example:
+An individual developing substance dependence may lose steady employment and strain family relationships, eventually leading to eviction or loss of housing—especially in the absence of financial or social support.
+
+
+Modeling note (important)
+This edge is a “false-heavy” candidate, it looks strong in raw data, but weakens when you control variables.
+Pay close attention to higher-order pairs and echo effects
+
+
+
+
+
+

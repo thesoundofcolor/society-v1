@@ -1,1 +1,30 @@
 Notes for this influence:
+
+Addiction → Immigration = -0.04
+
+Negligible, at best, influence.
+
+If Addiction rises, Immigration slightly decreases through reduced legal admissibility, increased deportation risk, and lower long-term settlement stability. The relationship is, however, weak and indirect, as immigration flows are mostly driven by economic opportunity, policy, and geopolitical conditions rather than substance use patterns.
+
+Addiction influences immigration outcomes by affecting legal status and system interaction. Substance-related offenses, health evaluations, or general instability can reduce eligibility for entry, residency, or citizenship. Additionally, addiction can impair integration and long-term settlement success. That being said, I could only find a limited number of relevant articles on the subject, so I cannot confidently argue for a stronger or weaker effect.
+
+In the most thorough resource available in the repo ('Addiction-2022-DeFries-Immigration status matters.pdf'), immigration status is shown to more strongly shape addiction risk and outcomes than the reverse, indicating this edge is secondary and structurally constrained relative to the primary direction: Immigration → Addiction.
+
+***Shaping Note:***
+
+1)Threshold Logistic (Policy-Gated):
+Minimal effect at low levels; influence activates once addiction begins triggering legal or institutional thresholds (e.g., offenses, health exclusions), then saturates as policy limits cap further impact.
+
+2) Linear
+It is a small influence, could absolutely keep it simple without breaking anything.
+
+3) Dynamic Modifier (system-dependent):
+Effect varies significantly with immigration policy strictness, enforcement intensity, and healthcare/legal frameworks.
+
+Example:
+An individual with substance-related legal issues may be denied entry, lose residency eligibility, or face deportation, slightly reducing overall immigration retention.
+
+Modeling note:
+This is a low-weight, policy-mediated edge. It does not meaningfully drive immigration flows, but slightly constrains retention and admissibility under certain conditions. This is more of a pressure than it is an active driver.
+
+~Evan Levy 3/18/26

@@ -1,24 +1,29 @@
 # Society V1 - Captian's Log
 
 
-
 ## 2026-03-18
 
 ### Anatomy of the 42
 - **v3.1.5**
 	- Added to Addiction edge summary table:
 		- Addiciton → Healthcare Cost 
-		- Addiciton → Healthcare Quality		
+		- Addiciton → Healthcare Quality	
+		- Addiciton → Homelessness
+		- Addiciton → Immigration
 		
 ### Research Repo
-- Addiction → HC Cost
-  - Added resource information
-  - Added `notes.txt` and `links.txt` 
-- Addiction → HC Quality
-  - Added `notes.txt` and `links.txt`
-
+- Added `notes.txt` and `links.txt`
+	- Addiction → HC Cost
+	- Addiction → HC Quality
+	- Addiciton → Homelessness
+	- Addiciton → Immigration
+	
+- Added resources
+  - Addiction → HC Cost
+   
 ### Repository
 - Added ***Dynamic Curve Shaping for State_Dependent Influence*** idea to `notes/model_extensions/`
+- Added a possible_slider_variables.txt file to list other sliders I may want to implement in the future. Some are weak, some could be useful.
 
 --- 
 
