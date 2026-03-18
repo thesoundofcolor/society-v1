@@ -1,15 +1,16 @@
 # Society V1: A Social Calculator
 
-*A physical interface for exploring the forces that shape society.*
+**A kinetic model for the social contract.**
+*A system of interconnected variables that lets you feel how changes ripple through society.*
 
 ## Quick Navigation
 Start here depending on what you're looking for:
 
 - **Understanding the project:**  
-  [Whitepaper](documents/whitepaper/Society_v1_v1.11.pdf)
+  [Whitepaper](documents/whitepaper/Society_v1_Whitepaper.pdf)
 
 - **Variable definitions:**  
-  [Anatomy of the 42](documents/Anatomy_of_the_42/The_42_v3.1.pdf)
+  [Anatomy of the 42](documents/anatomy_of_the_42/Anatomy_of_the_42.pdf)
 
 - **Mathematical architecture:**  
   Computational & Mathematical Architecture (coming soon)
@@ -49,10 +50,10 @@ This repository serves several functions:
 # Core Documents
 The conceptual and technical foundations of Society V1 are described in the following primary documents:
 
-- **[Whitepaper](documents/whitepaper/Society_v1_v1.11.pdf)**
+- **[Whitepaper](documents/whitepaper/Society_v1_Whitepaper.pdf)**
   - Overview of Society V1. For anyone unfamiliar with the project, start here.
 
-- **[Anatomy of the 42](documents/Anatomy_of_the_42/The_42_v3.1.pdf)**
+- **[Anatomy of the 42](documents/Anatomy_of_the_42/Anatomy_of_the_42.pdf)**
   - Defines each of the system’s variables, outlining conceptual scope, included and excluded components, measurement considerations, and methodological notes.
 
 - Computational & Mathematical Architecture (CMA) *Status: Pending*

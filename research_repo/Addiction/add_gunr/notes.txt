@@ -1,3 +1,17 @@
 Notes for this influence:
 
-Addiction → Gun rights = -.12
+Addiction → Gun rights = -.06
+
+Addiction modestly increases public and political pressure toward firearm regulation. As substance abuse rises, the perceived risk of impulsive violence, suicide, and substance related firearm incidents rises with it. This tends to translate into support for policies like stronger background checks, restrictions for substance related offenses, and other regulatory measures. Research consistently finds correlations between substance misuse and elevated firearm violence risk, which naturally feeds into regulatory debates.
+
+However, the influence remains small and indirect. Gun rights are primarily a policy variable shaped by ideology, constitutional interpretation, and political culture rather than addiction levels themselves. Addiction mostly enters the conversation through secondary variables like crime, violence, and general public safety concerns rather than directly determining firearm ownership legality.
+
+Strongest pathway:
+
+Addiction → Crime → Law Enforcement → Gun Rights
+
+At the individual level: substance-related arrests or convictions can lead to firearm possession restrictions. 
+At the societal level: addiction and gun ownership show a slight correlation in the research, meaning that as addiction rises, substance-related gun incidents tend to rise as well. That creates additional political pressure for firearm regulation, which slightly reduces overall gun rights.
+
+**Shapinn**
+Linear should be fine for such a small influence

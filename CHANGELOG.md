@@ -1,16 +1,64 @@
 # Society V1 - Captian's Log
 
+
+
+## 2026-03-18
+
+### Anatomy of the 42
+- **v3.1.5**
+	- Added to Addiction edge summary table:
+		- Addiciton → Healthcare Cost  
+		
+### Research Repo
+- Addiction → HC Cost
+  - 
+  
+--- 
+
+## 2026-03-17
+
+### Anatomy of the 42
+- **v3.1.5**
+	- Added to Addiction edge summary table:
+		- Addiciton → Healthcare Access  
+		
+### Research Repo
+- Addiction → HC Access
+  - Updated `notes.txt` and `links.txt`
+  - added new research sources
+  
+--- 
+
+## 2026-03-16
+
+### Repository
+- Updated `README.md` links for the *Whitepaper* and *Anatomy of the 42*.
+  - Previously, new revisions of documents were saved with incremented filenames (e.g., `Anatomy_of_the_42_v1.2` → `v1.3`). This caused link maintenance issues because any references in the `README` and other files would break with each rename.
+  - To resolve this, documents will now retain stable filenames. Version numbers will instead be tracked inside the document itself and recorded in the repository `CHANGELOG`.
+  - This keeps links consistent while preserving a clear revision history.
+
+### Anatomy of the 42
+- **v3.1.4**
+	- Added to Addiction edge summary table:
+		- Addiciton → Gun Rights  
+		
+### Research Repo
+- Addiction → Gun Rights
+  - Updated `notes.txt` and `links.txt`
+  
+--- 
+  
 ## 2026-03-14
 
 ### Repository
-- Updated README.md (main)
+- Updated `README.md` *(main)*
 - Added main repo documents
-	- Created CONTRIBUTING.md
-	- Created CITATION.cff
-	- Created LICENSE
-	- MODEL_SPECIFICATION.md (with example skeleton)
-- Created .github/ISSUE_TEMPLATE/
-	- Issue templates and config.yml
+	- Created `CONTRIBUTING.md`
+	- Created `CITATION.cff`
+	- Created `LICENSE`
+	- `MODEL_SPECIFICATION.md` (with example skeleton)
+- Created `.github/ISSUE_TEMPLATE/`
+	- Issue templates and `config.yml`
 	- Templates added:
 		- Bug report
 		- Documentation Issue
@@ -24,9 +72,9 @@
 
 ### Research Repo
 - Addiction → Family Values
-  - Updated notes.txt
+  - Updated `notes.txt`
 
-
+---
 
 ## 2026-03-13
 
@@ -41,18 +89,20 @@
 
 ### Research Repo
 - Addiction → Education Quality
-  - Updated notes.txt
+  - Updated `notes.txt`
 - Addiciton → Employment
   - Added research to repo
-  - notes.txt and links.txt
+  - `notes.txt` and `links.txt`
 - Addiciton → Education Cost
-  - Updated note.txt and links.txt
+  - Updated `notes.txt` and `links.txt`
 - Addiciton → Equality
-  - notes.txt and links.txt
+  - `notes.txt` and `links.txt`
   - Added more research
 - Addiciton → Family Values
-  - notes.txt and links.txt 
+  - `notes.txt` and `links.txt` 
   - Added more research
+
+---
 
 ## 2026-03-11
 
@@ -65,6 +115,8 @@
   - Read more papers and added some to Addiction to crime, cost of living, education access, and death rate.
   -Added notes for Addiction output directories: Cost of Living, Crime, Death Rate, Education Access
 
+---
+
 ## 2026-03-10
 
 ### The 42
@@ -76,10 +128,11 @@
   - Worked on making a matrix edge graph using TikZ library but not actually added yet
   
 ### README
-- Updated main project README.md, I felt like it was too technical. The project is already so hard to explain to people, gotta lighten things up a bit!
+- Updated main project `README.md`, I felt like it was too technical. The project is already so hard to explain to people, gotta lighten things up a bit!
 - Repo structure directory list was not formatted as a list; it is now fixed
 - Revised Authorship and Use & Discussion
 
+---
 
 ## 2026-03-09
 
@@ -94,6 +147,7 @@
 - **Addiction**
   - Not really much changed, I spent most of the day reading through and making sure all research was valid.
 
+---
 
 ## 2026-03-08
 
@@ -106,18 +160,19 @@
 - Found and deleted a random VPN .exe file in crime/cri_agr/  (whoops!)
   - Still remains a mystery on why it was ther but it did correlate to my research work. So I either accidentally download a VPN installer instead of a research .pdf, perhaps a site installed it behind my back (unlikely), or another user followed behind me and installed it there. It was not intalled in my envioronment, and found no further threat. ~E.L. 
 - **Addiction**
-  - Add/update notes for addiction influences:
+  - Add/update `notes.txt` for addiction influences:
     - Add → Agr
 	- Add → Aut
   - Added research sources and files to:
 	- Add → Agr
-  - Added/updated links to:
+  - Added/updated `links.txt` to:
     - Add → Agr
 	- Add → Aut
   
 ### Intervention vs State Dynamics
 - Idea saved as interventio_vs_state_dynamics.md in ./notes/
 
+---
 
 ## 2026-03-07
 
@@ -131,6 +186,7 @@
     - *Society V1: Whitepaper*
   - Convinced myself page 1 is actually done, but we will see how long that actually lasts (X_x)
 
+---
 
 ## 2026-03-06
 
@@ -153,6 +209,7 @@
     - Not only isn't this a new layer of complexity but it may be impossible to articulate.
 	- It would bring the model closer to real-life, but it also might introduce a level of incohereance that might ruin the mechanics. This is just an idea right now...
 
+---
 
 ## 2026-03-05
 

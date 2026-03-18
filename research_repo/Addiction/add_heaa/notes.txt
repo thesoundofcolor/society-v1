@@ -1,1 +1,13 @@
 Notes for this influence:
+
+Addiction → Healthcare Access = -0.13
+
+As addiction rises, demand for treatment, detox programs, and emergency care rises with it. Beds fill, waitlists grow, and healthcare systems experience greater strain. Individuals with substance use disorders already have difficulty navigating treatment pathways, and as system pressure increases it becomes harder for people to access timely care.
+
+This influence is mostly capacity pressure rather than a policy effect. Healthcare infrastructure expands slowly, so increases in addiction tend to reduce effective access in the short and medium term.
+
+Suggested shape
+
+A soft logistic decline fits well here. At low addiction levels the system absorbs the load, but as prevalence grows the strain compounds and access deteriorates faster as treatment capacity becomes saturated.
+
+~Evan Levy 3/17/2026
