@@ -1,1 +1,21 @@
 Notes for this influence:
+
+Addiction → Healthcare Quality = -0.15
+
+If Addiction rises, Healthcare Quality declines through overload, complexity of cases, and reduced provider capacity. However, addiction is not the sole driver of quality decline, which is why this influence remains moderate.
+
+Addiction moderately lowers healthcare quality by increasing demand on emergency, mental health, and long-term care systems. This sustained pressure contributes to provider burnout, longer wait times, and reduced attention per patient, ultimately lowering overall care effectiveness even in otherwise stable systems. Evidence shows substance use disorders are associated with higher healthcare utilization and strain on service delivery systems, supporting a consistent but not overwhelming degradation effect.
+
+Shaping Note:
+Near-linear early; degradation accelerates at higher addiction levels as system saturation and burnout compound.
+
+1) Logistic:
+Stable at low levels; noticeable degradation begins mid-range as system load increases.
+
+2) Soft Saturation Curve:
+Upper bounds flatten slightly as systems adapt (triage, policy, scaling), preventing total collapse.
+
+Example:
+A community with rising addiction sees ER visits and mental health demand increase, stretching staff thinner and reducing overall care quality even for non-addiction-related patients.
+
+~Evan Levy 3/18/26

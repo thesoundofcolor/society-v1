@@ -1,4 +1,4 @@
-Reference notes for doing output edge summaries for 'Anatomoy of the 42'
+Just a useless reference for doing output edge summaries for 'Anatomoy of the 42'
 
 10% = Negligible: Barely detectable; almost non-existent.
 20% = Minimal: Present in small amounts; minimal impact.

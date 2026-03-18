@@ -1,1 +1,61 @@
 Notes for this influence:
+
+Addiction → Healthcare Cost = +0.32
+
+Addiction pushes healthcare costs up almost one-to-one. The data would justify an even stronger weight, but indirect pathways already carry part of that load. If we fully matched the raw numbers here, the system would begin to over-amplify itself. So this edge is intentionally held slightly below its true strength to preserve balance.
+---
+Addiction substantially drives healthcare cost in a very direct and measurable way. This is one of the least abstract relationships in the system; it shows up immediately in real-world data. Individuals with substance use disorders consistently consume significantly more healthcare resources, especially through emergency services, inpatient care, and long-term treatment cycles.
+
+What makes this edge particularly strong is that the cost increase isn’t isolated to peak addiction states. Costs begin rising before formal diagnosis and persist through relapse cycles, comorbid mental health conditions, and especially chronic disease progression. Studies show healthcare costs can be several times higher for addicted populations, with large per-patient annual increases (often exceeding $10k).
+
+This is not just behavioral, it’s a systemic load. Addiction increases acute incidents (overdose, injury), chronic disease burden (HIV, hepatitis), and ongoing treatment demand, all of which compound into sustained pressure on healthcare systems.
+
+
+## Shaping Notes
+
+### Curve 1: Soft exponential (convex)
+
+- Low levels → manageable via outpatient care
+- Mid levels → rapid rise (ER + inpatient utilization)
+- High levels → saturation (system strain plateaus slightly)
+
+*Use when modeling system overload*
+
+### Curve 2: Logistic with early lift
+
+Early increase (costs rise even before diagnosis)
+Strong mid acceleration
+Upper flattening as system capacity caps
+Use when modeling realistic policy environments
+
+Tuning Examples:
+Strong public health system → flatten curve slightly (more prevention, less ER spike)
+Weak system / no access → steeper mid-curve (more emergency reliance)
+
+Curve 3: Monotonic cubic (preferred; more realistic, harder to integrate)
+
+- Slow initial growth
+- Mid-range acceleration
+- Upper-range softening
+
+This allows different slope behavior at different parts of the curve while still preserving a single monotonic direction. In many cases this is more realistic than a linear or normal logistic response. It is especially useful where early change is mild, mid-range effects compound quickly, and upper-range growth begins to soften without reversing.
+
+I suspect many connections in the model would be better represented by a cubic-shaped monotonic curve. That said, weaker influences often do not justify the extra complexity, since the inertial slope change may be too small to matter in practice.
+
+The cubic components could even be influenced by other variables, allowing higher-order interactions to shape the curve itself. For example, after a certain point, another variable could begin to dampen, amplify, or even shift the turning behavior. Just a thought for now. We will see how the engine behaves once the weights are assigned ^_^
+
+~Evan Levy 3/18/26
+
+
+
+
+
+
+
+
+
+
+
+
+
+

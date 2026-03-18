@@ -7,12 +7,19 @@
 ### Anatomy of the 42
 - **v3.1.5**
 	- Added to Addiction edge summary table:
-		- Addiciton → Healthcare Cost  
+		- Addiciton → Healthcare Cost 
+		- Addiciton → Healthcare Quality		
 		
 ### Research Repo
 - Addiction → HC Cost
-  - 
-  
+  - Added resource information
+  - Added `notes.txt` and `links.txt` 
+- Addiction → HC Quality
+  - Added `notes.txt` and `links.txt`
+
+### Repository
+- Added ***Dynamic Curve Shaping for State_Dependent Influence*** idea to `notes/model_extensions/`
+
 --- 
 
 ## 2026-03-17
