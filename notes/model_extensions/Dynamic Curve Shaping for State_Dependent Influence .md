@@ -96,4 +96,6 @@ We start with fixed weights and curves for our edges. Then see if dynamic shapin
 
 Rather than viewing influences as fixed pipes, which they are not, this approach treats them as living channels that reshape themselves based on the system’s current state.
 
-This actually solves the higher-order problem I have been kicking down the road. Evan, you better read this note when you are working on the tranformer engine!
+This actually solves the higher-order problem I have been kicking down the road and dreading to encounter... 
+
+>***Evan, you better read this note when you are working on the tranformer engine!***
