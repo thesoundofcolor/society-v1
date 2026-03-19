@@ -4,12 +4,13 @@
 ## 2026-03-18
 
 ### Anatomy of the 42
-- **v3.1.5**
+- **v3.2.0**
 	- Added to Addiction edge summary table:
 		- Addiciton → Healthcare Cost 
 		- Addiciton → Healthcare Quality	
 		- Addiciton → Homelessness
 		- Addiciton → Immigration
+	- Revised Addiction page, rewrote almost the whole page, again.... and I love it even more!
 		
 ### Research Repo
 - Added `notes.txt` and `links.txt`
