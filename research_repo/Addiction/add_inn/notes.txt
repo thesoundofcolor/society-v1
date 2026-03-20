@@ -1,1 +1,23 @@
 Notes for this influence:
+
+Addiction → Innovation = -0.16
+
+Addiction directly decreases innovation. It is worth noting that in the short term, addiction can sometimes inspire unconventional thinking, lower inhibitions, and expand exploratory thought. In rare cases, this can contribute to meaningful ideas or breakthroughs that appear tied to those states. However, innovation as a whole is not built on moments like this. It is built on stability, consistency, and iteration, the ability to stay with a problem long enough to actually solve it.
+
+When addiction takes hold, not just momentary intoxication, it begins to erode the innovator. It chips away at focus, memory, motivation, and discipline. At the individual level, it does not just disrupt innovation, it immobilizes the person responsible for it.
+
+At the system level, addiction introduces instability: fractured teams, unreliable contributors, and the siphoning of time and resources. Effort that could be directed toward building and solving is instead redirected toward managing damage.
+
+There are edge cases, especially in creative spaces, where altered states and addiction overlap with interesting output. But those cases are inconsistent and difficult to sustain. The broader pattern is simpler: short-term expansion of thought does not outweigh the long-term erosion of execution.
+
+
+***Shaping:***
+
+- Weak linear (slight saturation): steady negative effect across all levels
+  - minor early variability from short-term creative bursts, but quickly dominated by sustained cognitive and structural decline.
+
+
+
+
+
+

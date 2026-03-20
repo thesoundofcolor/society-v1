@@ -1,6 +1,24 @@
 # Society V1 - Captian's Log
 
 
+## 2026-03-19
+
+### Anatomy of the 42
+- **v3.2.1**
+	- Added to Addiction edge summary table:
+		- Addiciton → Innovation 
+		
+	- Revised Addiction page, rewrote last paragraph and merged "data challenges" and "academic disputes" into one section.
+		
+### Research Repo
+- Added `notes.txt` and `links.txt`
+	- Addiction → Innovation
+
+- Added resources / research
+	- Addiction → Innovation
+  
+---
+
 ## 2026-03-18
 
 ### Anatomy of the 42
@@ -20,7 +38,7 @@
 	- Addiciton → Immigration
 	
 - Added resources
-  - Addiction → HC Cost
+	- Addiction → HC Cost
    
 ### Repository
 - Added ***Dynamic Curve Shaping for State_Dependent Influence*** idea to `notes/model_extensions/`
@@ -37,8 +55,8 @@
 		
 ### Research Repo
 - Addiction → HC Access
-  - Updated `notes.txt` and `links.txt`
-  - added new research sources
+	- Updated `notes.txt` and `links.txt`
+	- added new research sources
   
 --- 
 
@@ -46,9 +64,9 @@
 
 ### Repository
 - Updated `README.md` links for the *Whitepaper* and *Anatomy of the 42*.
-  - Previously, new revisions of documents were saved with incremented filenames (e.g., `Anatomy_of_the_42_v1.2` → `v1.3`). This caused link maintenance issues because any references in the `README` and other files would break with each rename.
-  - To resolve this, documents will now retain stable filenames. Version numbers will instead be tracked inside the document itself and recorded in the repository `CHANGELOG`.
-  - This keeps links consistent while preserving a clear revision history.
+	- Previously, new revisions of documents were saved with incremented filenames (e.g., `Anatomy_of_the_42_v1.2` → `v1.3`). This caused link maintenance issues because any references in the `README` and other files would break with each rename.
+	- To resolve this, documents will now retain stable filenames. Version numbers will instead be tracked inside the document itself and recorded in the repository `CHANGELOG`.
+	- This keeps links consistent while preserving a clear revision history.
 
 ### Anatomy of the 42
 - **v3.1.4**
@@ -57,7 +75,7 @@
 		
 ### Research Repo
 - Addiction → Gun Rights
-  - Updated `notes.txt` and `links.txt`
+	- Updated `notes.txt` and `links.txt`
   
 --- 
   
@@ -85,7 +103,7 @@
 
 ### Research Repo
 - Addiction → Family Values
-  - Updated `notes.txt`
+	- Updated `notes.txt`
 
 ---
 
@@ -102,18 +120,18 @@
 
 ### Research Repo
 - Addiction → Education Quality
-  - Updated `notes.txt`
+	- Updated `notes.txt`
 - Addiciton → Employment
-  - Added research to repo
-  - `notes.txt` and `links.txt`
+	- Added research to repo
+	- `notes.txt` and `links.txt`
 - Addiciton → Education Cost
-  - Updated `notes.txt` and `links.txt`
+	- Updated `notes.txt` and `links.txt`
 - Addiciton → Equality
-  - `notes.txt` and `links.txt`
-  - Added more research
+	- `notes.txt` and `links.txt`
+	- Added more research
 - Addiciton → Family Values
-  - `notes.txt` and `links.txt` 
-  - Added more research
+	- `notes.txt` and `links.txt` 
+	- Added more research
 
 ---
 
@@ -121,12 +139,12 @@
 
 ### Anatomy of the 42
 - **v3.1.2**
-  - Added more edge summary entries for *Addiction*
+	- Added more edge summary entries for *Addiction*
   
 ### Research Repo
 - *Addiction*
-  - Read more papers and added some to Addiction to crime, cost of living, education access, and death rate.
-  -Added notes for Addiction output directories: Cost of Living, Crime, Death Rate, Education Access
+	- Read more papers and added some to Addiction to crime, cost of living, education access, and death rate.
+	-Added notes for Addiction output directories: Cost of Living, Crime, Death Rate, Education Access
 
 ---
 
@@ -134,11 +152,11 @@
 
 ### The 42
 - **v3.1**
-  - Added rhettorical questions section to front page paragraph.
-  - Worked on Addiction's edge weights table
-  - Careated variable formatting macro; now every variable is formatted with: \var{variable name}
-  - Changed title from *"Society V1: The 42"* to *"Society V1, Anatomy of the 42"*
-  - Worked on making a matrix edge graph using TikZ library but not actually added yet
+	- Added rhettorical questions section to front page paragraph.
+	- Worked on Addiction's edge weights table
+	- Careated variable formatting macro; now every variable is formatted with: \var{variable name}
+	- Changed title from *"Society V1: The 42"* to *"Society V1, Anatomy of the 42"*
+	- Worked on making a matrix edge graph using TikZ library but not actually added yet
   
 ### README
 - Updated main project `README.md`, I felt like it was too technical. The project is already so hard to explain to people, gotta lighten things up a bit!
@@ -151,14 +169,14 @@
 
 ### The 42
 - **v3.0**
-  - Added quotes to the header of each variable page
-  - Second page for each variable to show influence pathway table
+	- Added quotes to the header of each variable page
+	- Second page for each variable to show influence pathway table
 - **v2.6**
-  - Finished *Agriculture* section (page 4)
+	- Finished *Agriculture* section (page 4)
 
 ### Research Repo
 - **Addiction**
-  - Not really much changed, I spent most of the day reading through and making sure all research was valid.
+	- Not really much changed, I spent most of the day reading through and making sure all research was valid.
 
 ---
 
@@ -171,16 +189,16 @@
 ### Research Repo
 - Renamed Ukranian documents to have translated English file names
 - Found and deleted a random VPN .exe file in crime/cri_agr/  (whoops!)
-  - Still remains a mystery on why it was ther but it did correlate to my research work. So I either accidentally download a VPN installer instead of a research .pdf, perhaps a site installed it behind my back (unlikely), or another user followed behind me and installed it there. It was not intalled in my envioronment, and found no further threat. ~E.L. 
+	- Still remains a mystery on why it was ther but it did correlate to my research work. So I either accidentally download a VPN installer instead of a research .pdf, perhaps a site installed it behind my back (unlikely), or another user followed behind me and installed it there. It was not intalled in my envioronment, and found no further threat. ~E.L. 
 - **Addiction**
-  - Add/update `notes.txt` for addiction influences:
-    - Add → Agr
-	- Add → Aut
-  - Added research sources and files to:
-	- Add → Agr
-  - Added/updated `links.txt` to:
-    - Add → Agr
-	- Add → Aut
+	- Add/update `notes.txt` for addiction influences:
+		- Add → Agr
+		- Add → Aut
+	- Added research sources and files to:
+		- Add → Agr
+	- Added/updated `links.txt` to:
+		- Add → Agr
+		- Add → Aut
   
 ### Intervention vs State Dynamics
 - Idea saved as interventio_vs_state_dynamics.md in ./notes/
@@ -191,13 +209,13 @@
 
 ### The 42
 - **v2.5**
-  - Refined opening paragraph for clarity and flow.
-  - Simplified explanation of variable influence and slider mechanics.
-  - Added illustrative example demonstrating influence propagation (Law Enforcement → Crime → downstream effects).
-  - Reordered introductory paragraphs to improve conceptual progression and information flow.
-  - Added references to companion documents:
-    - *Society V1: Whitepaper*
-  - Convinced myself page 1 is actually done, but we will see how long that actually lasts (X_x)
+	- Refined opening paragraph for clarity and flow.
+	- Simplified explanation of variable influence and slider mechanics.
+	- Added illustrative example demonstrating influence propagation (Law Enforcement → Crime → downstream effects).
+	- Reordered introductory paragraphs to improve conceptual progression and information flow.
+	- Added references to companion documents:
+		- *Society V1: Whitepaper*
+	- Convinced myself page 1 is actually done, but we will see how long that actually lasts (X_x)
 
 ---
 
@@ -205,22 +223,22 @@
 
 ### The 42
 - **v2.3.2**
-  - Removed redundant section on page 2
-  - Revised interpretation framework paragraphs for clarity and flow
-  - Introduced path-dependent influence weighting framework explanation
+	- Removed redundant section on page 2
+	- Revised interpretation framework paragraphs for clarity and flow
+	- Introduced path-dependent influence weighting framework explanation
 - **v2.3.2**
-  - Rearranged page 2 to have path-dependence section after metrics & methods. Moved questions after ontology. Much better flow
+	- Rearranged page 2 to have path-dependence section after metrics & methods. Moved questions after ontology. Much better flow
 
 ### New Engine mechanic
 - A possibly new second mechanic (just an idea right now): A second mode where rather than a slider change being a state change, it can also be an intentional change.
-  - Two modes: 
-    - State Mode (normal mode; this is how Societvy V1 treats all transformations) 
-	  - Example: Adjusting discrimination down simply means less people are, want to, or can descriminate. Freedom of Speech is barely effected.
-	- Intentional Mode (NEW mode; this is making society intentionally change something, through policy or social forces)
-	  - Example: Adjusting discrimination down now means anti-discrimination policies are used as the influence. Freedom of Speech is now directly suppressed!
-  - Intional influences would be conditional, maybe if you press a button, like a clutch, any user input would use different weights on the influence edge.
-    - Not only isn't this a new layer of complexity but it may be impossible to articulate.
-	- It would bring the model closer to real-life, but it also might introduce a level of incohereance that might ruin the mechanics. This is just an idea right now...
+	- Two modes: 
+		- State Mode (normal mode; this is how Societvy V1 treats all transformations) 
+			- Example: Adjusting discrimination down simply means less people are, want to, or can descriminate. Freedom of Speech is barely effected.
+		- Intentional Mode (NEW mode; this is making society intentionally change something, through policy or social forces)
+			- Example: Adjusting discrimination down now means anti-discrimination policies are used as the influence. Freedom of Speech is now directly suppressed!
+	- Intional influences would be conditional, maybe if you press a button, like a clutch, any user input would use different weights on the influence edge.
+		- Not only isn't this a new layer of complexity but it may be impossible to articulate.
+		- It would bring the model closer to real-life, but it also might introduce a level of incohereance that might ruin the mechanics. This is just an idea right now...
 
 ---
 
@@ -228,13 +246,13 @@
 
 ### The 42
 - **v2.1** 
-  -Refineded page 1, first paragraph
-  - Added explanation for data challenges section
-  - Added CMA reference note and formatted italic text
+	-Refineded page 1, first paragraph
+	- Added explanation for data challenges section
+	- Added CMA reference note and formatted italic text
 - **v2.2**  
-  - Page 1, first paragraph, focused more on abstractions and less on the broader functional dynamics of Society V1.             
+	- Page 1, first paragraph, focused more on abstractions and less on the broader functional dynamics of Society V1.             
 - **v2.3**  
-  - Finished front page section and formatting 
+	- Finished front page section and formatting 
 
 ### Model
 - Updated influence matrix relationships for Addiction
