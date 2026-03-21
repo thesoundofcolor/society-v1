@@ -12,11 +12,11 @@ Just a useless reference for doing output edge summaries for 'Anatomoy of the 42
 100% = Total/Absolute: Complete and total; no exceptions
 
 Or this ladder, which I like better:
-Negligible
-Slight
-Moderate
-Substantial
-Strong
-Significant
-Heavy
-Extreme
+Negligible 		0.01 - 0.05 
+Small			0.06 - 0.10
+Slight			0.11 - 0.14
+Moderate		0.15 - 0.19
+Substantial		0.20 - 0.24
+Strong			0.25 - 0.30
+Heavy			0.31 - 0.35
+Extreme			0.36 - 0.40

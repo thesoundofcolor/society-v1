@@ -1,1 +1,19 @@
 Notes for this influence:
+
+Addiction → Market Freedom = -0.11
+
+Addiction modestly constrains market freedom; impaired decision-making and dependency distort voluntary exchange and enable localized exploitation, while markets themselves remain structurally functional rather than restricted. (See: s12954-022-00652-2.pdf, s40352-021-00134-w.pdf, and Algorithmic Addiction by Design)
+
+Shaping:
+
+
+1. Sigmoid (threshold saturation)
+	- Market freedom remains fairly stable at low levels of addiction, as broader market structures absorb early distortion. Once addiction reaches a critical range, effects accelerate more sharply; impaired decision-making, exploitative niches, and reduced productive participation begin to destabilize voluntary exchange at a faster rate. The decline then tapers into a new equilibrium, where markets still function, but under a more persistently distorted condition.
+	
+2. Logistic (saturated incline)
+	- Market freedom remains relatively stable at low levels of addiction; early increases are absorbed by the the market (since markets are macro they don't get effected by small forces). As addiction rises, distortions compound into irrational consumption, exploitative sectors, and reduced productivity. So it starts stable as addiction increases then it will begin to meaningfully degrade voluntary exchange after addiction overwhelms stability. This effect accelerates before eventually saturating, as markets continue to function despite heavily distorted participation.
+
+	
+3. Cubed Monotopic (more realistic)
+	- The effect varies with system context; in profit-driven or weakly regulated environments, addiction can be leveraged and amplify distortions in exchange, while stronger regulatory or institutional systems can partially buffer the impact, producing nonlinear shifts in market behavior.
+

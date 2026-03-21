@@ -1,1 +1,18 @@
 Notes for this influence:
+
+Addiction → Mental Health = -0.35
+
+Addiction is heavily linked to mental health, but not in a clean simple way. Depression, anxiety, PTSD, and stress disorders show up alongside addiction as a rule, not an exception, clustering and reinforcing each other rather than existing as separate problems. Addiction rarely (if ever) exists by itself; it behaves more like a comorbid sponge, absorbing and amplifying surrounding mental health conditions. It often starts off as a recreational chemical or endogenous reward activity, then develops secondary mental health disorders along the way before finally entrenching into a more absolute addictive state.
+
+1. Linear (baseline and 'easy')
+	- Mental health degrades consistently as addiction increases; each increase in dependency tends to produce a proportional increase in depression, anxiety, and stress-related symptoms. There is no meaningful region where addiction improves mental health in a sustained way.
+
+2. Sigmoid (saturated threshold)
+	- At low levels, effects may appear muted or masked due to short-term coping or relief. There may be binge behaviors that cause withdrawal, hangovers, or blackouts, but not enough to create persistent craving or entrenched mental health decline.
+	- Once a dependency threshold is crossed, deterioration accelerates more rapidly as comorbid conditions emerge and reinforce each other. A feedback loop forms and things begin to spiral.
+	- Over extended time, this progression tapers into a saturated state where mental health remains persistently degraded. In some cases, the system may stabilize at this lower baseline until a significant external event disrupts it, though this is likely better approximated with a tuned sigmoid rather than explicitly modeled.
+
+3. Cubed Monotopic (more realistic)
+	- The relationship becomes highly nonlinear when interacting with other variables. Poverty, Family Values, Employment, Law Enforcement, and Healthcare Access (to name a few) can amplify or buffer the decline. Feedback loops between addiction and mental health drive compounding effects, where worsening mental health increases addiction, which in turn further degrades mental health.
+
+
