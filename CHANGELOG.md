@@ -1,14 +1,34 @@
 # Society V1 - Captian's Log
 
 
+
+## 2026-03-21
+
+### Anatomy of the 42
+- **v3.2.1**
+	- Revised last paragraph on page 3 "Addiction".... again :P
+	- Added to Addiction edge summary table:
+		- Addiciton → Law Enforcement 
+		- Addiciton → Liberty 
+		
+### Research Repo
+- Added `notes.txt` and `links.txt`
+	- Addiction → Law Enforcement
+	- Addiciton → Liberty 
+
+- Added resources / research
+	- Addiction → Law Enforcement
+	- Addiciton → Liberty 
+  
+---
+
 ## 2026-03-19
 
 ### Anatomy of the 42
 - **v3.2.1**
+	- Revised page 3 "Addiction"; rewrote last paragraph and merged "data challenges" and "academic disputes" into one single section.
 	- Added to Addiction edge summary table:
 		- Addiciton → Innovation 
-		
-	- Revised Addiction page, rewrote last paragraph and merged "data challenges" and "academic disputes" into one section.
 		
 ### Research Repo
 - Added `notes.txt` and `links.txt`

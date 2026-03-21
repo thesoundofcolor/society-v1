@@ -1,1 +1,21 @@
 Notes for this influence:
+
+Addiction → Liberty = -0.22
+
+Addiction substantially reduces liberty. Compulsive behavior overrides self-directed choice, eroding autonomy and constraining freedom of thought and action, often reinforcing cycles of dependency rather than voluntary control. See the research in the repository, they will all say the same thing: addiction directly removes individual liberty.
+
+Shaping:
+
+- Logistic (saturated)
+  - Liberty declines as addiction increases; early stages allow partial autonomy, but as dependency strengthens, compulsive patterns dominate decision-making. This saturates at severe addiction, where additional increases have diminishing visible impact because autonomy is already heavily constrained.
+- Cubed Monotopic (more realistic)
+  - The decline in liberty is nonlinear and highly state-dependent.
+  Interactions with mental health, institutional trust, law enforcement, and economic stability shape whether addiction results in soft constraint (reduced agency) or hard constraint (near-total loss of self-direction), producing sharp drops under compounding conditions.
+
+~Evan Levy 3/21/26
+
+
+
+
+
+

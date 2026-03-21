@@ -13,8 +13,12 @@ There are edge cases, especially in creative spaces, where altered states and ad
 
 ***Shaping:***
 
-- Weak linear (slight saturation): steady negative effect across all levels
-  - minor early variability from short-term creative bursts, but quickly dominated by sustained cognitive and structural decline.
+- Weak linear (slight saturation): 
+  - steady negative effect across all levels
+  - minor early variability from short-term creative bursts, but quickly dominated by sustained cognitive and structural decline
+  
+- Weak non-monotopic (cubed curve)
+  - At first we get a little tiny possitive increase, then it tappers off and simply declines linearly for the rest of the way
 
 
 

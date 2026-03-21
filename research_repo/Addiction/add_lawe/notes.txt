@@ -1,1 +1,20 @@
 Notes for this influence:
+
+Addiction → Law Enforcement = +0.20
+
+Addiction increases law enforcement pressure; as addiction spills into public life it drives more overdose response, drug-related crime, disorder, and repeat police contact, increasing the need for enforcement presence even when outcomes remain cyclical rather than resolved. (See: s12954-022-00652-2.pdf and s40352-021-00134-w.pdf)
+
+***Shaping:***
+
+1) Logistic (saturated)
+LE increases as addiction increases; visible disorder, overdose response, and drug-related crime drive deployment. However, this saturates as resources cannot scale indefinitely; personnel, time, and budgets cap response, and prolonged exposure can degrade effectiveness, including internal strain within the force.
+
+2) Cubed Monotopic (realistic)
+While LE generally rises with addiction, the rate and intensity shift at different thresholds. Interactions with variables like mental health, poverty, crime, public trust, and corruption reshape the curve, producing nonlinear escalation or dampening depending on the broader system state.
+
+If I can add regulation and judicial severity, we can truly shape this in realistic ways. "realistic", lol, ok maybe "more realistic" :P
+
+~Evan Levy 3/21/26
+
+
+
