@@ -25,13 +25,15 @@ Start here depending on what you're looking for:
 
 ***Society V1 is a machine built to interact with a simulated abstraction of society.***
 
-It is a physical control board designed to explore an experimental simulation of societal dynamics. At first glance it appears to be nothing more than a panel of sliders and motors driving a piece of software. In truth, it is something stranger: an instrument composed of 42 motorized sliders, each representing a conceptual force operating within society, variables such as poverty, agriculture, education, freedom of speech, and many others.
+Every day I sit between “this is impossible” and the fact that the math keeps suggesting it isn’t. The more I work through it, the more it hints that something real might actually come out of this if it’s done right. There is only one way to find out...
 
-Moving a slider does not simply adjust a number or trigger a programmed response. It changes the pressures acting across an interconnected system. When one force shifts, the surrounding network responds, propagating influence through the system and reshaping the collective state of the model.
+Society v1 is a physical control board designed to explore an experimental simulation of societal dynamics. At first glance it appears to be nothing more than a panel of sliders and motors driving a piece of software. In truth, it is something stranger: an instrument composed of 42 motorized sliders, each representing a conceptual force operating within society, variables such as poverty, agriculture, education, freedom of speech, and many others.
 
-The relationships between these variables are not arbitrarily chosen to produce a desirable outcome, though bias inevitably creeps in. Instead, they are constructed from aggregated empirical research, comparative data, and conservative reasoning, methodically distilled to approximate how real societal forces push and pull against one another.
+Moving a slider does not simply adjust a number or trigger a preprogrammed response. It transforms the pressures acting across an interconnected system. When one variable shifts, we can consider it a "force", the surrounding network responds, propagating influence through the system and reshaping the collective state of the model. It is a network of forces, i.e., a model of Society.
 
-Under the hood, real-world data extracted from research is combined with a bit of mathematical magic. Through the use of transformation matrices, conditional non-linear algebra, activation functions, and influence-shaping mechanisms, slider movements are translated into system-wide responses grounded in observable dynamics.
+The relationships between these variables are not arbitrarily chosen to produce a desirable outcome, though bias inevitably creeps in. Instead, the values are constructed from real-world data; aggregated empirical research, comparative statistics, peer-reviewed articles, and conservative reasoning methodically distilled to approximate how real societal forces push and pull against one another.
+
+Under the hood, the real-world data extracted from empirical research is combined with a bit of mathematical magic. Through the use of transformation matrices, conditional non-linear algebra, activation functions, and influence-shaping mechanisms, slider movements are translated into system-wide responses grounded in observable dynamics.
 
 Of course, no machine can truly simulate a society. The complexity of human systems exceeds anything that can be captured in a finite model. Society V1 therefore approaches the problem through deliberate reduction: compressing vast social forces into structured relationships that can be manipulated and observed.
 
