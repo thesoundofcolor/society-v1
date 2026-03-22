@@ -1,1 +1,22 @@
-Notes for this influence:
+Notes for:
+
+Addiction → Poverty = +0.24
+
+Addiction increases poverty, but is heavily mediated through indirect pathways, so the weight remains more modest than one might initially expect; substance dependence reduces employability, destabilizes income, increases healthcare and legal costs, and drives long-term financial erosion, often reinforcing cycles of social marginalization.
+
+The most immediate direct mechanism is financial allocation, resources are diverted to sustain the addiction, leading to persistent financial instability and erosion of basic needs over time.
+
+***Shaping:***
+
+1) Logistic (saturated start)
+Poverty remains relatively stable at low levels of addiction, as individuals or families may temporarily absorb the financial strain. Once addiction deepens, financial irresponsibility, income instability, and rising costs begin to compound more rapidly, causing poverty to rise sharply. This eventually tapers as the individual reaches a more entrenched poverty state, where deprivation begins to reinforce itself.
+
+2) Sigmoid (threshold)
+At low levels, individuals and families can absorb the financial problems. Beyond a threshold, addiction accelerates economic decline as job loss, debt, safety nets/families/friends cut ties, and instability compound rapidly.
+
+3) Cubed Monotopic (realistic)
+Strongly mediated by employment, mental health, crime, and social support systems. These variables can buffer early decline or amplify collapse into persistent poverty.
+
+***CAUTION:***
+
+Poverty and addiction form a reinforcing loop; poverty increases risk of drug use disorders, while addiction further reduces economic mobility and stability. 

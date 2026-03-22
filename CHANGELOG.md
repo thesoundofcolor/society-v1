@@ -1,6 +1,38 @@
 # Society V1 - Captian's Log
 
 
+
+## 2026-03-22
+
+### Anatomy of the 42
+- **v3.2.3**
+	- Changed "Family Values" to "Family Orientation"
+	- Addiction → Military
+	- Addiction → Poverty
+	- Addiction → Public Trust
+		
+### Whitepaper
+- Changed "Family Values" to "Family Orientation"
+	
+### Influence Matrix
+- Changed "Family Values" to "Family Orientation"
+	
+### Research Repo
+- Renamed "Family Values" to "Family Orientation"
+Added `notes.txt` and `links.txt`
+	- add_mil
+	- add_pov
+	- add_pubt
+	
+- Added resources / research
+	- add_pov
+	- add_fam
+	- add_pubt
+	
+	
+---
+
+
 ## 2026-03-21
 
 ### Anatomy of the 42

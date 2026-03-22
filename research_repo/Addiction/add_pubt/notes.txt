@@ -1,1 +1,33 @@
-Notes for this influence:
+Notes for:
+
+Addiction → Public Trust = -0.12
+
+Addiction decreases public trust, though primarily through indirect pathways. On its own, addiction introduces unpredictability in behavior, reducing perceived reliability and consistency at the individual level. Trust depends on expectation, and addiction disrupts that expectation early and noticeably.
+
+The strongest immediate effect comes from social perception. Individuals struggling with addiction are quickly stigmatized and viewed as less trustworthy, often regardless of actual behavior. This creates a rapid drop in interpersonal trust, especially in early exposure or rising prevalence.
+
+However, this effect does not scale linearly. As addiction becomes more common or visible, it can normalize within certain environments. At that point, trust does not continue to collapse at the same rate; instead, expectations adjust, and individuals may be treated as “known quantities” rather than unknown risks.
+
+At the societal level, much of the trust impact is mediated through other variables such as crime, homelessness, and institutional response. Public trust is influenced less by addiction itself, and more by whether systems appear capable of managing it.
+
+In this sense, addiction does not directly dismantle trust, but it weakens the foundation it depends on, especially in early stages.
+
+***Shaping:***
+
+1) Logistic (saturated early decline)
+- Public trust decreases rapidly at low-to-moderate levels of addiction as stigma and perceived unpredictability rise quickly. 
+- As addiction becomes more widespread or normalized, the rate of decline slows, and trust stabilizes at a lower baseline.
+
+2) Cubed Monotopic (realistic)
+- The impact of addiction on public trust is heavily shaped by crime, homelessness, discrimination, etc. 
+- These interactions can either amplify early trust erosion or stabilize perception depending on how addiction manifests in the system.
+
+
+
+
+
+
+
+
+
+

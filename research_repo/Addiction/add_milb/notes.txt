@@ -1,1 +1,36 @@
 Notes for this influence:
+
+Addiction → Military = -0.16
+
+Addiction directly decreases military effectiveness; In studies, substance dependence reduces recruitment eligibility, degrades readiness, and impairs operational performance, while increasing the medical burden and long-term stress on personnel and military support systems. (See: s12954-022-00652-2.pdf and s40352-021-00134-w.pdf)
+
+***Shaping:***
+
+1) Linear (consistent)
+Very reasonable. Military effectiveness declines evenly as addiction increases; even small increases reduce eligibility and performance across the force, with compounding effects on readiness and reliability.
+
+2) Sigmoid (threshold)
+At low levels, military systems absorb the impact through screening, discipline, and medical oversight. Once addiction reaches a critical threshold within the population, recruitment pools shrink more noticeably and readiness declines more rapidly as disqualification rates and internal strain increase.
+
+3) Cubed Monotopic (realistic)
+The impact of addiction on military is shaped by interacting variables such as healthcare variables, mental health, poverty, education, and/or others. These interactions can either buffer early effects or accelerate degradation, producing nonlinear shifts in force readiness and long-term capability. Maybe if we can model it, we can even ignore/dampen addiction's influence for instances that require conscription? hmmm...
+
+~Evan Levy 3/22/26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

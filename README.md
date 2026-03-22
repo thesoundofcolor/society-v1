@@ -55,13 +55,13 @@ The conceptual and technical foundations of Society V1 are described in the foll
 - **[Whitepaper](documents/whitepaper/Society_v1_whitepaper.pdf)**
   - Overview of Society V1. For anyone unfamiliar with the project, start here.
 
-- **[Anatomy of the 42](documents/Anatomy_of_the_42/anatomy_of_the_42.pdf)** *Status: In Progress*
+- **[Anatomy of the 42](documents/Anatomy_of_the_42/anatomy_of_the_42.pdf)**  :  *Status: In Progress*
   - Defines each of the system’s variables, outlining conceptual scope, included and excluded components, measurement considerations, and methodological notes.
 
-- Computational & Mathematical Architecture (CMA) *Status: Pending*
+- Computational & Mathematical Architecture (CMA)  :  *Status: Pending*
   - Describes the influence engine and mathematical framework governing interactions between variables within the model.
 
-- Physical system Architecture (PSA) *Status: Pending*
+- Physical system Architecture (PSA)  :  *Status: Pending*
   - Physical construction details, circuit design, 3D modeling, and mechanical details.
 
 # Repository Structure

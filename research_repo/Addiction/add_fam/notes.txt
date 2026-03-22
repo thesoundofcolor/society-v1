@@ -1,6 +1,7 @@
 Notes for this influence:
+(Formally called "Family Values")
 
-Addiction → Family Values = -0.21
+Addiction → Family Orientation = -0.21
 
 Substance addiction destabilizes family structures and weakens the transmission of family values through several pathways:
 

@@ -1,0 +1,126 @@
+
+--------------------------------------------------------------- Active ------------------------------------------------------------------------|
+
+Addiction - prevalence of dependency on substances or behaviors that override self-control and disrupt normal functioning.
+
+Agriculture - capacity to produce food and sustain agricultural output for a population.
+
+Authoritarianism - degree to which power is centralized and individual freedoms are restricted by authority.
+
+Birthrate - rate at which new individuals are born into the population over time.
+
+Corruption - extent to which power is abused for personal gain within institutions or systems.
+
+Cost of Living - overall expense required to maintain a basic standard of living within a society.
+
+Crime - prevalence of unlawful behavior and violations of societal rules.
+
+Deathrate - rate at which individuals die within a population over time.
+
+Discrimination - degree to which individuals or groups are treated unfairly based on identity or characteristics.
+
+Diversity - variety and representation of different cultural, ethnic, and demographic groups within a society.
+
+Edu: Access - availability and ability for individuals to obtain education.
+
+Edu: Cost - financial burden required to receive education.
+
+Edu: Quality - effectiveness and standard of educational systems in producing knowledge and skills.
+
+Employment - availability and stability of jobs and workforce participation.
+
+Energy Production - capacity to generate and supply energy to support societal needs.
+
+Equality - degree to which individuals have equal rights, opportunities, and outcomes.
+
+Family Orientation - degree to which a society prioritizes family structure, reproduction, and generational continuity over individual autonomy and personal choice.
+
+Freedom of Speech - extent to which individuals can express ideas and opinions without censorship or punishment.
+
+Gun Rights - extent to which individuals are allowed to own and use firearms.
+
+HC Access - availability and ability for individuals to obtain healthcare services.
+
+HC Cost - financial burden required to receive healthcare.
+
+HC Quality - effectiveness and standard of healthcare systems in treating and preventing illness.
+
+Homelessness - prevalence of individuals lacking stable and permanent housing.
+
+Immigration - flow of individuals entering a society from external regions.
+
+Infrastructure - quality and availability of physical systems such as roads, utilities, and public works.
+
+Innovation - capacity for developing new ideas, technologies, and solutions.
+
+Law Enforcement - presence and activity of systems that enforce laws and maintain order.
+
+Liberty - degree of individual freedom and autonomy in personal decision-making.
+
+Market Freedom - extent to which voluntary exchange and economic activity operate without restriction.
+
+Mental Health - overall psychological well-being and stability of individuals within a population.
+
+Military - capacity for organized defense, including funding, personnel, and operational capability.
+
+Minimum Wage - legally mandated lowest compensation for labor.
+
+Pollution - level of environmental contamination affecting air, water, and land.
+
+Poverty - prevalence of individuals lacking sufficient resources to meet basic needs.
+
+Public Trust - degree of confidence individuals have in institutions and societal systems.
+
+Purpose/Meaning - extent to which individuals feel a sense of direction, value, or meaning in life.
+
+Sickness/Disease - prevalence of physical illness and health conditions within a population.
+
+Spirituality/God - degree of religious or spiritual belief and influence within society.
+
+Taxes - level of financial contribution required from individuals and entities to fund government operations.
+
+Tech - level of technological development and integration within society.
+
+Transportation - availability and efficiency of systems used to move people and goods.
+
+Welfare Support - extent of assistance provided to individuals in need through social programs.
+
+------------------------------- Not Active -------------------------------------------------------------------------
+
+(Order of impact)
+
+Rule of Law - consistency, predictability, and impartial application of laws, independent of status or influence.
+
+Institutional Trust – degree of public confidence in government, institutions, and societal systems.
+
+Resilience – ability of a society to absorb shocks and recover from disruptions without systemic collapse.
+
+Climate Stability – consistency and predictability of climate patterns affecting environmental and societal systems.
+
+CO2 Emissions – total greenhouse gas output contributing to atmospheric carbon concentration and climate change.
+
+Regulation – breadth and restrictiveness of formal rules, requirements, and legal constraints across society.
+
+Surveillance – extent of monitoring by state or institutions over individual behavior and activity.
+
+Migration – net movement of people across regions, including both internal displacement and cross-border flows.
+
+Border Security – strength and enforcement of controls regulating entry and exit across national boundaries.
+
+Judicial Severity – harshness of sentencing, penalties, and consequences imposed by the legal system after enforcement.
+
+Inflation Rate – rate at which the general price level of goods and services increases over time.
+
+Wage Gap – disparity in earnings between demographic groups, typically measured across gender or identity lines.
+
+Stigma – level of negative social judgment or discrimination toward specific behaviors, identities, or conditions.
+
+Patriarchy – degree to which social, political, and economic power is disproportionately held by men.
+
+LGBTQIA+ Inclusion – degree of social, legal, and cultural acceptance and protection of LGBTQIA+ individuals.
+
+Sexual Freedom – extent to which individuals can express sexuality without legal restriction or social repression.
+
+Creativity – capacity for novel idea generation, artistic expression, and innovative thinking within a population.
+
+Sex Ratio (M⇆F) – distribution balance between male and female populations within a society.
