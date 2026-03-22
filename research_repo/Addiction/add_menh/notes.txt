@@ -2,7 +2,13 @@ Notes for this influence:
 
 Addiction → Mental Health = -0.35
 
-Addiction is heavily linked to mental health, but not in a clean simple way. Depression, anxiety, PTSD, and stress disorders show up alongside addiction as a rule, not an exception, clustering and reinforcing each other rather than existing as separate problems. Addiction rarely (if ever) exists by itself; it behaves more like a comorbid sponge, absorbing and amplifying surrounding mental health conditions. It often starts off as a recreational chemical or endogenous reward activity, then develops secondary mental health disorders along the way before finally entrenching into a more absolute addictive state.
+Addiction is heavily linked to mental health deterioration. In fact, mental disorders like depression, anxiety, PTSD, and many others show up alongside addiction almost like a rule, not an exception; clustering and reinforcing each other rather than existing as separate domains. Addiction rarely (if ever) truly exists by itself; it behaves more like a comorbid sponge, absorbing and amplifying surrounding mental health conditions that, over time, become able to exist without the help of addiction.
+
+That is, addiction can create secondary mental disorders that become sustainable on their own. This is why it is important to treat addiction first, then address the underlying mental disorders through long-term treatment and maintenance.
+
+Though there is no single path addiction takes, it often starts as a recreational chemical or endogenous reward activity,  something social or experimental, then progressively develops secondary mental health issues over time before eventually entrenching itself as a disease once those conditions become sustained.
+
+Addiction could be considered a mental health creator, though not always through direct causation. It can shape a lifestyle or set of behaviors that gradually lead to deeper mental health deterioration, and should be understood as a progressive condition worsens over time. It is not just a mental health disease but a terminal one  if left unresolved. In the end, recovery cannot be externally imposed; it ultimately requires the individual to participate in and sustain their own exit from it.
 
 1. Linear (baseline and 'easy')
 	- Mental health degrades consistently as addiction increases; each increase in dependency tends to produce a proportional increase in depression, anxiety, and stress-related symptoms. There is no meaningful region where addiction improves mental health in a sustained way.
@@ -16,3 +22,4 @@ Addiction is heavily linked to mental health, but not in a clean simple way. Dep
 	- The relationship becomes highly nonlinear when interacting with other variables. Poverty, Family Values, Employment, Law Enforcement, and Healthcare Access (to name a few) can amplify or buffer the decline. Feedback loops between addiction and mental health drive compounding effects, where worsening mental health increases addiction, which in turn further degrades mental health.
 
 
+~Evan Levy 3/21/26
