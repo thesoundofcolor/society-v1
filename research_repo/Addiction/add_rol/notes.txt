@@ -1,0 +1,27 @@
+Notes for this influence:
+
+Addiction → Rule of Law = -0.17
+
+Addiction decreases rule of law, mostly through breaking down how people behave towards the law and how consistently the system is applied. While most of the impact is indirect, there is still a direct effect. Addiction changes decision-making, more impulsive, more short-term focused, less regard for consequences. That alone weakens voluntary compliance with rules, even outside of clear criminal behavior. As addiction rises, the law starts to feel less legitimate.
+
+At the system level, addiction creates inconsistency. People fall into gray areas: user vs dealer, patient vs offender. This leads to uneven enforcement and sentencing, which can create more animosity to the rule of law. More discretion gets introduced, and the system becomes less predictable and less reliable.
+
+That said, this edge needs to be handled carefully. A large portion of the impact already flows through Crime and Law Enforcement. Addiction increases crime, which pressures enforcement, which then affects rule of law. If we weight this edge too heavily, we end up double-counting that pathway.
+
+Rule of law is resilient. It doesn’t collapse easily, but it can degrade over time through inconsistency, inefficiency, and loss of legitimacy.
+
+***Shaping:***
+
+1) Linear (controlled)
+- Rule of law degrades steadily as addiction increases through reduced compliance and growing inconsistency in application. 
+- This avoids over-amplifying indirect pathways already captured through crime and enforcement. 
+
+2) Cubed Monotopic (realistic)
+- The relationship is shaped by interacting variables such as crime, law enforcement, corruption, and public trust. 
+- These interactions can amplify or dampen the effect depending on system conditions, creating nonlinear shifts in legal consistency and integrity.
+
+3) Logistic (resilient threshold)
+- Rule of law remains stable at low-to-moderate levels of addiction due to institutional buffering. 
+- Beyond a threshold, increasing case complexity, enforcement strain, and inconsistency begin to degrade system integrity more rapidly before tapering into a weakened but stable state.
+
+~Evan Levy 3/22/26

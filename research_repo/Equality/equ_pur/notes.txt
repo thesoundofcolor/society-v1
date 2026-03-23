@@ -1,5 +1,0 @@
-Notes for this influence:
-
-Equality -> Purpose/Meaning = +0.02
-
-Negligible but small positive influence on purpose and meaning mostly from perceived equality. Because it does have a non-zero effect on improving social conditions we can set this at a very low influence weight. (+0.01 ~ +0.04)

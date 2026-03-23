@@ -41,7 +41,7 @@ sliders = [
     "Pollution",
     "Poverty",
     "Public Trust",
-    "Purpose",
+    "Rule of Law",
     "Religion",
     "Sickness",
     "Taxes",

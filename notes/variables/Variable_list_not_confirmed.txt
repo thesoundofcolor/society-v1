@@ -71,7 +71,7 @@ Poverty - prevalence of individuals lacking sufficient resources to meet basic n
 
 Public Trust - degree of confidence individuals have in institutions and societal systems.
 
-Purpose/Meaning - extent to which individuals feel a sense of direction, value, or meaning in life.
+Rule of Law - consistency, predictability, and impartial application of laws, independent of status or influence.
 
 Sickness/Disease - prevalence of physical illness and health conditions within a population.
 
@@ -88,8 +88,6 @@ Welfare Support - extent of assistance provided to individuals in need through s
 ------------------------------- Not Active -------------------------------------------------------------------------
 
 (Order of impact)
-
-Rule of Law - consistency, predictability, and impartial application of laws, independent of status or influence.
 
 Institutional Trust – degree of public confidence in government, institutions, and societal systems.
 
@@ -110,6 +108,8 @@ Border Security – strength and enforcement of controls regulating entry and ex
 Judicial Severity – harshness of sentencing, penalties, and consequences imposed by the legal system after enforcement.
 
 Inflation Rate – rate at which the general price level of goods and services increases over time.
+
+Purpose/Meaning - extent to which individuals feel a sense of direction, value, or meaning in life.
 
 Wage Gap – disparity in earnings between demographic groups, typically measured across gender or identity lines.
 

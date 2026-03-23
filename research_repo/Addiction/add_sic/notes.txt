@@ -1,1 +1,21 @@
 Notes for this influence:
+
+Addiction → Sickness/Disease = +0.32
+
+Addiction directly increases sickness and disease through physiological damage, increased exposure to harmful substances, and the development of comorbid conditions. It affects both physical health (e.g., organ damage, infections) and mental health, and is strongly associated with increased morbidity and mortality. (See: s41386-020-00950-y.pdf)
+
+***Shaping:***
+
+1) Logistic (resilient start)
+- At low levels, the body and mind show some resilience, and early-stage use may not immediately translate into severe disease. 
+- As addiction increases, health deterioration accelerates more rapidly before tapering as maximum disease burden is approached.
+
+2) Cubed Monotopic (realistic)
+- Higher-order edge (shaping) influence
+- The relationship is further shaped by interactions with variables such as healthcare access, mental health, poverty, and environment. 
+
+
+
+
+
+

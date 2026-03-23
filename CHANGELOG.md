@@ -6,29 +6,40 @@
 
 ### Anatomy of the 42
 - **v3.2.3**
-	- Changed "Family Values" to "Family Orientation"
+	- Changed `Family Values` to `Family Orientation`
+	- Changed `Purpose/Meaning` to `Rule of Law`
 	- Addiction → Military
 	- Addiction → Poverty
 	- Addiction → Public Trust
+	- Addiction → Rule of Law
+	- Addiction → Sickness/Disease
 		
 ### Whitepaper
-- Changed "Family Values" to "Family Orientation"
+- Changed `Family Values` to `Family Orientation`
+- Changed `Purpose/Meaning`
 	
 ### Influence Matrix
 - Changed "Family Values" to "Family Orientation"
+- Changed "Purpose/Meaning" to "Rule of Law"
 	
 ### Research Repo
 - Renamed "Family Values" to "Family Orientation"
-Added `notes.txt` and `links.txt`
-	- add_mil
-	- add_pov
-	- add_pubt
+- Changed "Purpose/Meaning" to "Rule of Law" 
+	- Changed all instances of "_pur" to "_rol"
+	- Changed instances of "pur" ro "rol"
+- Added `notes.txt` and `links.txt`
+	- `add_mil`
+	- `add_pov`
+	- `add_pubt`
+	- `add_rol`
+	- `add_sic`
 	
 - Added resources / research
-	- add_pov
-	- add_fam
-	- add_pubt
-	
+	- `add_pov`
+	- `add_fam`
+	- `add_pubt`
+	- `add_rol`
+	- `add_sic`
 	
 ---
 
