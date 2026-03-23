@@ -1,7 +1,40 @@
 Notes for this influence:
 
+Addiction → Spirituality/God = -0.18 
+
+Addiction negatively impacts spirituality (or belief in a higher power). While individuals experiencing addiction may still hold spiritual beliefs, those beliefs often become weakened, conflicted, or instrumental rather than stable and lived.
+
+This relationship is bidirectional. Higher levels of spirituality can act as a protective factor against addiction, while lower spirituality leaves individuals more exposed to the pathways addiction exploits.
+
+There is strong evidence that spiritual growth does not only occur after recovery, but that spirituality itself, whether through structured programs or personal commitment, can directly contribute to overcoming addiction.
+
+Some argue that psychoactive substances can induce transcendent or “spiritual” experiences. However, these are typically momentary and experiential rather than embodied and sustained. Lasting spiritual development is more accurately attributed to recovery processes, not addiction itself.
+
+Therefore, the net influence of addiction on spirituality is negative. Any observed increase in spirituality is usually a rebound effect that follows reduction in addictive behavior, rather than something produced by addiction.
+
+
+***Shaping:***
+
+1) Logistic (slow/resilient start)
+Spirituality has early resistance to addiction; low levels of addiction may not immediately disrupt belief or identity, but as addiction increases, coherence and spiritual awareness begin to erode more noticeably, eventually tapering as spirituality stabilizes in a reduced or superficial state.
+
+2) Cubed Monotopic (realistic)
+The relationship is shaped by interactions with mental health and the social environment. In some conditions, spirituality may rapidly collapse; in others, say, if Family Orientation is higher, it may persist or even rebound, producing nonlinear shifts depending on the broader system.
+
+3) Sigmoid (threshold)
+Spirituality may appear stable for a period, then degrade more rapidly once a behavioral or identity threshold is crossed. After this shift, it settles into a new equilibrium where spirituality remains present but diminished or less embodied.
+
+4) Linear
+It could work. **PULL IN CASE OF THINGS GETTING TOO HARD**
+
+
+[~E.Levy 3-23-26]
+
+
+
+
+- Archive -----------------------------------------------------------------------------------------------------------
+
 Addiction → Spirituality/God = -0.17 [01-11-26 ~Evan L.]
 
-Active addiction exerts a negative influence on spirituality and belief in a higher power. While individuals experiencing addiction may retain nominal or cultural belief, the literature consistently shows that addiction is associated with weakened, conflicted, or instrumental forms of spirituality. Loss of self-regulation, identity fragmentation, guilt, and alienation—core features of addiction, undermine the psychological conditions that support stable and meaningful transcendent belief.
 
-Evidence indicates that increases in spirituality typically occur after individuals enter recovery or pursue abstinence, often through structured intervention or personal commitment. These gains should therefore be attributed to recovery processes rather than addiction itself. As a result, the net influence of addiction on spirituality is modeled as negative, with positive spiritual development treated as a conditional rebound that follows reduction in addictive behavior rather than arising from it.

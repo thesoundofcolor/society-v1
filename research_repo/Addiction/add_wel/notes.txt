@@ -1,1 +1,30 @@
 Notes for this influence:
+
+Addiction → Welfare = +0.16
+
+Addiction increases reliance on welfare systems, though not always through long-term dependency. The primary mechanism is instability. Substance dependence disrupts employment, consistency, and the ability to meet program requirements, leading to cycles of entry, exit, and re-entry rather than sustained support.
+
+In many cases, addiction does not significantly extend the total duration of welfare use, but it does increase system churn. Individuals may lose benefits due to non-compliance, fail to maintain employment, or repeatedly re-enter assistance programs. This creates a persistent reliance pattern driven more by instability than by static dependency.
+
+At the same time, welfare systems can act as a point of intervention. Access to healthcare, screening, and treatment services through welfare programs can partially offset addiction over time. This introduces a balancing effect, where increased reliance also creates pathways for recovery.
+
+Because of this, the relationship is real but moderated. Addiction contributes to welfare reliance, but the magnitude depends heavily on policy structure, enforcement, and available support systems.
+
+***Shaping:***
+
+1) Logistic (destabilizing ramp)
+At low levels, welfare systems absorb individuals with minimal disruption. As addiction increases, instability rises more rapidly, leading to increased cycling and reliance. This effect tapers as the system reaches a saturation point of recurring cases.
+
+2) Cubed Monotopic (realistic)
+The relationship is shaped by interactions with employment, mental health, healthcare access, etc. In stricter or discriminatory systems, addiction may reduce access through disqualification, while in more supportive or equal systems it increases reliance, producing nonlinear and policy-dependent outcomes.
+
+
+
+
+
+
+
+
+
+
+

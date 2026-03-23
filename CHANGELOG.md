@@ -2,6 +2,34 @@
 
 
 
+## 2026-03-23
+
+### Anatomy of the 42
+- **v3.2.4**
+	- Finished Addiction! One down..... 41 to go...
+		- Addiction → Spirituality
+		- Addiction → Welfare
+
+### Research Repo
+- Added `notes.txt` and `links.txt`
+	- `add_spi`
+	- `add_tax`
+	- `add_tec`
+	- `add_wel`
+	
+- Added resources / research
+	- `add_spi`
+		- `0007CDRR.pdf`
+			- *"Spirituality, Religiosity and Addiction Recovery: Current Perspectives"*
+			- Includes references to several clinical studies
+	- `add_wel`
+
+	
+### Influence Matrix
+- Changed **"Welfare Support"** to **"Welfare"**
+
+---
+
 ## 2026-03-22
 
 ### Anatomy of the 42
