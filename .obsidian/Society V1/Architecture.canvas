@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"d48f1cc78f0610c0","type":"file","file":"Power Architecture/Input.md","x":-940,"y":-760,"width":360,"height":360,"color":"#8f0000"},
+		{"id":"1cad7f4976cd9e61","type":"file","file":"Power Architecture/ESD.md","x":-520,"y":-740,"width":280,"height":320,"color":"#ff0000"},
+		{"id":"abf0587eac33380f","type":"file","file":"Power Architecture/Reverse Polarity Protection.md","x":-180,"y":-740,"width":240,"height":320,"color":"#d22d2d"},
+		{"id":"0f212fd2976ce59c","type":"file","file":"Power Architecture/Fuse.md","x":120,"y":-740,"width":260,"height":320,"color":"#a33100"},
+		{"id":"c2e93190e0a66236","type":"file","file":"Images/power-supply-9v-3a-27w.avif","x":-1320,"y":-680,"width":200,"height":200},
+		{"id":"adc9ebd124be4b10","type":"file","file":"Power Architecture/Shunt.md","x":-520,"y":-234,"width":340,"height":332},
+		{"id":"0036590d411f4fbb","type":"file","file":"Power Architecture/Buck Converter 3.3Vdc.md","x":-1120,"y":400,"width":320,"height":80,"color":"4"},
+		{"id":"85de53eb3326d4c7","type":"file","file":"Power Architecture/Buck Converter 5Vdc.md","x":-520,"y":400,"width":320,"height":80,"color":"#007bff"},
+		{"id":"5590f95e8482ca6f","type":"file","file":"Power Architecture/Boost LED Driver.md","x":78,"y":396,"width":270,"height":84},
+		{"id":"ae791b989154c016","type":"file","file":"Power Architecture/Power Monitor (MAIN).md","x":60,"y":-216,"width":275,"height":296,"color":"#ff6600"}
+	],
+	"edges":[
+		{"id":"ffdddbaa2954b84b","fromNode":"d48f1cc78f0610c0","fromSide":"right","toNode":"1cad7f4976cd9e61","toSide":"left","color":"#640000"},
+		{"id":"3b5203d2e6ea94f6","fromNode":"1cad7f4976cd9e61","fromSide":"right","toNode":"abf0587eac33380f","toSide":"left","color":"#640000"},
+		{"id":"e0dfdd0e8cf445c3","fromNode":"abf0587eac33380f","fromSide":"right","toNode":"0f212fd2976ce59c","toSide":"left","color":"#640000"},
+		{"id":"ca3aaee0dd4a637e","fromNode":"0f212fd2976ce59c","fromSide":"bottom","toNode":"adc9ebd124be4b10","toSide":"top","color":"#af0000","label":"IN+"},
+		{"id":"2d8b47841f817e4f","fromNode":"adc9ebd124be4b10","fromSide":"bottom","toNode":"85de53eb3326d4c7","toSide":"top","color":"1","label":"9vdc"},
+		{"id":"c1bf3acc82fdfc14","fromNode":"adc9ebd124be4b10","fromSide":"bottom","toNode":"5590f95e8482ca6f","toSide":"top","color":"1","label":"9vdc"},
+		{"id":"71590474478e3741","fromNode":"c2e93190e0a66236","fromSide":"right","toNode":"d48f1cc78f0610c0","toSide":"left","color":"#ffffff"},
+		{"id":"b4b1ef8b08e98e07","fromNode":"adc9ebd124be4b10","fromSide":"bottom","toNode":"0036590d411f4fbb","toSide":"top","color":"1","label":"9vdc"},
+		{"id":"5c7aa42fa83443da","fromNode":"adc9ebd124be4b10","fromSide":"right","toNode":"ae791b989154c016","toSide":"left","fromEnd":"arrow","label":"\n"}
+	]
+}

@@ -1,8 +1,8 @@
-# Possible Variables
+# Possible Variables, none of these are actively being used in the model
 
 ##In order of importance
 
-Rule of Law - consistency, predictability, and impartial application of laws, independent of status or influence.
+~~Rule of Law - consistency, predictability, and impartial application of laws, independent of status or influence.~~
 
 Institutional Trust - degree of public confidence in government, institutions, and societal systems.
 
@@ -23,6 +23,10 @@ Border Security - strength and enforcement of controls regulating entry and exit
 Judicial Severity - harshness of sentencing, penalties, and consequences imposed by the legal system after enforcement.
 
 Inflation Rate - rate at which the general price level of goods and services increases over time.
+
+
+Purpose/Meaning - extent to which individuals feel a sense of direction, value, or meaning in life. [Formally swapped with "Rule of Law" 3/23/26]
+
 
 Wage Gap - disparity in earnings between demographic groups, typically measured across gender or identity lines.
 

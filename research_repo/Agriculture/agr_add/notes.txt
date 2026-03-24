@@ -1,1 +1,21 @@
 Notes for this influence:
+
+Agriculture → Addiction = +0.05
+
+Agriculture exerts a slight positive pressure on addiction, though the relationship is not simple and should not be overstated. This is not because agriculture as a whole “causes” addiction in some broad deterministic sense, but because many agricultural conditions can quietly create the kind of pressure addiction feeds on: chronic pain, injury, fatigue, isolation, unstable margins, and long-term stress. These risk channels are especially relevant for alcohol and opioid use.
+
+The literature supports this as a real but limited pressure. Agricultural work often carries high physical strain and injury risk, and opioid-related harms can directly affect labor, safety, productivity, and daily functioning within agricultural industries. Some farming populations also show elevated harmful alcohol or substance use within specific subgroups, especially where younger age, lower income, part-time status, or off-farm stressors are present. At the same time, agriculture is not uniformly associated with addiction; many farming populations report broadly healthy behavior overall, which is why this edge should remain modest.
+
+This means the net effect is best modeled as a slight positive pressure with strong contextual dependence. In some environments, agriculture may increase addiction risk through strain and instability. In others, it may suppress addiction by providing structure, purpose, labor demand, food security, or local economic grounding. The base weight therefore stays small, while the curve does the real work.
+
+***Shaping:***
+
+1) Non-monotopic / Higher-order controlled
+This edge should be allowed to bend, flatten, or reverse depending on other variables. Under conditions like poverty, poor healthcare access, labor strain, weak public trust, or high injury burden, agriculture may raise addiction pressure more clearly. Under stronger employment conditions, better healthcare, higher purpose/meaning, or more stable local systems, the direction may weaken or reverse.
+
+2) Cubed Monotopic (fallback)
+If higher-order shaping is not yet implemented, a soft cubic curve can still reflect that agriculture’s influence is mild at low-to-moderate levels, but becomes more noticeable where physical strain, instability, or occupational pressure accumulate.
+
+This is one of those edges where the base weight matters less than the surrounding system. The number alone should stay small and humble.
+
+~Evan Levy 3/24/26

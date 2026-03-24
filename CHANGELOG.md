@@ -2,6 +2,35 @@
 
 
 
+## 2026-03-24
+
+### Anatomy of the 42
+- **v3.2.4**
+	- Reassigned variable names with actual variable containers macro "\SliderOne" to "SliderFortyTwo"
+	- Revised Agriculture page
+	- Agriculture Edge summaries
+		- Agriculture → Addiction
+
+### Research Repo
+- Added `.obsidian` for Obsidian envioronment
+	- Created hardware archetecture flowchart
+	- Assigned some parts
+		- RPP
+			- P-Channel MOSFET
+		- eFuse
+			- TPS259240DRCT
+		- ESD; TVS diode
+			- SMBJ10CA
+		-Current Sense
+			- Shunt
+			- INA219
+	
+- Added resources / research
+	- `agr_add`
+- Added `notes.txt` and `links.txt`
+	- `agr_add`
+	
+---
 ## 2026-03-23
 
 ### Anatomy of the 42
