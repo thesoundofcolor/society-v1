@@ -1,6 +1,21 @@
 # Society V1 - Captian's Log
 
 
+## 2026-03-27
+
+### Anatomy of the 42
+- **v3.2.5**
+	- Added graph under Addiction's edge summaries
+	- Added Agriculture Edge summaries table
+		- Agriculture → Authoritarianism
+
+### Research Repo
+- Added resources / research
+	- `agr_aut`
+- Added `notes.txt` and `links.txt`
+	- `agr_aut`
+	
+---
 
 ## 2026-03-24
 
@@ -8,28 +23,29 @@
 - **v3.2.4**
 	- Reassigned variable names with actual variable containers macro "\SliderOne" to "SliderFortyTwo"
 	- Revised Agriculture page
-	- Agriculture Edge summaries
+	- Added Agriculture Edge summaries table
 		- Agriculture → Addiction
 
 ### Research Repo
-- Added `.obsidian` for Obsidian envioronment
-	- Created hardware archetecture flowchart
-	- Assigned some parts
-		- RPP
-			- P-Channel MOSFET
-		- eFuse
-			- TPS259240DRCT
-		- ESD; TVS diode
-			- SMBJ10CA
-		-Current Sense
-			- Shunt
-			- INA219
-	
 - Added resources / research
 	- `agr_add`
 - Added `notes.txt` and `links.txt`
 	- `agr_add`
 	
+### Obsidian
+	- Added `.obsidian` directory for Obsidian work
+	- Created `Hardware Archetecture` canvas
+		- Power architecture flowchart
+		- Assigned some parts
+			- RPP:
+				- P-Channel MOSFET
+			- eFuse:
+				- TPS259240DRCT
+			- ESD; TVS diode:
+				- SMBJ10CA
+			-Current Sense:
+				- Shunt
+				- INA219
 ---
 ## 2026-03-23
 

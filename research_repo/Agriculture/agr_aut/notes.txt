@@ -1,1 +1,36 @@
 Notes for this influence:
+
+Agriculture → Authoritarianism = +0.10
+
+Agriculture creates a modest but consistent pressure toward authoritarian structures, primarily through land control, resource dependency, and coordination requirements. This effect is not universal, but certain agricultural systems—especially large-scale or resource-dependent ones, naturally favor centralized authority.
+
+Historically, systems that required coordinated management, such as irrigation-based agriculture, often concentrated power in the hands of a ruling authority or elite class. Control over water, land, food supply, etc. created direct leverage over populations, reinforcing top-down governing structures. 
+
+In modern times, similar dynamics emerge through land ownership, land consolidation, subsidy systems, and vertically integrated supply chains. When agricultural production is concentrated among a smaller number of actors, control becomes easier to centralize and harder to contest. Dependency on these systems reduce local autonomy and increase susceptibility to top-down control.
+
+At the same time, agriculture can push in the opposite direction under different structures. Smallholder farming, distributed land ownership, and local food systems tend to strengthen community autonomy and reduce reliance on centralized authority.
+
+The net effect is a moderate positive pressure, with structure being the determining factor. Centralized and resource-controlled systems reinforce authoritarian tendencies; decentralized and community-driven systems resist them.
+
+***Shaping:***
+
+1) Non-monotonic / Higher-order controlled  
+This edge should be strongly influenced by variables such as land distribution (not a slider but maybe we can use "Cost of Living", "Equality", etc.), Rule of Law/LE, and public trust (or institutional trust if we add that slider). High concentration amplifies authoritarian pressure; distributed ownership can suppress or reverse it.
+
+2) Threshold / Logistic behavior  
+Minimal effect at low levels. As agriculture becomes more centralized or resource-dependent, authoritarian pressure increases more rapidly before saturating.
+
+3) Cubic Monotonic (fallback)  
+A soft cubic curve captures low initial impact with gradual strengthening as systems scale and concentrate.
+
+
+
+
+
+
+
+
+
+
+
+

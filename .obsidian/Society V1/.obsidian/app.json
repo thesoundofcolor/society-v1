@@ -1,3 +1,5 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "focusNewTab": false,
+  "showLineNumber": true
 }
