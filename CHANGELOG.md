@@ -12,8 +12,11 @@
 ### Research Repo
 - Added resources / research
 	- `agr_aut`
+	- `agr_bir`
+	
 - Added `notes.txt` and `links.txt`
 	- `agr_aut`
+	- `agr_bir`
 	
 ---
 

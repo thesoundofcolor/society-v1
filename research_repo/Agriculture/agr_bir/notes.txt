@@ -1,5 +1,19 @@
-Notes for this influence:
+Notes for:
 
 Agriculture → Birthrate = .13
 
-Note needed here to explain research and weight coordination.
+Higher agricultural presence and integrity directly increases birthrate by improving food stability, lowering survival uncertainty, and reinforcing family oriented labor. Bidirectionally, in agrarian systems, children function as both dependents and contributors, which historically pushes fertility higher.
+
+The effect softens as agriculture industrializes (higher technological or industrial adaptation). Mechanization reduces the need for large families, and modern agricultural systems introduce secondary pressures: urban migration, cost shifts, environmental exposure, etc. 
+
+At extreme levels, factors like pesticide exposure have been linked to increased adverse birth outcomes, adding localized downward pressure (see s41467-017-00349-2).
+
+Overall, agriculture supports net higher birthrates, but the effect diminishes as systems become more efficient and less labor-dependent.
+
+**Shaping:**
+
+1) Linear (straight-forward curve)
+	- Simple consistent influence should be fine for such a small influence
+
+2) Non-monotopic (realistic)
+	- Depending on the level of mechanization and pesticides, the birthrate can either be influences negatively or positively.

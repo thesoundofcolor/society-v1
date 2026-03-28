@@ -14,6 +14,8 @@ CO2 Emissions - total greenhouse gas output contributing to atmospheric carbon c
 
 Regulation - breadth and restrictiveness of formal rules, requirements, and legal constraints across society.
 
+Industrialization - level of mechanized technology adopted into manufactoring and production chains.  [added 3/27/26]
+
 Surveillance - extent of monitoring by state or institutions over individual behavior and activity.
 
 Migration - net movement of people across regions, including both internal displacement and cross-border flows.
