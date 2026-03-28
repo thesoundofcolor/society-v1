@@ -1,1 +1,29 @@
-Notes for this influence:
+Notes for:
+
+Agriculture to Cost of Living = -0.12
+
+Negative influence. Agriculture reduces cost of living primarily through food availability and price stabilization. When local agricultural productivity is high, households rely less on external markets, transportation costs decrease, and food becomes more accessible and affordable.
+
+In many regions, agriculture also provides direct subsistence, bypassing market costs entirely. Increased yields can generate surplus, improving household income while simultaneously lowering dependency on purchased goods.
+
+However, this effect is not one-directional.
+
+As agriculture industrializes, input costs (fertilizer, fuel, machinery) rise and can propagate into food prices. Large-scale systems also introduce supply chain dependencies, which can reintroduce volatility and cost pressures.
+
+In developed economies, food represents a smaller share of total expenses, so gains in agriculture have a diminishing impact on overall cost of living.
+
+Net effect: Agriculture lowers cost of living most strongly in early and mid-development stages; the effect tapers and partially reverses under industrial complexity.
+
+**Shaping:** 
+1) Monotonic cubic
+Strong early decrease (subsistence + local supply)
+Slows as economies diversify
+Slight flattening or even minor rebound at high levels (industrial cost structures)
+
+2) Soft logistic (inverted)
+Rapid early benefit
+Clear saturation point where additional agriculture has minimal impact
+
+3) Linear (simple curve)
+
+~Evan Levy 3/27/26

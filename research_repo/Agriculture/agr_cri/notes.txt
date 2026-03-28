@@ -1,1 +1,50 @@
 Notes for this influence:
+
+Agriculture → Crime = -0.14
+
+
+### Weight Justification
+
+- [-0.14] (slightly stronger than intuition suggests)
+- Empirical evidence shows income shocks from agriculture meaningfully shift crime rates (~3-5%) 		
+	- See: ssrn-2428249.pdf
+- Strongest in agrarian / lower-income contexts
+- Primarily affects property crime more than violent crime
+
+### Note:
+
+Agriculture slightly reduces crime primarily through income stability and opportunity cost.
+
+In regions where agriculture forms a large share of employment and income, strong agricultural output increases wages, improves household stability, and raises the opportunity cost of engaging in crime. When people can reliably earn, the incentive to take risks through illicit activity declines.
+
+Conversely, when agriculture fails, due to drought, heat, or poor yields, crime increases, particularly property crime. This is consistent with economic theory: reductions in legitimate income lower the cost of engaging in crime, making it a more viable option.
+
+Empirical evidence shows that negative agricultural shocks (via rainfall or temperature) lead to measurable increases in crime, often in the range of ~3–5%, with stronger effects on economically motivated crimes such as theft, burglary, and robbery.
+
+However, this relationship is not purely economic.
+
+Not all increases in crime can be explained by income loss alone. Some effects spill into violent or socially disruptive behavior, suggesting broader social destabilization under economic stress. Additionally, as economies modernize and agriculture becomes a smaller share of total income, this relationship weakens.
+
+Net effect: Strong agriculture suppresses crime through income stability and deterrence; agricultural failure increases crime through economic pressure and reduced opportunity cost.
+
+### Range
+Keep the weight in between -0.03 and -0.16
+The one paper suggestes 3-5% which would be -0.03 ~ -0.05
+But for the model, -0.14 is a very low weight that still has a noticeable influence.
+
+## Shaping Notes
+1) Monotonic cubic (realistic S-curve w/ higher-order context)
+Strong early crime reduction as subsistence stabilizes
+Mid-range flattening as diversification reduces dependence
+High-end diminishing returns (industrial economies)
+
+2) Asymmetric curve
+Weak gains from positive agriculture
+Strong spike in crime when agriculture collapses (shock-driven behavior)
+
+3) Linear (simple and completely fine for small influence weights)
+
+~Evan Levy 3-27-26
+
+
+

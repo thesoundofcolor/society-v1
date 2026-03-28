@@ -6,17 +6,24 @@
 ### Anatomy of the 42
 - **v3.2.5**
 	- Added graph under Addiction's edge summaries
-	- Added Agriculture Edge summaries table
+	- Added edges to Agriculture's *Edge Summaries* table
 		- Agriculture → Authoritarianism
+		- Agriculture → Birthrate
+		- Agriculture → Cost of Living
+		- Agriculture → Crime
 
 ### Research Repo
 - Added resources / research
 	- `agr_aut`
 	- `agr_bir`
+	- `agr_coso`
+	- `agr_cri`
 	
 - Added `notes.txt` and `links.txt`
 	- `agr_aut`
 	- `agr_bir`
+	- `agr_coso`
+	- `agr_cri`
 	
 ---
 
