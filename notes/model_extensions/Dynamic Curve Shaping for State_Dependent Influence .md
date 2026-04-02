@@ -21,7 +21,7 @@ This means:
 
 `Addiction → Healthcare Cost`:
 
-Baseline: monotonic cubic (slow → sharp → softening)
+Baseline: monotonic cubic (slow, then sharp, then softening out)
 
 With strong Healthcare Quality:
 
@@ -33,7 +33,7 @@ With weak HC Quality:
 - Acceleration becomes sharper
 - Upper-range softening is reduced (system strain persists)
 
-Another example:
+### Another example:
 
 `Crime → Law Enforcement`
 
@@ -49,27 +49,25 @@ So the edge may keep the same general direction, but the actual curve shape chan
 
 Static edges assume: “A always affects B the same way.”
 
-Dynamic shaping acknowledges: “A affects B differently depending on the state of the system.”
+Dynamic shaping is more, well, dynamic: “A affects B differently depending on how far we change and simultaneously the current state of the system.”
 
-This reduces unrealistic uniformity, captures emergent behavior, and prevents oversimplification of multi-variable interactions
+This reduces unrealistic uniformity (linear curves), it mimicks emergent behavior, and prevents oversimplification of multi-variable interactions
 
 It allows higher-order influences without exploding edge count
 
 Implementation Direction **(Conceptual)**
 
 Instead of:
-
 B += f(A)
 
-we move toward:
-
+we do:
 B += f(A, shape_params(C, D, ...))
 
 Where: f is the base curve (e.g., cubic)
 
 shape_params modifies slope, curvature, or inflection points dynamically
 
-This keeps core structure (edges still exist) but adds adaptive behavior
+This keeps the core idea (edges still exist) but adds the adaptive behavior that might just reflect reality. Wishful thinking? yeah, but wrong? not completely :P
 
 ## Tradeoffs
 
@@ -98,4 +96,4 @@ Rather than viewing influences as fixed pipes, which they are not, this approach
 
 This actually solves the higher-order problem I have been kicking down the road and dreading to encounter... 
 
->***Evan, you better read this note when you are working on the tranformer engine!***
+~Evan Levy

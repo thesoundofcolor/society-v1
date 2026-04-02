@@ -1,1 +1,28 @@
 Notes for this influence:
+
+Agriculture → Energy Production = +0.18
+
+More agriculture means an increase energy production, in direct correlation. This is not in a linear “more farms = more energy” way. It does so through two overlapping mechanisms: rising energy demand and the creation of energy supply pathways.
+
+As agriculture scales and intensifies, it becomes increasingly more energy hungry. Mechanization, irrigation, fertilizer production, processing, and transportation all require energy sources. High-input agriculture can require up to ~5 times more energy than low-input systems, mostly for fertilizer production, machinery, and irrigation systems. (see: `s41467-021-22581-7.pdf`)
+
+Agriculture also produces its own fuel sources. Turning crop residues, manure, and organic waste into energy sources like biomethane or other biofuels. This effectively turns farms into decentralized energy producers, creating a dual-role system: agriculture is both a major energy consumer and a localized energy generator . (see `energies-18-01031.pdf`)
+
+The net effect is a positive increase on energy production as a whole. 
+
+
+***Shaping Notes:***
+
+1) Monotonic cubic
+- weak effect at low agricultural output, then accelerates with industrialization, soft saturation towards upper side as efficiency gains and renewables stabilize growth
+
+2)Near-linear (soft-linear)
+
+### Bias note: 
+The influence effect is partially mediated by Technology and Infrastructure; without those, agriculture leans more toward demand than production
+
+
+~Evan Levy 4/2/26
+
+
+

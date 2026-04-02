@@ -1,12 +1,31 @@
 # Society V1 - Captian's Log
 
+
+## 2026-04-02
+### Anatomy of the 42
+- **v3.2.7**
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → Energy Production
+		- Agriculture → Equality
+
+### Research Repo
+- Added resources / research
+	- `agr_ene`
+	- `agr_equ`
+
+- Added `notes.txt` and `links.txt`
+	- `agr_ene`
+	- `agr_equ`
+
+---
+
 ## 2026-04-01
 ### Anatomy of the 42
 - **v3.2.6**
 	- Added edges to Agriculture's *Edge Summaries* table
 		- Agriculture → Death Rate
 		- Agriculture → Discrimination
-		- Agriculture → 
+		- Agriculture → Employment
 
 ### Research Repo
 - Added resources / research
@@ -15,6 +34,7 @@
 	- `agr_div`
 	- `agr_edua`
 	- `agr_educ`
+	- `agr_emp`
 	
 
 - Added `notes.txt` and `links.txt`
@@ -23,6 +43,7 @@
 	- `agr_div`
 	- `agr_edua`
 	- `agr_educ`
+	- `agr_emp`
 
 ---
 

@@ -1,3 +1,20 @@
-Notes for this influence:
+Notes for:
 
--.09
+Agriculture → Equality = -.09
+
+Agriculture does not inherently reduce equality but there is statistical correlation nevertheless. Unequal distributions alone don’t mean anything if they emerge from population structure, geography, or voluntary specialization. Equality is not the absence of uneven outcomes; it is the presence of fair access.
+
+The negative pressure shows up when agriculture ties survival to assets—land, credit, knowledge, and institutional access—and those systems are not evenly accessible. At that point, agriculture becomes a multiplier of whatever inequalities already exist, whether they were intentional or not.
+
+***Shaping:***
+1) Soft-logistic (saturated)
+- Stronger early decline as access to land, credit, and assets quickly separates who can participate
+- Tapers as those gaps become normalized and harder to overcome
+
+2) Linear
+- Fine for a smaller influence like this
+- Simple and probably sufficient unless later tuning shows stronger threshold effects
+
+3) Higher-order (unsure of the best shape to use for this one, will have to experiment)
+
+~Evan Levy 4/2/26
