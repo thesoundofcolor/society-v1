@@ -1,1 +1,23 @@
 Notes for this influence:
+
+Agriculture → Education: Quality = 0.0
+
+Agriculture does not directly influence education quality.  
+
+A negligible increase could be justified but it isn't direct so we won't overcomplicate things. If this influence makes a difference somewhere, it could be something between +0.01 and +0.04
+
+Agricultural environments can support experiential learning and engagement but these benefits only emerge when intentionally integrated into educational systems. Without that mediation, agriculture itself does not shape instructional quality or academic effectiveness.
+
+~Evan Levy 4/1/26
+
+
+
+
+
+
+
+
+
+
+
+

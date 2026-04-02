@@ -1,1 +1,22 @@
 Notes for this influence:
+
+Agriculture → Death Rate = -0.17
+
+Agriculture directly influences the death rate (negatively) through food stability and nutrition. Reducing food scarcity directly increases survivability and prolonged life. This is one of its most important effects for agriculture and historically one of the clearest survival advantages in all of human civilization. 
+
+Notwithstanding, the benefits for this influence are partially offset by the fact that agriculture work is dangerous. Farming regions carry the added mortality pressures from severe injuries, mental health crises (mainly suicides and overdoses), and weaker access to healthcare. Overall the net effect remains a strong decrease, meaning that even with peak work-related deaths, agriculture has a moderate impact by directly reducing the general death rates in society.
+
+***Shaping***
+
+- Negative logistic (w/ soft saturation)
+-- death rate reduces strongly at low-to-mid levels because food security has a large effect early, a little bit a food goes a long way for survival, but then tapers as basic survival needs are already being met. A slight softening near the high end is also justified because agricultural intensity can reintroduce mortality through labor hazards, livestock-related stress, suicides, and rural structural risks (see the repo resources in agr_dea).
+
+~Evan Levy 4/1/26
+
+
+
+
+
+
+
+

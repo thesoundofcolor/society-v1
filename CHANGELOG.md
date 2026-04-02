@@ -1,5 +1,30 @@
 # Society V1 - Captian's Log
 
+## 2026-04-01
+### Anatomy of the 42
+- **v3.2.6**
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → Death Rate
+		- Agriculture → Discrimination
+		- Agriculture → 
+
+### Research Repo
+- Added resources / research
+	- `agr_dea`
+	- `agr_dis`
+	- `agr_div`
+	- `agr_edua`
+	- `agr_educ`
+	
+
+- Added `notes.txt` and `links.txt`
+	- `agr_dea`
+	- `agr_dis`
+	- `agr_div`
+	- `agr_edua`
+	- `agr_educ`
+
+---
 
 ## 2026-03-27
 

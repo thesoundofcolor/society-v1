@@ -1,1 +1,45 @@
 Notes for this influence:
+
+Agriculture → Employment = +0.21
+
+Direct influence. Agriculture is a primary driver of employment. Especially so in rural economies; generating labor demand across production, processing, and supply chains. As agricultural activity expands or shifts toward higher-value and more intensive systems, labor demand tends to increase in tandem. 
+
+Empirical evidence (in agr_emp repo) shows that certain agricultural advancements (e.g., greenhouse or organic systems) can increase total labor demand, particularly by enabling year-round production and requiring more hands-on work.
+
+While mechanization and large-scale efficiency can reduce labor needs at higher levels, offsetting the higher end of growth, agriculture overall remains a net employment engine, with especially strong effects in labor-intensive and developing contexts.
+
+***Shaping***
+- Notes:
+	- Lower range: steady baseline employment (subsistence, small-scale)
+	- Mid range: strong growth (intensification, diversification, value chains)
+	- Upper range: softening (automation, efficiency gains)
+
+1) Monotonic (cubic)
+- greatly benefits from higher-order influence
+- Strong rise early; slows as efficiency and scale reduce marginal labor demand
+- Best overall fit
+
+2) Logistic (saturated high-end)
+- Employment grows, then levels off as systems mature
+- Slightly cleaner, but a bit too constrained
+
+3) Linear
+- Simple, but too blunt for such a direct and strong pathway
+- Assumes constant job creation, which isn’t realistic
+- Easiest to implement, maybe use for initial tuning?
+
+~Evan Levy 4/1/26
+
+
+
+
+
+
+
+
+
+
+
+
+
+

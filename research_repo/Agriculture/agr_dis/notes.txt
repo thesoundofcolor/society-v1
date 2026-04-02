@@ -1,1 +1,28 @@
 Notes for this influence:
+
+Agriculture → Discrimination = +0.11
+
+Agriculture modestly increases discrimination by concentrating power around land, inheritance, credit access, subsidy distribution, and institutional representation. Because agriculture is deeply tied to property ownership and long-standing social structures, disparities in who owns land, who receives funding, and who participates in decision-making bodies can reinforce exclusion along racial, gender, and class lines. This effect is not uniform; it is strongest in systems where agriculture is tightly coupled with tradition, legacy ownership, and bureaucratic gatekeeping. Evidence points less to overt interpersonal prejudice and more to structural asymmetries, who gets approved, who gets funded, who gets recognized.
+
+At the same time, caution is required when interpreting this body of research. Much of the literature relies on observational data, self-reported experiences, or policy outcome disparities without clean causal isolation. Some studies lean heavily on perception-based frameworks or interpret unequal outcomes as direct evidence of discrimination without fully accounting for confounding variables such as farm size, capital access, regional economics, education, or participation rates. Others embed normative assumptions into their methodology, starting from the premise that disparities must be discriminatory, rather than testing whether alternative mechanisms could produce similar outcomes. Even stronger studies often operate at the system level, making it difficult to attribute intent or behavior to individuals within that system.
+
+There is a critical distinction here: agriculture as a system can amplify unequal conditions without every actor within it being discriminatory. Assigning “discrimination” too loosely risks collapsing structural dynamics into moral judgments about individuals or entire industries. In many cases, what appears as discrimination may emerge from legacy conditions, path dependence, or incentive structures rather than explicit bias. That does not make the outcomes acceptable, but it does matter for modeling. If the mechanism is misidentified, the response will be misaligned. For this model, the edge reflects agriculture’s tendency to reinforce and stabilize disparities through its structure, not to imply that farmers or institutions are inherently discriminatory actors.
+
+***Shaping Note***
+
+1) Positive logistic
+- Think: institutional threshold
+- Low agriculture does little by itself, but as livelihoods, property, and policy become more tied to agriculture, discrimination can harden through ownership, representation, and resource access.
+- Upper-end saturation makes sense; agriculture reinforces existing disparities more than it creates entirely new ones.
+
+2) Linear
+- Easiest to implement, but likely too naive for this influence
+- Society does not passively accept negative pressures; resistance, policy correction, and cultural pushback tend to dampen linear growth
+
+3) Monotonic cubic
+- Viable for higher-order shaping
+- Allows slow start → mid-range acceleration → soft ceiling
+- *Use with caution*; discrimination is highly perceptual, loosely measured, and often inferred rather than directly observed
+- This makes aggressive curvature easy to overfit during tuning
+
+~Evan Levy 4/1/26
