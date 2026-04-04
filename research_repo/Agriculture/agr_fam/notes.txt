@@ -1,1 +1,43 @@
 Notes for this influence:
+
+Agriculture → Family Orientation = +0.14†
+
+- Range = 0.08 to +0.16
+
+Moderate direct influence. More agriculture tends to increase family orientation across society, but not because all families operate like farming households. Farm work turns farming households into systems of survival, where labor, risk, and resources are managed collectively.
+
+In more agrarian societies, these patterns influence farming culture increasing overall emphasis on family cohesion and responsibility, even among non-farming households.
+
+However, the stereotype is not universally the rule. Some systems (like wheat-based agriculture) reduce continuous family coordination and increase mobility, weakening family ties (`WHEAT AGRICULTURE AND FAMILY TIES.pdf`). 
+
+Farming households often rely on internal coordination to manage financial stress, reinforcing that family dependence is more of a practical necessity than a cultural pattern (`bioconf_fisaed2025_04016.pdf`).  
+
+As agriculture scales, industrializes, mechanizes, or becomes externally supported, dependence on family erodes. The family becomes less necessary as a production unit, and the broader societal influence weakens.
+
+This influence is structural and cultural, not universal or behavioral. Agriculture shapes the conditions that influence family orientation; it does not directly impose it across all households.
+
+
+	- †This value (+0.14) reflects a society-wide effect. Higher values (up to ~+0.22) are only justified when modeling localized or strongly agrarian systems with higher-order curves. If a simpler curve (e.g., linear) is used, the weight should remain within ~0.08 to +0.16.
+
+Shaping:
+
+1a) Monotonic cubic
+	- Strong early pull; family is a survival unit
+	- Peaks where coordination and interdependence are highest
+	- Softens as mechanization and external systems reduce reliance
+	
+1b) Non-monotopic cubic
+	- Same as above, but may reverse at the upper end
+	- Hyper-industrialization reduces family-dependent orientation
+
+2) Logistic (soft saturation)
+	- Strong growth early
+	- Levels off as agriculture dominates but becomes less family-dependent
+	- Cleaner, but, honestly, way too rigid
+
+3) Linear
+	- Works only if reduced 
+		- Requires reduced weight (< +0.18)
+	
+
+~Evan Levy 4/4/26

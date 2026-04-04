@@ -1,6 +1,24 @@
 # Society V1 - Captian's Log
 
 
+
+
+## 2026-04-04
+### Anatomy of the 42
+- **v3.2.8**
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → Energy Production
+		- Agriculture → Family Orientation
+
+### Research Repo
+- Added resources / research
+	- `agr_fam`
+
+- Added `notes.txt` and `links.txt`
+	- `agr_fam`
+
+---
+
 ## 2026-04-02
 ### Anatomy of the 42
 - **v3.2.7**
