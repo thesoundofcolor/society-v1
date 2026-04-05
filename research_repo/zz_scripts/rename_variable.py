@@ -4,8 +4,8 @@ import os
 
 BASE_DIR = "."
 
-OLD_TEXT = "Purpose"
-NEW_TEXT = "Rule of Law"
+OLD_TEXT = "Gun Rights"
+NEW_TEXT = "Gun Rights"
 
 DRY_RUN = True  # set to False to apply changes... 
 
@@ -27,7 +27,7 @@ for root, dirs, files in os.walk(BASE_DIR, topdown=False):
         old_path = os.path.join(root, name)
 
         # Skip PDFs and binaries
-        if name.lower().endswith(".pdf"):
+        if name.lower().endswith((".pdf", ".py")):
             continue
 
         try:
@@ -45,10 +45,10 @@ for root, dirs, files in os.walk(BASE_DIR, topdown=False):
 
         # ----- FILE RENAMES -----
         new_name = name
-        if new_name.endswith("_pur"):
-            new_name = new_name[:-4] + "_rol"
-        if new_name.startswith("pur_"):
-            new_name = "rol_" + new_name[4:]
+        if new_name.endswith("_guns"):
+            new_name = new_name[:-4] + "guns"
+        if new_name.startswith("guns_"):
+            new_name = "guns" + new_name[4:]
 
         if new_name != name:
             safe_rename(old_path, os.path.join(root, new_name))
@@ -58,10 +58,10 @@ for root, dirs, files in os.walk(BASE_DIR, topdown=False):
         old_dir = os.path.join(root, name)
         new_name = name
 
-        if new_name.endswith("_pur"):
-            new_name = new_name[:-4] + "_rol"
-        if new_name.startswith("pur_"):
-            new_name = "rol_" + new_name[4:]
+        if new_name.endswith("_guns"):
+            new_name = new_name[:-4] + "guns"
+        if new_name.startswith("guns_"):
+            new_name = "guns" + new_name[4:]
 
         if new_name != name:
             safe_rename(old_dir, os.path.join(root, new_name))
