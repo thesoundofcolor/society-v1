@@ -19,3 +19,7 @@ Thumbs.db
 # python
 __pycache__/
 *.pyc
+
+# Archives
+/archive
+/documents/*/archive
