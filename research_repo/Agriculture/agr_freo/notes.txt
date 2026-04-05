@@ -1,1 +1,22 @@
 Notes for this influence:
+
+Agriculture → Freedom of Speech = -0.08
+
+
+Agriculture does not inherently suppress freedom of speech; in smaller grassroots agrarian systems, decentralized communities often allow for more local autonomy and informal expression. However, as agriculture industrializes, it introduces strong incentives for information control. Large-scale operations, corporate consolidation, and biosecurity concerns create pressure to limit transparency and manage public perception. This leads to policies and legal frameworks that restrict free speech; including protest, whistleblowing, and investigative access (especially around animal welfare and food production practices). 
+
+The result is a slight but noticeable downward pressure on free and open expression, not from agriculture itself, but from the systems built around it.
+
+1) Linear (simple)
+Small, consistent downward pressure
+No strong thresholds; effect scales gradually with industrialization
+
+2) Monotonic cubic
+Very weak early effect
+Picks up slightly as agriculture becomes centralized/industrial
+Still capped low; this is a small influence overall
+
+3) Logistic (soft onset) **Prefered- use this one if possible**
+Minimal effect at low levels
+Slight increase once large-scale/industrial systems emerge
+Saturates quickly; does not become dominant

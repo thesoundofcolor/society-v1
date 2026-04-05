@@ -2,20 +2,21 @@
 
 
 
-
 ## 2026-04-04
 ### Anatomy of the 42
 - **v3.2.8**
 	- Added edges to Agriculture's *Edge Summaries* table
-		- Agriculture → Energy Production
 		- Agriculture → Family Orientation
+		- Agriculture → Freedom of Speech
 
 ### Research Repo
 - Added resources / research
 	- `agr_fam`
+	- `agr_freo`
 
 - Added `notes.txt` and `links.txt`
 	- `agr_fam`
+	- `agr_freo`
 
 ---
 
