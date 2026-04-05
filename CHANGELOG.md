@@ -1,6 +1,24 @@
 # Society V1 - Captian's Log
 
 
+## 2026-04-05
+### Anatomy of the 42
+- **v3.3.1**
+	- Changed `Gun Rights` → `Firearms`
+		- `Gun Rights` overlaps legal concepts but the material aspect of guns is more importants
+			- Guns could be illegal and still be prevelant and accessable
+			- Let `Law Enforcement`, `Rule of Law`, `Crime`, and others effect `Firearms` (and vice versa)
+
+### Whitepaper 			
+- **v1.13.1**
+	- Changed `Gun Rights` → `Firearms`
+	
+### Research Repo
+- Changed `_gunr` → `_guns`
+- Changed `gunr_` → `guns_`
+- Changed root `Gun Rights` → `Firearms` 
+
+---
 
 ## 2026-04-04
 ### Anatomy of the 42
