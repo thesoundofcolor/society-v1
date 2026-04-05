@@ -24,7 +24,7 @@ sliders = [
     "Equality",
     "Family",
     "Freedom Of Speech",
-    "Gun Rights",
+    "Firearms",
     "Healthcare Access",
     "Healthcare Cost",
     "Healthcare Quality",
@@ -50,7 +50,7 @@ sliders = [
     "Wellfare"
 
 ]
-# this is a bit messy, but hey it works. Maybe refine it later? Maybe not, probably too much work (X_x)
+# this is a bit messy, but hey it worked. Maybe refine it later? Maybe not, probably too much work (X_x)
 # convert slider name to short code, use first three letters, and for duplicates we also append the second word's first letter "edua"= "education access" & "eduq" = "education quality"
 def short_code(name):
     words = name.lower().split()
