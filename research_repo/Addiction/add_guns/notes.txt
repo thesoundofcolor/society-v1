@@ -2,16 +2,29 @@ Notes for this influence:
 
 Addiction → Gun rights = -.06
 
-Addiction modestly increases public and political pressure toward firearm regulation. As substance abuse rises, the perceived risk of impulsive violence, suicide, and substance related firearm incidents rises with it. This tends to translate into support for policies like stronger background checks, restrictions for substance related offenses, and other regulatory measures. Research consistently finds correlations between substance misuse and elevated firearm violence risk, which naturally feeds into regulatory debates.
+Addiction exerts a weak and indirect influence on gun rights, but more importantly, it interacts with firearm possession in ways that laws/regulation can not fully control.
 
-However, the influence remains small and indirect. Gun rights are primarily a policy variable shaped by ideology, constitutional interpretation, and political culture rather than addiction levels themselves. Addiction mostly enters the conversation through secondary variables like crime, violence, and general public safety concerns rather than directly determining firearm ownership legality.
+Substance use is associated with elevated rates of violent behavior and firearm-related incidents (See `nihms884368.pdf`). However, this does not translate cleanly into reduced firearm access at the population level. Individuals with substance use issues often retain access to firearms through illicit or social pathways that exist outside the law.
+
+At the individual level, substance-related offenses can legally restrict firearm ownership. At the population level, however, these restrictions are only partially effective. Even when policies target high-risk individuals, reductions in violence are modest, indicating that access pathways persist beyond formal regulation. (`s40621-022-00381-x.pdf`)
+
+This creates a disconnect: addiction increases the likelihood of risky firearm use, but does not reliably reduce firearm possession. In some contexts, individuals involved in drug use or related criminal environments may even have greater exposure to firearms due to systemic and environmental factors tied to violence and illicit markets. (see: `1-s2.0-S0955395924000987-main.pdf`)
+
+As a result, the net effect on “gun rights” as a policy variable is small. The system absorbs the pressure—behavior adapts faster than regulation. 
+
+For the above reasons, despite the persistent illicit access, addiction still exerts a small net downward pressure on firearm prevalence. Keep between -0.08 and +0.02
 
 Strongest pathway:
 
-Addiction → Crime → Law Enforcement → Gun Rights
+Addiction → Crime → (Illicit Access + Social Networks) → Firearm Possession → Gun Rights (pressure)
 
-At the individual level: substance-related arrests or convictions can lead to firearm possession restrictions. 
-At the societal level: addiction and gun ownership show a slight correlation in the research, meaning that as addiction rises, substance-related gun incidents tend to rise as well. That creates additional political pressure for firearm regulation, which slightly reduces overall gun rights.
+Addiction increases violent and criminal behavior, particularly within environments where firearms are already present. These environments facilitate access through non-regulated channels, weakening the effectiveness of policy controls. The resulting increase in firearm-related harm feeds back into political pressure for regulation, but only slightly reduces overall rights due to competing ideological forces.
 
-**Shapinn**
-Linear should be fine for such a small influence
+**Shaping**
+1)Linear 
+- Should be fine for such a small influence; keeps things simple
+
+2)Near-Linear (saturated)
+
+3)Non-monotopic
+- If we want to use any higher-order curves in shapping, like cubic S non-monotopic, we can throw a larger range for the weight: between -0.1 and +0.1
