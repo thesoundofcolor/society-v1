@@ -35,14 +35,16 @@ e=Spline({A,B,C,D,G},3)
 The spline is a simple direct curve. It can work well, but if we need dampening or suppression, we need to use the polynomial.
  
 ### To create the polynomial curve: 
-*First, add a couple more variables:* 									 	\
+*Add these two variables to the initial setup:* 									 	\
 s=0  			&emsp; _(Min=-1, Max=1, Steps~0.025)_ 						\
-k=0  			&emsp; _(Min=0, Max=1, Steps~0.01)_  								
+- Adds biase; shifts curve up/down
+k=0  			&emsp; _(Min=0, Max=1, Steps~0.01)_  						\
+- Blends curve; acts as a curve suppressor	
 
 Create a line through the two endpoints (from A to G): 						\
 L(x) = a + ((g - a)/(r - l)) * (x - l)		&emsp; _(disable visualization)_ 
  
-Create the polynomial: 														\ 
+Create the polynomial: 														\
 P(x)=Polynomial({A,B,C,D,G}) 				&emsp; _(disable visualization)_ 
  
 Then create our belended function: 											\
