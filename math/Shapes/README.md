@@ -23,7 +23,6 @@ __Make these sliders:__
 >l=-1			&emsp; _(*Slider:* Min=-1, Max=-0.6, Steps~0.025)_ 							\
 >r=1				&emsp; _(*Slider:* Min=0.6, Max=1, Steps~0.025)_ 
 
-
 __Make these points:__
 >A=(l, a) 																	\
 >B=(-0.5, b)										 						\
@@ -38,10 +37,12 @@ The spline is a simple direct curve. It can work well, but if we need dampening 
  
 ### To create the polynomial curve: 
 *Add these two variables to the initial setup:* 									 	
->s=0  			&emsp; _(*Slider:* Min=-1, Max=1, Steps~0.025)_ 						
+>s=0  			&emsp; _(*Slider:* Min=-1, Max=1, Steps~0.025)_ 				
+
 `s` adds bias, shifting the entire curve up/down											
 
->k=0  			&emsp; _(*Slider:* Min=0, Max=1, Steps~0.01)_  						
+>k=0  			&emsp; _(*Slider:* Min=0, Max=1, Steps~0.01)_  					
+
 `k` blends the curve; acts as a suppressor	
 
 Create a line through the two endpoints (from A to G): 						
@@ -50,10 +51,9 @@ Create a line through the two endpoints (from A to G):
 Create the polynomial: 														
 >P(x)=Polynomial({A,B,C,D,G}) 				&emsp; _(disable visualization)_ 
  
-Then create our belended function: 											
+Then create our blended polynomial function: 											
 >M(x) = (1 - k) * P(x) + k * L(x) +s   										
- 
-_This is the primary curve, we adjust `s` to raise/lower bias and `k` to saturate/blend the curve to the endpoint line_ 
+
  
 ## Notes!
 - Everything should be constrained in a [-1, 1] box
