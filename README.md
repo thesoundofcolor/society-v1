@@ -9,7 +9,7 @@ Start here depending on what you're looking for:
 - **Understanding the project:**  
   [Whitepaper](documents/whitepaper/Society_v1_whitepaper.pdf)
 
-- **Variable definitions:**  
+- **Variable definitions and Edge Weights:**  
   [Anatomy of the 42](documents/Anatomy_of_the_42/anatomy_of_the_42.pdf)
 
 - **Mathematical architecture:**  
@@ -35,7 +35,9 @@ The relationships between these variables are not arbitrarily chosen to produce 
 
 Under the hood, the real-world data extracted from empirical research is combined with a bit of mathematical magic. Through the use of transformation matrices, conditional non-linear algebra, activation functions, and influence-shaping mechanisms, slider movements are translated into system-wide responses grounded in observable dynamics.
 
-Of course, no machine can truly simulate a society. The complexity of human systems exceeds anything that can be captured in a finite model. Society V1 therefore approaches the problem through deliberate reduction: compressing vast social forces into structured relationships that can be manipulated and observed.
+Of course, no machine can truly simulate a society. The complexity of human systems exceeds anything that can be captured in a finite model. Society V1 therefore approaches the problem through deliberate reduction: compressing vast social forces into structured relationships that can be manipulated and observed. 
+
+***Math Warning:*** A lot of this sounds abstract, but the math itself is fairly simple. Each societal force is an array of values, a distribution of weighted influences pointing to every other variable, normalized between -1 and 1. We organize these arrays into an [Influence Matrix](data/Influence_Matrix/Influence Matrix.xlsx), which operates on the state vector of society. When we change a variable’s value by shifting it up or down, it transforms the system through matrix operations. The resulting transformation is passed through shaping functions to control how influence propagates and better reflect reality, then dampened to prevent runaway cascades and stabilize the system.
 
 The result is an impossible device, a controller for interacting with an abstraction of society itself.
 
@@ -56,7 +58,7 @@ The conceptual and technical foundations of Society V1 are described in the foll
   - Overview of Society V1. For anyone unfamiliar with the project, start here.
 
 - **[Anatomy of the 42](documents/Anatomy_of_the_42/anatomy_of_the_42.pdf)**  :  *Status: In Progress*
-  - Defines each of the system’s variables, outlining conceptual scope, included and excluded components, measurement considerations, and methodological notes.
+  - Defines each of the system’s variables: outlining conceptual scope, included and excluded components, measurement considerations, edge weights, and methodological notes.
 
 - Computational & Mathematical Architecture (CMA)  :  *Status: Pending*
   - Describes the influence engine and mathematical framework governing interactions between variables within the model.
