@@ -1,1 +1,50 @@
 Notes for this influence:
+
+Agriculture → Firearms = +0.10
+
+
+Agriculture produces a small direct increase in firearm prevalence across society. The mechanism is real, but limited in scope. More agriculture usually means more rural land use, more livestock and crop protection, more hunting utility, more pest control, and more self-reliant environments. Those conditions increase the practical value and cultural normalization of firearms.
+
+The evidence supports the direction. Rural and farm populations report substantially higher firearm presence than towns, especially for rifles and shotguns.
+
+However, the broader societal effect is weaker than the household-level pattern might suggest. More farms in a country does not mean a mailman named John Doe in the city is suddenly more likely to buy, own, or even have access to a firearm. Agriculture raises firearm prevalence mainly through rural spillover and normalization in the parts of society closest to it. Large urban populations dilute the effect, so the society-wide weight should remain small but still contain the agrarian offset.
+
+For the above reasons, agriculture still exerts a small net upward pressure on firearm prevalence, but not enough to justify a moderate or strong weight.
+
+
+## Shapping
+
+1)Monotonic cubic (primary)
+f(x) = x + a·x³ 
+
+- Make a small positive constant
+- Slight mid-range acceleration
+- Softer saturation towards the top
+
+2)Logistic (soft saturation)
+f(x) = 1 / (1 + e^(-k(x - m)))
+
+- Slow start (urban-heavy)
+- Faster mid-range growth (rural expansion)
+- Clear saturation at high levels
+
+3) Linear (simple)
+f(x) = kx
+
+- proportional increase
+- Works for simplicity, but misses saturation
+
+### More notes:
+
+- Near-linear in lower to mid ranges; firearm ownership rises steadily with increasing agricultural presence.
+- Slight softening at higher levels; saturation occurs as rural firearm ownership approaches cultural and practical limits.
+- Minimal threshold behavior; this is a gradual, environmental effect rather than a sudden shift.
+
+
+
+
+
+
+
+
+
