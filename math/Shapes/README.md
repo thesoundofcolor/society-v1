@@ -35,16 +35,18 @@ e=Spline({A,B,C,D,G},3)
 2) To get Curve: 
 Add a couple more variables: 												\
 s=0  			_(Min=-1, Max=1, Steps~0.025)_ 								\
-k=0  			_(Min=0, Max=1, Steps~0.01)_  								\
+k=0  			_(Min=0, Max=1, Steps~0.01)_  								
 
-Create a line through the two endpoints (A and G): 
+Create a line through the two endpoints (from A to G): 						\
 L(x) = a + ((g - a)/(r - l)) * (x - l)		_(disable visualization)_ 
  
 Create the polynomial:  
 P(x)=Polynomial({A,B,C,D,G}) 				_(disable visualization)_ 
  
-Then create our belended function: 
-M(x) = (1 - k) * P(x) + k * L(x) +s    _(this is the primary curve, we adjust `s` to raise/lower bias and `k` to saturate/blend the curve to the endpoint line)_ 
+Then create our belended function: 											\
+M(x) = (1 - k) * P(x) + k * L(x) +s   										\
+ 
+_This is the primary curve, we adjust `s` to raise/lower bias and `k` to saturate/blend the curve to the endpoint line_ 
  
 ## Notes!
 - Everything should be constrained in a [-1, 1] box
