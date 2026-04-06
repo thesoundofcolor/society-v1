@@ -37,9 +37,10 @@ The spline is a simple direct curve. It can work well, but if we need dampening 
 ### To create the polynomial curve: 
 *Add these two variables to the initial setup:* 									 	\
 s=0  			&emsp; _(Min=-1, Max=1, Steps~0.025)_ 						\
-- Adds biase; shifts curve up/down
+Adds biase; shifts curve up/down											
+
 k=0  			&emsp; _(Min=0, Max=1, Steps~0.01)_  						\
-- Blends curve; acts as a curve suppressor	
+Blends curve; acts as a curve suppressor	
 
 Create a line through the two endpoints (from A to G): 						\
 L(x) = a + ((g - a)/(r - l)) * (x - l)		&emsp; _(disable visualization)_ 
