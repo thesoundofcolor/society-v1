@@ -12,7 +12,7 @@ For now you can test out the curves in [GeoGebra](https://www.geogebra.org/calcu
 
 ### Setup Variables 
 
-__Set up these variable sliders for BOTH options:__ 
+__Make these sliders:__ 
 
 >a=0.5			&emsp; _(*Slider:* Min=-1, Max=1, Steps~0.01)_ 								\
 >b=0.7			&emsp; _(*Slider:* Min=-1, Max=1, Steps~0.01)_ 								\
@@ -22,11 +22,13 @@ __Set up these variable sliders for BOTH options:__
 >
 >l=-1			&emsp; _(*Slider:* Min=-1, Max=-0.6, Steps~0.025)_ 							\
 >r=1				&emsp; _(*Slider:* Min=0.6, Max=1, Steps~0.025)_ 
->
+
+
+__Make these points:__
 >A=(l, a) 																	\
->B=(-0.5, b)										 							\
+>B=(-0.5, b)										 						\
 >C=(0, c) 																	\
->D=(0.5, d) 																	\
+>D=(0.5, d) 																\
 >G=(r, g) 
  
 ### To create the spline curve:  
