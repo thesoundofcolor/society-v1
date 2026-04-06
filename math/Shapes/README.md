@@ -30,7 +30,7 @@ __Set up these variable sliders for BOTH options:__
 >G=(r, g) 
  
 ### To create the spline curve:  
->e=Spline({A,B,C,D,G},3) 
+|e=Spline({A,B,C,D,G},3) 
 
 >>The spline is a simple direct curve. It can work well, but if we need dampening or suppression, we need to use the polynomial.
  
