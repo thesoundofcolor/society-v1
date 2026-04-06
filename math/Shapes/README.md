@@ -14,29 +14,28 @@ For now you can test out the curves in [GeoGebra](https://www.geogebra.org/calcu
 
 __Set up these variable sliders for BOTH options:__ 
 
-a=0.5			_(Min=-1, Max=1, Steps~0.01)_ 
-b=0.7			_(Min=-1, Max=1, Steps~0.01)_ 
-c=0.5			_(Min=-1, Max=1, Steps~0.01)_ 
-d=-0.2			_(Min=-1, Max=1, Steps~0.01)_ 
+a=0.5			_(Min=-1, Max=1, Steps~0.01)_ 								\
+b=0.7			_(Min=-1, Max=1, Steps~0.01)_ 								\
+c=0.5			_(Min=-1, Max=1, Steps~0.01)_ 								\
+d=-0.2			_(Min=-1, Max=1, Steps~0.01)_ 								\
 g=-0.3			_(Min=-1, Max=1, Steps~0.01)_ 
 
-l=-1			_(Min=-1, Max=-0.6, Steps~0.025)_ 
+l=-1			_(Min=-1, Max=-0.6, Steps~0.025)_ 							\
 r=1				_(Min=0.6, Max=1, Steps~0.025)_ 
 
-A=(l, a) 
-B=(-0.5, b) 
-C=(0, c) 
-D=(0.5, d) 
+A=(l, a) 																	\
+B=(-0.5, b)										 							\
+C=(0, c) 																	\
+D=(0.5, d) 																	\
 G=(r, g) 
  
 1) To get Spline:  
 e=Spline({A,B,C,D,G},3) 
  
 2) To get Curve: 
- 
-A couple more variables: 
-s=0  			_(Min=-1, Max=1, Steps~0.025)_ 
-k=0  			_(Min=0, Max=1, Steps~0.01)_ 
+Add a couple more variables: 												\
+s=0  			_(Min=-1, Max=1, Steps~0.025)_ 								\
+k=0  			_(Min=0, Max=1, Steps~0.01)_  								\
 
 Create a line through the two endpoints (A and G): 
 L(x) = a + ((g - a)/(r - l)) * (x - l)		_(disable visualization)_ 
