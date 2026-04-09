@@ -1,1 +1,26 @@
 Notes for this influence:
+
+Agriculture → Healthcare Access = +0.06
+
+Very small direct influence that is structurally constrained. Agricultural regions are typically low-density and geographically dispersed, resulting in persistent barriers such as provider shortages, long travel distances, and limited facility availability. Agriculture does not directly drive healthcare infrastructure expansion, and often exists in environments where access is inherently limited.
+
+The net effect is small and positive, driven by improved utilization of existing access rather than expansion of access itself.
+
+Shaping Notes:
+1) Monotopic
+- Monotonic increasing
+- Mostly near-linear across the range
+- Slight lift in the low-to-mid region as stability improves engagement with care
+- Gentle upper taper due to structural access limits (provider density, geography)
+- Continuous; no threshold behavior
+
+2) Linear
+
+~Evan Levy 4/9/26
+
+
+
+
+
+
+

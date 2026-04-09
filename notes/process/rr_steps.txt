@@ -1,0 +1,27 @@
+1. Define the Weight
+
+Source → Target = weight
+Model direct influence only
+Indirect effects are excluded unless they are strong and unavoidable → include as heavily suppressed spillover
+Validate by asking: does this relationship exist in isolation?
+
+2. Create notes.txt
+
+Notes for this influence:
+
+Source → Target = weight
+
+[Brief justification]
+
+Shaping Notes:
+- [Curve type]
+- [Behavior across range]
+- [Any limits / asymmetry]
+Justify the weight value and mechanism only (concise, no fluff)
+Define how the influence behaves using curve logic
+
+3. Create Edge Summary
+
+[Target] & [Weight] & [Direction/intensity; mechanism] \\
+Short, consistent, plainspoken
+Format: effect strength + causal mechanism

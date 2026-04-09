@@ -1,1 +1,21 @@
 Notes for this influence:
+
+Agriculture → Healthcare Cost = +0.05
+
+This is a small direct positive influence. Agricultural activity exposes the population to environmental and occupational risks that contribute to increased healthcare needs and associated costs  (e.g., chemicals, pollution, injury).
+
+There are beneficial effects that reduce healthcare costs. Increased agriculture improves nutrition and food stability, which contribute to lower overall healthcare demand. However, these reductions are for the most part indirect and don't  offset the direct cost pressures from these negative burdens.
+
+The net effect is slightly positive, reflecting localized increases in health burdens.
+
+Shaping Notes:
+1) Monotopic
+- Monotonic increasing
+- Near-linear across most of the range
+- Slightly stronger effect in the mid-to-upper range as intensity and exposure risks increase
+- No sharp threshold; gradual accumulation of cost pressures
+- Continuous behavior
+
+2) Linear
+
+~Evan Levy 4/9/26

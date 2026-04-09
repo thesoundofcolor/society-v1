@@ -1,5 +1,41 @@
 # Society V1 - Captian's Log
 
+## 2026-04-09
+### Anatomy of the 42
+- **v3.3.3**
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → HC Access
+		- Agriculture → HC Cost
+		- Agriculture → HC Quality
+
+### Research Repo
+- Added resources / research
+	- `agr_heaa`
+	- `agr_heac`
+	- `agr_heaq`
+
+- Added `notes.txt` and `links.txt`
+	- `agr_heaa`
+	- `agr_heac`
+	- `agr_heaq`
+
+---
+
+## 2026-04-05
+### Anatomy of the 42
+- **v3.3.2**
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → Family Orientation
+
+### Research Repo
+- Added resources / research
+	- `agr_fam`
+	- `agr_freo`
+
+- Added `notes.txt` and `links.txt`
+	- `agr_freo`
+
+---
 
 ## 2026-04-05
 ### Anatomy of the 42

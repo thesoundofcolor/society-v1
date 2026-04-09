@@ -1,1 +1,21 @@
 Notes for this influence:
+
+Agriculture → Healthcare Quality = +0.03
+
+This is a very small positive influence; negligable at best. Agriculture can indirectly support healthcare quality by strengthening the broader economic base that helps sustain healthcare systems, staffing, and infrastructure. However, this effect is weak at the population level and heavily constrained by rural dispersion, uneven service distribution, and the fact that agriculture does not directly improve the quality of care itself.
+
+Shaping Notes:
+1)Linear
+- Weak positive slope
+- Continuous; no threshold behavior
+
+
+~Evan Levy 4/9/26
+
+
+
+
+
+
+
+
