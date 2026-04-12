@@ -1,1 +1,22 @@
 Notes for this influence:
+
+Agriculture → Immigration = +0.13
+
+This is a moderate positive labor influence. Strong agricultural systems often create demand for migrant labor, especially where domestic labor supply is insufficient or structurally unavailable.
+
+Agriculture does not directly determine immigration levels on its own, since immigration is heavily filtered through policy, borders, legal frameworks, and broader economic conditions. However, agriculture can still act as a meaningful pull factor by generating persistent labor demand.
+
+The realized strength of this edge should be strongly moderated by higher-order factors, since agriculture may create the demand for immigration without guaranteeing that inflow occurs.
+
+## Shaping Notes:
+1) Higher-order controlled
+	- Base shape should be monotonic positive
+	- Realized range and curvature should be governed by higher-order influences
+
+2) Polynomial or blended monotonic curve preferred over fixed standalone shaping
+	- No fixed threshold in the base edge
+	
+3) Simple linear
+	- Lower the weight if we choose linear
+	
+~Evan Levy 4/12/26
