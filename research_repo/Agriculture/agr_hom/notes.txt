@@ -1,1 +1,33 @@
 Notes for this influence:
+
+Agriculture → Homelessness = -0.06
+
+Agriculture reduces homelessness through economic stability and employment, which lowers baseline poverty and displacement risk. More stable agricultural systems can anchor populations and reduce migration pressure into urban areas where homelessness is more prevalent.
+
+However, this remains a secondary (indirect) effect. Homelessness is primarily driven by housing costs, mental health, policy decisions, and many other factors so agriculture influences it through broader economic pathways rather than direct mechanisms.
+
+However because the indirect effect is still noticable, a small direct weight is assigned. Range: -0.07 to -0.02
+
+Shaping Notes:
+- Linear
+	- Weak-to-moderate negative slope
+	- Continuous; no threshold behavior
+	- Simple edge; don't overthink it
+
+~Evan Levy 4/12/26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
