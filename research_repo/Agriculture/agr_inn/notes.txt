@@ -1,1 +1,18 @@
-Notes for this influence:
+Agriculture → Innovation = +0.15
+
+This is a moderate positive influence. Agriculture generates demand for innovation by creating continuous pressure to improve productivity and logistics. As agriculture scales or becomes more competitive, it drives the need for new tools, machinery, crop science, and operational solutions.
+
+However, this influence is primarily demand-driven rather than generative. Agriculture creates the problems and incentives for innovation, but the capacity to innovate depends on external systems such as education, capital, technology, infrastructure, etc.
+
+The relationship is also bidirectional in reality: innovation strongly transforms agriculture, often more than agriculture generates innovation. This edge isolates the forward pressure—agriculture as a driver of applied, necessity-based innovation.
+
+The net effect is moderate and positive, reflecting agriculture’s role as a consistent but not dominant source of innovation pressure.
+
+1) Monotonic (positive)
+	- Higher-order controlled
+	- Polynomial / blended monotonic shaping
+	- Mild at low levels
+	- Stronger through mid-range (scaling and efficiency pressure)
+	- Soft upper taper
+	
+~Evan Levy

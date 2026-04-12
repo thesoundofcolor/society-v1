@@ -1,1 +1,18 @@
 Notes for this influence:
+
+Agriculture → Liberty = +0.03
+
+Agriculture has a positive influence on liberty but it is negligably small. Historically, agrarian societies tend to be more decentralized, with individuals or families tied to land ownership rather than centralized institutions. This can foster a stronger sense of autonomy and resistance to external control.
+
+Rural populations often demonstrate skepticism toward state authority, with some traditions even leaning toward anarchistic or anti-state tendencies. 
+
+However, this effect is limited. Agriculture can also exist within highly controlled or authoritarian systems, especially under industrial or state-managed farming structures. Additionally, increased agricultural presence does not directly translate to increased liberty for individuals outside of those systems.
+
+Overall, agriculture slightly supports liberty through decentralization and cultural tendencies, but the effect is weak and highly dependent on broader political and economic structures. It is modeled as a very small pressure that nudges Liberty rather than a influential force.
+
+## Shaping Notes:
+- Near-linear, very low slope
+- Slight lift in mid-range (decentralization effect)
+- No strong nonlinear behavior
+
+~Evan Levy 4/12/26
