@@ -1,5 +1,28 @@
 # Society V1 - Captian's Log
 
+
+
+## 2026-04-09
+### Anatomy of the 42
+- **v3.3.4**
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → Homelessness
+		- Agriculture → Immigration
+		- Agriculture → Infrastructure
+
+### Research Repo
+- Added resources / research
+	- `agr_hom`
+	- `agr_imm`
+	- `agr_inf`
+
+- Added `notes.txt` and `links.txt`
+	- `agr_hom`
+	- `agr_imm`
+	- `agr_inf`
+
+---
+
 ## 2026-04-09
 ### Anatomy of the 42
 - **v3.3.3**

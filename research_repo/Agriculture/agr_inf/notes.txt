@@ -1,1 +1,20 @@
-Notes for this influence:
+Agriculture → Infrastructure = +0.17
+
+This is a moderate positive influence. Agriculture creates direct pressure for infrastructure development by requiring roads, irrigation systems, storage, energy distribution, and logistical networks to support production and distribution operations.
+
+The relationship is highly bidirectional in reality: infrastructure strongly enables agriculture, and agriculture in turn creates demand and incentive for further infrastructure expansion. However, in this edge the direction is isolated as agriculture increasing the need and justification for infrastructure investment.
+
+The net effect is clearly positive, but not extreme, because infrastructure is still heavily mediated by state capacity, capital availability, and broader economic priorities.
+
+Infrastructure → Agriculture is the primary and dominant force
+
+## Shapping:
+1)Monotonic (positive base)
+	- Higher-order controlled
+
+2)Polynomial / blended monotonic shaping
+	- Weak at low levels
+	- Stronger through the middle as agriculture scales and commercialization increases
+	- Soft upper taper
+	
+~Evan Levy 4/12/26
