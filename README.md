@@ -77,6 +77,7 @@ The repository is organized into several major directories:
 - `notes/`            Working notes and exploratory ideas
 - `images/`           Diagrams and visual materials
 - `testing/`		  Safe place for testing things out, like simulations, code, math, etc. A sandbox directory.
+
 ~~archive/~~          ~~Historical drafts and deprecated materials~~
 
 # Project Status
