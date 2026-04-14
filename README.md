@@ -76,8 +76,8 @@ The repository is organized into several major directories:
 - `design/`			  Hardware; embedded electronics and mechanical designs related to the physical features of SV1
 - `notes/`            Working notes and exploratory ideas
 - `images/`           Diagrams and visual materials
-- `archive/`          Historical drafts and deprecated materials
 - `testing/`		  Safe place for testing things out, like simulations, code, math, etc. A sandbox directory.
+~~ - `archive/`          Historical drafts and deprecated materials ~~
 
 # Project Status
 Society V1 is an ongoing research and development effort. Conceptual definitions, influence relationships, and supporting documentation may evolve as additional research and analysis are incorporated.
