@@ -16,6 +16,8 @@
 	- `agr_mil`
 	- `agr_minw`
 
+### Design Pinout
+- Created pinout map for STM32H743XIH6 MCU
 
 ---
 
