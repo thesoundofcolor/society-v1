@@ -13,10 +13,10 @@ Start here depending on what you're looking for:
   [Anatomy of the 42](documents/Anatomy_of_the_42/anatomy_of_the_42.pdf)
 
 - **Mathematical architecture:**  
-  Computational & Mathematical Architecture (coming soon)
+  Computational & Mathematical Architecture
 
 - **Physical system design:**  
-  Physical System Architecture (coming soon)
+  Physical System Architecture
 
 - **Contributing or reporting issues:**  
   [CONTRIBUTING.md](blob/main/CONTRIBUTING.md)
@@ -93,7 +93,7 @@ The purpose of the system is therefore exploratory rather than definitive. Its v
 This project is not meant to earn a doctorate or appear in a scientific journal. Readers should treat the model as a conceptual instrument, a tool for thought, a profound simulation, a thought-provoking art piece,  rather than a final description of reality.
 
 # Authorship
-The system is currently developed by a single modeler synthesizing research across multiple disciplines in an attempt to construct a structured representation of societal dynamics.
+Society V1 is currently developed by Evan Levy - a systems engineer with a background in embedded electronics, networking, and an inability to leave interesting problems alone. He fills the role of a single modeler synthesizing research across multiple disciplines in an attempt to construct a structured representation of societal dynamics.
 
 Whether this individual remains sane by the time the project is complete remains uncertain.
 

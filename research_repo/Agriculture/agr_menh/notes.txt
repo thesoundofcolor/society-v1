@@ -1,1 +1,45 @@
 Notes for this influence:
+
+Agriculture to Mental Health = -0.12
+
+Agriculture has a dual nature when it comes to mental health, but the net effect trends negative.
+
+At low levels, agriculture can provide grounding benefits: connection to nature, autonomy, responsibility, and a sense of purpose. These factors can support mental well-being in stable conditions. However, as agriculture scales or becomes a primary economic dependency, the dominant forces shift.
+
+Farming introduces persistent stressors that compound over time: financial instability, volatile markets, climate uncertainty, and long working hours. The inability to “switch off,” combined with physical exhaustion and economic risk, creates a chronic stress environment.
+
+Isolation further amplifies this. Farming populations are often geographically dispersed, with reduced access to healthcare and social support networks. As rural populations decline, this isolation becomes more severe, increasing vulnerability to anxiety and depression.
+
+There is also a cultural component. Farming communities tend to value resilience and self-reliance, which can reduce help-seeking behavior. This does not create the mental health burden, but it allows it to persist and deepen unchecked.
+
+Empirically, this is reflected in elevated rates of stress, depression, and suicide among farmers compared to many other professions .
+
+Overall, while agriculture can support mental health under ideal conditions, the systemic pressures associated with it lead to a net negative effect across society.
+
+Shaping Notes:
+
+1) Non-monotonic (Asymmetric)
+- Higher-order controlled
+- Non-monotonic base shape
+- Slight positive/neutral at very low levels
+- Crosses into negative as scale/dependency increases
+- Accelerates downward (polynomial-style falloff)
+
+Behavioral Notes:
+- Threshold behavior 
+  - Likely tied to financial stress + climate instability
+- Non-linear compounding (stress stacking, not additive)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

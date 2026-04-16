@@ -1,8 +1,24 @@
 # Society V1 - Captian's Log
 
+## 2026-04-16
+### Anatomy of the 42
+- **v3.3.4**
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → Mental Health
+
+### Research Repo
+- Added resources / research
+	- `agr_marf`
+	- `agr_menh`
+
+- Added `notes.txt` and `links.txt`
+	- `agr_marf`
+	- `agr_menh`
 
 
-## 2026-04-09
+---
+
+## 2026-04-12
 ### Anatomy of the 42
 - **v3.3.4**
 	- Added edges to Agriculture's *Edge Summaries* table
