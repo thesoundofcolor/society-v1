@@ -8,12 +8,13 @@
 
 ### Research Repo
 - Added resources / research
-	- `agr_marf`
 	- `agr_menh`
 
 - Added `notes.txt` and `links.txt`
 	- `agr_marf`
 	- `agr_menh`
+	- `agr_mil`
+	- `agr_minw`
 
 
 ---

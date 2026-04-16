@@ -1,2 +1,4 @@
-notes for designs. 
-sorry, nothing here yet... get to work!
+SYSCLK = 240 MHz
+ADC = PLL2P = 80 MHz
+TIM1/TIM2/TIM3/TIM4 using 120 MHz timer clocks
+I2C1,2,3 clock = PCLK1 = 60 MHz
