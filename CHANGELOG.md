@@ -8,14 +8,18 @@
 	- Added edges to Agriculture's *Edge Summaries* table
 		- Agriculture → Pollution
 		- Agriculture → Poverty
+		- Agriculture → Public Trust
 
 ### Research Repo
 - Added resources / research
 	- `agr_pol`
+	- `arg_rol`
 
 - Added `notes.txt` and `links.txt`
 	- `agr_pol`
 	- `agr_pov`
+	- `agr_pubt`
+	- `arg_rol`
 
 ---
 

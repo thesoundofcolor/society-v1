@@ -1,1 +1,15 @@
 Notes for this influence:
+
+Agriculture → Public Trust = +0.04
+
+Small positive influence. Agriculture can reinforce public trust through broader social networks: shared labor, knowledge exchange, commerce, and resource coordination.
+
+
+Shaping Notes:
+1) Near-linear (very low slope)
+- Slight early gain (food stability matters more at low baseline)
+- Flattens quickly; saturation occurs early
+
+GeoGebra:
+
+f(x) = k * (1 - e^{-a(x+1)})
