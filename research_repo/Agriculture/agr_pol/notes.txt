@@ -1,1 +1,21 @@
 Notes for this influence:
+
+Agriculture → Pollution = +0.31
+
+Strong direct positive influence. Agriculture is a major source of pollution for water, air, and soil systems. Pollution is directly caused by fertilizer runoff, livestock waste, pesticides, and various other chemical byproducts. 
+
+Nutrient runoff is a large source of eutrophication, which is the excessive enrichment of water bodies (with nutrients like phosphorus and nitrogen). While emissions from manure and fertilizer greatly contribute to air pollution. 
+
+The relationship is clearly direct and substantial, especially under intensive agricultural systems.
+
+## Shaping Notes:
+
+1) Monotonic positive
+- Higher-order controlled
+- Polynomial / blended monotonic shaping
+- Steady rise at low-to-mid levels
+- Stronger acceleration through intensive and industrialized agriculture
+- Mild upper taper where mitigation and regulation begin to constrain additional pollution
+
+2) Linear
+- Consistent rise

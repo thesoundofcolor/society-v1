@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Architecture.canvas",
+                "file": "Prototype.canvas",
                 "viewState": {
-                  "x": -110.82659077795705,
-                  "y": -186.2081421768803,
-                  "zoom": -1
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Architecture"
+              "title": "Prototype"
             }
           },
           {
@@ -298,10 +298,11 @@
   },
   "active": "2ccce74d189632a1",
   "lastOpenFiles": [
+    "Architecture.canvas",
+    "Prototype.canvas",
     "Modules/ESP32-C6-Pico.md",
     "Power Architecture/Shunt.md",
     "Pasted image 20260324194317.jpg",
-    "Architecture.canvas",
     "Modules/Motor Driver (Dual).md",
     "Untitled/desktop.ini",
     "Modules/Images",
