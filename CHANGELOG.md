@@ -1,5 +1,24 @@
 # Society V1 - Captian's Log
 
+
+
+## 2026-04-20
+### Anatomy of the 42
+- **v3.3.5**
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → Pollution
+		- Agriculture → Poverty
+
+### Research Repo
+- Added resources / research
+	- `agr_pol`
+
+- Added `notes.txt` and `links.txt`
+	- `agr_pol`
+	- `agr_pov`
+
+---
+
 ## 2026-04-16
 ### Anatomy of the 42
 - **v3.3.4**

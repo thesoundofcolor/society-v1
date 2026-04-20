@@ -1,1 +1,20 @@
 Notes for this influence:
+
+Agriculture → Poverty = -0.28
+
+Agriculture directly reduces poverty. As agricultural capacity improves, food availability stabilizes, yields increase, rural incomes rise, inflation reduces (in agricultural products), and periphreal enterprises strengthen, lowering the baseline probability of poverty. This effect is strongest in low-development environments where agriculture is a primary economic driver. 
+
+However, as economies industrialize, the marginal impact of agriculture on poverty diminishes significantly.
+
+Shaping Notes:
+1) Monotonic cubic (negative)
+- Strong early reduction in poverty at low agricultural levels: 
+	- Early agriculture increases → sharp poverty reduction
+- Diminishing returns as the system develops: 
+	- Mid-range → moderate effect
+- Near flat response at high agricultural saturation: 
+	- High levels → flattening (almost neutral)
+
+~ Evan Levy 4/20/26
+
+(っ˘ڡ˘ς)
