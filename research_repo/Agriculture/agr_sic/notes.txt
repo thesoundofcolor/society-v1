@@ -1,1 +1,28 @@
 Notes for this influence:
+
+Agriculture → Sickness/Disease = +0.18
+
+Agricultural activity does positively influence the burden of sickness and disease. Through both pathogen exposure and environmental health stressors ( like: bioaerosols, particulates, ammonia, etc.) respiratory and infectious disease risk at the population level in increased. Effects are strongest in high-intensity systems and in nearby populations.
+
+Intensive farming emits bioaerosols (bacteria, fungi, endotoxins) that are empirically linked to respiratory illness and asthma-like symptoms. Other agricultural emissions (especially ammonia) contribute to chemical formations which are associated to causing COPD, lung disease, cancers, and other sickness and diseases.
+
+Livestock proximity increases exposure to zoonotic diseases and respiratory conditions in both workers and nearby communities
+
+Counterbalance:
+Early-life exposure to farm environments can reduce some atopic conditions (hygiene hypothesis), slightly dampening the upper-end severity
+
+
+Shaping Notes:
+1)Monotonic cubic (primary):
+- Low:
+	- Moderate agriculture: mild increase (limited exposure)
+- Mid-range: 
+	- Stronger rise (industrialization, density effects)
+- High: 
+	- Taper slightly (medical adaptation, rural immunity effects)
+	
+Secondary modifiers (Pollution, Healthcare Access):
+High Pollution → amplifies curve sharply
+High Healthcare Access → flattens upper range
+
+~ Evan Levy 4/24/26
