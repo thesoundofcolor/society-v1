@@ -1,5 +1,22 @@
 Notes for this influence:
 
-Agriculture -> Spirituality = +0.27
+Agriculture -> Spirituality/God = +0.25
 
-Research shows a very strong positive influence. Agricultural life increases spiritual/religious belief and incubates spiritual practice.
+[Range: +0.18 and +0.28]
+ 
+Strong increase; reliance on land fertility, weather, and seasonal cycles evidently drives the formation of spiritual systems centered around divine control of natural forces.
+
+Agricultural societies consistently develop structured religious practices: harvest rituals, fertility rites, traditional responsibilities, and priestly mediation. 
+
+These patterns are foundational to many modern religions, including those in Western societies, where agricultural origins shaped their structure and agrarian symbolism.
+
+In modern industrialized systems, agriculture no longer directly drives daily spiritual behavior, but its historical influence remains embedded in religious institutions and traditions.
+
+Shaping Notes:
+
+Monotonic increasing
+Early-to-mid acceleration (subsistence dependence phase)
+Soft saturation at high levels (industrial buffering reduces marginal impact)
+
+
+~Evan Levy 4/24/26

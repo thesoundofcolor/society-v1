@@ -1,34 +1,36 @@
 # Society V1 - Captian's Log
 
 
-## 2026-04-24
-### Anatomy of the 42 
-- **v3.3.5**
+## 2026-04-24 
+### Anatomy of the 42  
+- **v3.3.5** 
 	- Added edges to Agriculture's *Edge Summaries* table
 		- Agriculture → Sickness/Disease
+		- Agriculture → Spirituality/God
 
-### Research Repo
+### Research Repo 
 - Added `notes.txt` and `links.txt`
 	- `agr_sic`
+	- `agr_spi`
 
 ---
 
 ## 2026-04-23
-### Design 
+### Design   
 - Updated circuit design for prototype
 
 ---
 
-## 2026-04-22
-### Design 
+## 2026-04-22 
+### Design   
 - Worked on circuit design for prototype build
 
 ---
 
-## 2026-04-20
-### Anatomy of the 42
-- **v3.3.5**
-	- Added edges to Agriculture's *Edge Summaries* table
+## 2026-04-20 
+### Anatomy of the 42  
+- **v3.3.5** 
+	- Added edges to Agriculture's *Edge Summaries* table 
 		- Agriculture → Pollution
 		- Agriculture → Poverty
 		- Agriculture → Public Trust
