@@ -1,0 +1,19 @@
+﻿Project Title: 		Society_v1
+Borard Title: 		Proto_v2.1
+PCB Title: 		PCB6
+Time: 		2026-04-24 16:23:58
+
+Borard Size: 		6875mil x 5555mil
+Layers: 		Total 24, Copper 4
+
+Devices: 		15
+Footprints: 		15
+Components: 		Total 47,Top Layer 47,Bottom Layer 0
+Pads: 		Total 230, Table Stick 0,Metallized Hole 230, Nonmetallic Hole 0
+Nets: 		Total 48, Unrouted 0
+
+Slot Region: 		0
+Vias: 		Total 89, Through Vias 89, Blind Or Buried Vais 0
+CopperAreas: 		11
+Length of Tracks: 		125065mil
+
