@@ -1,1 +1,9 @@
 Notes for this influence:
+
+Agriculture → Taxes = -0.00
+
+No DIRECT influence observed; while increasing agriculture can bias tax outcomes toward exemptions and subsidies in some situations, there is no clean direct pathway. Often times tax reductions are influenced by agricultural forces, but the policies that drive them come from political protection and decentralized production; these effects are ultimately indirect.
+
+Agriculture does not directly shape tax structure. Taxation itself is primarily motivated by economic systems such as GDP and labor structures. Most agricultural influence on taxes occurs through intermediaries such as informality/easing, development pathways, and shifting political power windows (e.g., rural influence, agrarian lobbying, political leadership preferences, or policy leanings toward libertarian or conservative frameworks).
+
+These effects are diffuse and mediated, not the result of a clean causal pathway. Although small influence spill-over exists, it is weak and context-dependent. To preserve causal clarity and avoid feedback instability, this edge is treated as null.

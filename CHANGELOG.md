@@ -7,11 +7,13 @@
 	- Added edges to Agriculture's *Edge Summaries* table
 		- Agriculture → Sickness/Disease
 		- Agriculture → Spirituality/God
+		- Agriculture → Taxes
 
 ### Research Repo 
 - Added `notes.txt` and `links.txt`
 	- `agr_sic`
 	- `agr_spi`
+	- `agr_tax`
 
 ---
 
