@@ -106,6 +106,6 @@ This risk can be mitigated through the introduction of additional minds.
 Please send help.
 
 # Open Use
-The materials in this repository are provided for research, discussion, and educational purposes. Readers are encouraged to examine the sources, question assumptions, and explore alternative interpretations.
+The materials in this repository are provided for research, discussion, exploration, and educational purposes. Readers are encouraged to examine the sources, question assumptions, improve the model, and have fun playing with society.
 
 This is an open source project. Society belongs to society.
