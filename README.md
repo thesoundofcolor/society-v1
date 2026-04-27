@@ -1,4 +1,4 @@
-# Society V1: A Social Calculator
+# Society V1: The Social Calculator
 
 **A kinetic model for the social contract.**
 *A system of interconnected variables that lets you feel how changes ripple through society.*
@@ -6,7 +6,7 @@
 ## Quick Navigation
 Start here depending on what you're looking for:
 
-- **Understanding the project:**  
+- **Understanding the project (Complete overview):**  
   [Whitepaper](documents/whitepaper/Society_v1_whitepaper.pdf)
 
 - **Variable definitions and Edge Weights:**  
@@ -27,11 +27,13 @@ Start here depending on what you're looking for:
 
 Every day I sit between “this is impossible” and the fact that the math keeps suggesting it isn’t. The more I work through it, the more it hints that something real might actually come out of this if it’s done right. There is only one way to find out...
 
-Society v1 is a physical control board designed to explore an experimental simulation of societal dynamics. At first glance it appears to be nothing more than a panel of sliders and motors driving a piece of software. In truth, it is something stranger: an instrument composed of 42 motorized sliders, each representing a conceptual force operating within society, variables such as poverty, agriculture, education, freedom of speech, and many others.
+Society v1 is a physical control board designed to explore an experimental simulation of societal dynamics. At first glance it appears to be nothing more than a panel of sliders, motors, and indicator displays running some kind of arithmetic in software. 
 
-Moving a slider does not simply adjust a number or trigger a preprogrammed response. It transforms the pressures acting across an interconnected system. When one variable shifts, we can consider it a "force", the surrounding network responds, propagating influence through the system and reshaping the collective state of the model. It is a network of forces, i.e., a model of Society.
+In truth, it is something __stranger__: an instrument composed of 42 motorized sliders, each representing a conceptual force operating within society: poverty, agriculture, education, freedom of speech, and many others. Beneath the surface, these sliders are driven by a novel software architecture meticulously crafted to reflect how social forces cascade and interact. The weights of these influences are not formulated backwards from observed assumptions but rather grounded in, and inspired by, real empirical data.
 
-The relationships between these variables are not arbitrarily chosen to produce a desirable outcome, though bias inevitably creeps in. Instead, the values are constructed from real-world data; aggregated empirical research, comparative statistics, peer-reviewed articles, and conservative reasoning methodically distilled to approximate how real societal forces push and pull against one another.
+Moving a slider does not simply adjust a number or trigger a preprogrammed response. It transforms the pressures acting across an interconnected system. When one variable shifts, the change in position becomes a "force"; the surrounding network responds, propagating influence and reshaping the collective state of the model. In short: Society V1 is a network of forces; it is a unique model of society.
+
+The relationships between these variables are not arbitrarily chosen to produce a desirable outcome, though bias inevitably creeps in. Instead, the values are constructed from real-world data; aggregated empirical research, comparative statistics, peer-reviewed articles, and conservative reasoning methodically distilled to approximate how real societal forces push and pull against one another. The research used is available to view and scrutinize in the [Research Repository](blob/main/research_repo).
 
 Under the hood, the real-world data extracted from empirical research is combined with a bit of mathematical magic. Through the use of transformation matrices, conditional non-linear algebra, activation functions, and influence-shaping mechanisms, slider movements are translated into system-wide responses grounded in observable dynamics.
 
@@ -90,7 +92,7 @@ The model attempts to synthesize insights from research literature, empirical da
 
 The purpose of the system is therefore exploratory rather than definitive. Its value lies in provoking questions, revealing possible interaction pathways, and encouraging deeper investigation into the dynamics of social systems.
 
-This project is not meant to earn a doctorate or appear in a scientific journal. Readers should treat the model as a conceptual instrument, a tool for thought, a profound simulation, a thought-provoking art piece,  rather than a final description of reality.
+This project is not meant to earn a doctorate or appear in a scientific journal. Readers should treat the model as a conceptual instrument, a tool for thought, a profound simulation, a thought-provoking art piece, rather than a final description of reality.
 
 # Authorship
 Society V1 is currently developed by Evan Levy - a systems engineer with a background in embedded electronics, networking, and an inability to leave interesting problems alone. He fills the role of a single modeler synthesizing research across multiple disciplines in an attempt to construct a structured representation of societal dynamics.
