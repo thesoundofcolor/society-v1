@@ -1,5 +1,18 @@
 # Society V1 - Captian's Log
 
+## 2026-04-27
+### Anatomy of the 42  
+- **v3.3.5** 
+	- Added edges to Agriculture's *Edge Summaries* table
+		- Agriculture → Technology
+
+### Research Repo 
+- Added `notes.txt` and `links.txt`
+	- `agr_tec`
+
+### README
+- Revised and corrected grammatical errors in description
+---
 
 ## 2026-04-24 
 ### Anatomy of the 42  

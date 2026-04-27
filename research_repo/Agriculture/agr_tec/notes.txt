@@ -2,11 +2,30 @@ Notes for this influence:
 
 Agriculture → Technology = 0.0
 
+Agriculture acts as a demand influence for technology rather than a pure origin source. As agricultural scale and complexity increase (yield pressure, climate variability, labor shortages, etc.), it creates strong incentives for technological solutions; like precision farming, automation, sensors, biotech, and data systems.
 
+Modern agriculture is tightly coupled with emerging technologies: drones, IoT sensors, machine learning, and genetic engineering are all deployed to optimize yield, reduce waste, and manage uncertainty . This reflects a pull dynamic: agriculture does not invent technology in isolation, but it accelerates development and adoption in specific domains.
 
+The effect strengthens with:
 
+Industrialization / large-scale farming
+Resource constraints (water, land, labor)
+Market competition and efficiency pressure
 
+However, this is not a dominant primary driver of all technological progress. Most foundational tech (semiconductors, computing, materials science) originates outside agriculture and diffuses inward. Additionally, access barriers (cost, education, infrastructure) limit adoption, especially in smaller or developing systems, dampening the global effect.
 
+Net: clear, direct, but bounded influence; agriculture pushes applied innovation, not core technological paradigms.
+
+## Shaping Notes:
+
+1)Monotonic cubic (preferred):
+- Slow initial (subsistence farming) 
+- Strong mid acceleration (industrial/precision phase) 
+- Soft saturation (tech adoption ceiling)
+
+Optional: slight asymmetry (stronger effect on positive side than negative collapse)
+
+~ Evan Levy 4/27/26
 
 
 

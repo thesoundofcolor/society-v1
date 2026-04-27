@@ -1,6 +1,6 @@
 Links for Agriculture to Technology influences: 
 
-See repo `agr_tec`
+See repo `agr_tec` 
 
 
 
