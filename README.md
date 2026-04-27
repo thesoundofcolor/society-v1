@@ -31,17 +31,17 @@ Society v1 is a physical control board designed to explore an experimental simul
 
 In truth, it is something __stranger__: an instrument composed of 42 motorized sliders, each representing a conceptual force operating within society: poverty, agriculture, education, freedom of speech, and many others. Beneath the surface, these sliders are driven by a novel software architecture meticulously crafted to reflect how social forces cascade and interact. The weights of these influences are not formulated backwards from observed assumptions but rather grounded in, and inspired by, real empirical data.
 
-Moving a slider does not simply adjust a number or trigger a preprogrammed response. It transforms the pressures acting across an interconnected system. When one variable shifts, the change in position becomes a "force"; the surrounding network responds, propagating influence and reshaping the collective state of the model. In short: Society V1 is a network of forces; it is a unique model of society.
+Moving a slider does not simply adjust a number or trigger a preprogrammed response. It transforms the pressures acting across an interconnected system. When one variable shifts, the change in position becomes a "force"; the network responds, propagating influence and reshaping the vector state of the model. In short: Society V1 is a network of forces; it is a unique model of society.
 
-The relationships between these variables are not arbitrarily chosen to produce a desirable outcome, though bias inevitably creeps in. Instead, the values are constructed from real-world data; aggregated empirical research, comparative statistics, peer-reviewed articles, and conservative reasoning methodically distilled to approximate how real societal forces push and pull against one another. The research used to determine weights and modeling behavior is available to view and scrutinize in the [Research Repository](./research_repo).
+The relationships between these variables are not arbitrarily chosen to produce a desirable outcome, though bias inevitably creeps in. Instead, the values of each weight are constructed from real-world data; aggregated empirical research, comparative statistics, peer-reviewed articles, and conservative reasoning; all of which is distilled together in order to approximate how real societal forces push and pull against one another. The research used to determine weights and modeling behavior is available to view and scrutinize in the [Research Repository](./research_repo).
 
 Under the hood, the real-world data extracted from empirical research is combined with a bit of mathematical magic. Through the use of transformation matrices, conditional non-linear algebra, activation functions, and influence-shaping mechanisms, slider movements are translated into system-wide responses grounded in observable dynamics.
 
 Of course, no machine can truly simulate a society. The complexity of human systems exceeds anything that can be captured in a finite model. Society V1 therefore approaches the problem through deliberate reduction: compressing vast social forces into structured relationships that can be manipulated and observed. 
 
-***Math Warning:*** A lot of this sounds abstract, but the math itself is fairly simple. Each societal force is an array of values, a distribution of weighted influences pointing to every other variable, normalized between -1 and 1. We organize these arrays into an [Influence Matrix](data/Influence_Matrix/Influence%20Matrix.xlsx), which operates on the state vector of society. When we change a variable’s value by shifting it up or down, it transforms the system through matrix operations. The resulting transformation is passed through shaping functions to control how influence propagates and better reflect reality, then dampened to prevent runaway cascades and stabilize the system.
+***Math Warning:*** A lot of this sounds abstract, but the math itself is fairly simple. Each societal force is an array of values, a distribution of weighted influences pointing to every other variable, normalized between -1 and 1. We organize these arrays into an [Influence Matrix](data/Influence_Matrix/Influence%20Matrix.xlsx), which operates on the vector state of society. When we change a variable’s value by shifting it up or down, it transforms the system through matrix operations. The resulting transformation is passed through shaping functions to control how influence propagates and better reflect reality, then dampened to prevent runaway cascades and stabilize the system.
 
-The result is an impossible device, a controller for interacting with an abstraction of society itself.
+The result is an impossible device, a controller for interacting with an abstraction of society itself. A physical interface that lets us shift its gears and explore the consequences of even the smallest changes. 
 
 This repository contains the research materials, documentation, and development artifacts supporting the Society V1 system.
 
@@ -92,7 +92,9 @@ The model attempts to synthesize insights from research literature, empirical da
 
 The purpose of the system is therefore exploratory rather than definitive. Its value lies in provoking questions, revealing possible interaction pathways, and encouraging deeper investigation into the dynamics of social systems.
 
-This project is not meant to earn a doctorate or appear in a scientific journal. Readers should treat the model as a conceptual instrument, a tool for thought, a profound simulation, a thought-provoking art piece, rather than a final description of reality.
+This project is not meant to earn academic acclaim or appear in a scientific journal. Readers should treat the model as a conceptual instrument, a tool for thought, a profound simulation, or even as a kinetic sculpture, rather than a final description of reality.
+
+It is based on scientific principles, but remains at its heart a scientific work of art.
 
 # Authorship
 Society V1 is currently developed by Evan Levy - a systems engineer with a background in embedded electronics, networking, and an inability to leave interesting problems alone. He fills the role of a single modeler synthesizing research across multiple disciplines in an attempt to construct a structured representation of societal dynamics.
