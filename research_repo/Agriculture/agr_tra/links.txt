@@ -1,1 +1,7 @@
-Links for Agriculture to EdgeVariableHere influences: 
+Links for Agriculture to Transportation influences: 
+
+
+N/A; See resources in repo @ `agr_tra`
+
+
+

@@ -1,1 +1,18 @@
 Notes for this influence:
+
+Agriculture → Welfare (Government Support) = -0.12
+
+This is a small direct decrease but is measurable and empirically relevant. Agriculture reduces general welfare demand through food affordability and rural income, but the effect is diluted across the full population; where welfare is driven more by broader economic and policy factors. Direct impact exists but is limited and partially captured elsewhere.
+
+## Shaping:
+
+1) Polynomial (blended)
+- Weak at first → stronger at mid-range → tapers off at upper region
+
+2) Saturating (negative)
+- Early drop → diminishing returns
+
+Optional: Asymmetry - Declines in agriculture increases welfare faster than agricultural gains reduce it
+** Asymmetry may introduce extreme drift, so if there isn't an automatic corrective drift, this may cause exponential run-off leading to maxing out (in lower or upper levels, where the value goes to zero or 100%)
+
+~ Evan Levy 4/28/26

@@ -1,1 +1,31 @@
 Notes for this influence:
+
+Agriculture → Transportation = +0.29
+
+This is a strong direct positive influence. Agriculture is one of the main catalysts behind transportation networks. Moving  large volumes of goods, often perishable, from production regions to storage, processing, and markets abroad creates immediate pressure for transport expansion. Over time, that expansion slows as the constraint shifts from building more capacity to optimizing what already exists.
+
+Resources in `agr_tra` repo:
+
+From: 213-220-m2323-Zhannat-Sept-2023-109.pdf
+	- Agriculture ↔ transport infrastructure, volume growth
+From: 701-JT0036.pdf
+	- Distribution requires large-scale and long-distance transportation
+    - Logistics is a dominant cost and agricultural constraint
+From: boldscholarArticle_2025-11-7_21-15-14.pdf
+	- Transportation is the core enabler of agricultural market and economic activity
+
+## Shaping:
+
+1) Monotonic
+- Early acceleration
+	- rapid increase (scaling production forces infrastructure expansion)
+- Soft saturation at higher level
+	- Once logistics networks mature, expansion slows; marginal agricultural increases produce smaller transport gains
+
+Optional:
+Slight seasonal oscillation overlay (harvest cycles causes spikes)
+I don't know if this is a good idea, let alone possible... I think it complicates too much but I'll leave the note here just in case.
+
+~ Evan Levy 4/28/26
+
+
