@@ -1,5 +1,11 @@
 # Society V1 - Captian's Log
 
+## 2026-05-03
+### Anatomy of the 42  
+- **v3.4.1** 
+	- Drafted chapter 3 - Authoritarianism
+
+---
 
 ## 2026-04-28
 ### Anatomy of the 42  
