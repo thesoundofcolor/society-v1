@@ -1,5 +1,11 @@
 # Society V1 - Captian's Log
 
+## 2026-05-09
+### Research Repo
+- Validated resources
+
+---
+
 ## 2026-05-04
 ### Anatomy of the 42  
 - **v3.4.1** 
