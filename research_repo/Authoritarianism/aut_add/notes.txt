@@ -1,1 +1,15 @@
 Notes for this influence:
+
+Authoritarianism → Addiction = +0.10
+
+Authoritarianism increases the risks of addictive traits, often as coping mechanisms formed to deal with the overbearing control pressures that reduce personal autonomy and free expression.  Prolonged stress and fear can often lead to escape-seeking behaviors. The effect of this pathway is most evident in the behavioral addictions, such as internet and gaming, where the empirical research shows that authoritarian family dynamics also have a stronger and more direct association with addiction risk. 
+
+For substance use addictions, the direct effect is much weaker and foggy, so this edge is kept smaller when averaged across all forms of addiction and all sources of authoritarian pressure, including family, institutional, social, and political control.
+
+### Shaping: 
+1) Polynomial: with soft threshold-like curve
+	- Low levels of authoritarianism has little effect
+	- Once control becomes more dominant, addiction risk rises slightly as escape and coping behaviors become more common.
+	
+~ Evan Levy 5/12/26
+
