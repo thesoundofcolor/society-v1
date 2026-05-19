@@ -2,7 +2,7 @@ Notes for this influence:
 
 Authoritarianism → Agriculture = -0.08
 
-Authoritarianism influences agriculture but it is not very strong. Agricultural capacity can lose resilience through centralized planning, authoritarian policies, subsidies, quotas, land control, and state-directed production. Regardless that agriculture can sometimes increase output due to authoritarian control, the overall top-down control tends to weaken resilience over time. Some mechanisms of this weakening is by suppressing local feedback and reducing farmer autonomy. 
+Authoritarianism influences agriculture but it is not a very strong direct effect. Agricultural capacity can lose resilience through centralized planning, authoritarian policies, subsidies, quotas, land control, and state-directed production. Regardless of the fact that agriculture can sometimes increase output and stabilize production due to authoritarian control, the overall top-down control pattern tends to weaken resilience over time. Some mechanisms of this weakening is by suppressing local feedback and reducing farmer autonomy. 
 
 The effect should be kept small in the model because authoritarianism does not automatically reduce agricultural capacity; empirically it can sometimes stabilize or expand production. The negative value reflects the average tendency for authoritarian control to suppress agricultural systems when local (and adaptive) feedback loops are overridden. (Like local knowledge, land rights, sentimental incentives, and trade-skills)
 

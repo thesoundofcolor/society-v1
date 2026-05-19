@@ -1,1 +1,34 @@
 Notes for this influence:
+
+Authoritarianism → Corruption = +0.31
+
+Authoritarianism directly expands corruption by changing the cost and reward structure around power. As authority becomes more centralized, fewer people can challenge or expose abuse, making corrupt actors harder to remove. This makes public office more valuable as a private asset because access to power also means access to favors, protection, contracts, enforcement, and punishment. 
+
+The weight is heavy because authoritarianism does not only allow corruption; it often creates incentives for it. Loyalty becomes more important than public rules, while winning and retention become more important than the risks taken to create meaningful change. Corruption grows through patronage networks, state capture, bribes for protection, and the private use of public authority.
+
+The value is not maxed out because authoritarian regimes can still suppress corruption when it threatens the regime or weakens control.
+
+### Shaping:
+1) polynomial (accelerating threshold curve)
+- Low authoritarianism has a limited effect.
+- Higher authoritarianism increases corruption faster as power centralizes and loyalty networks begin replacing public rules.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

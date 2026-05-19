@@ -5,14 +5,17 @@
 - **v3.4.1** 
 	- Added edges to Authoritariansim's *Edge Summaries* table
 		- Authoritarianism → Agriculture
+		- Authoritarianism → Corruption
 
 ### Research Repo 
 - Added `notes.txt` and `links.txt`
 	- `aut_agr`
 	- `aut_bir`
+	- `aut_cor`
 	
 - Added resources / research
 	- `agr_agr'
+	- `agr_cor'
 	
 ---
 
