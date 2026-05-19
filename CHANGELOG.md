@@ -1,5 +1,21 @@
 # Society V1 - Captian's Log
 
+## 2026-05-19
+### Anatomy of the 42  
+- **v3.4.1** 
+	- Added edges to Authoritariansim's *Edge Summaries* table
+		- Authoritarianism → Agriculture
+
+### Research Repo 
+- Added `notes.txt` and `links.txt`
+	- `aut_agr`
+	- `aut_bir`
+	
+- Added resources / research
+	- `agr_agr'
+	
+---
+
 ## 2026-05-04
 ### Anatomy of the 42  
 - **v3.4.1** 
