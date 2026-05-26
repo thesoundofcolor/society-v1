@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-title: "Society V1: A Social Calculator"
+title: "Society V1"
 message: "If you use this project in research, please cite it using the metadata below."
 type: generic
 authors:
   - family-names: "Levy"
     given-names: "Evan"
-repository-code: https://github.com/thesoundofcolor/society-v1
+	country: US
+repository: https://github.com/thesoundofcolor/society-v1
 url: https://github.com/thesoundofcolor/society-v1
 version: 0.1.1
 date-released: 2026-03-01
