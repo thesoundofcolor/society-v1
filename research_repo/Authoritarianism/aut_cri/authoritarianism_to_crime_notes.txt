@@ -1,3 +1,8 @@
-Notes for Authoritarianism -> Crime influence:  ~ (-.06)
+Notes for Authoritarianism -> Crime influence:  ~ (-.07)
 
-Authoritarianism is given a small negative weight on Crime. Cross-national studies often find that stable autocracies report lower homicide and street-crime rates than transitional or weak democracies, even after basic controls. However, this effect is entangled with under-reporting and the displacement of violence into state repression rather than genuine social peace. I’m treating this as a very modest downward pressure on recorded crime, not as an endorsement of authoritarianism as ‘safer’ overall.
+Authoritarianism is given a small negative weight on Crime because coercive social control can reduce some actual conventional crime. Surveillance, fear of punishment, restricted behavior, and stronger enforcement can lower opportunistic crime and visible disorder. However, the effect is kept very small because authoritarianism does not remove criminal behavior; it often shifts it into protected, political, organized, or state-tolerated forms. At high levels, authoritarianism can increase crime by protecting insiders, weakening accountability, and allowing coercive actors to use violence for control.
+
+Shaping:
+Non-monotonic / U-shaped curve
+Moderate authoritarianism lowers recorded crime through coercive deterrence.
+Extreme authoritarianism can increase crime, only it is then commited by the ruling authorities and officials rather than the public. Also, the public tends to gather into organized crime groups that for a synergistic relationship with the regime/authorities.

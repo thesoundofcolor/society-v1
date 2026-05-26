@@ -4,6 +4,21 @@
 ### Anatomy of the 42  
 - **v3.4.1** 
 	- Added edges to Authoritariansim's *Edge Summaries* table
+		- Authoritarianism → Crime
+
+### Research Repo 
+- Added `notes.txt` and `links.txt`
+	- `aut_cri`
+	
+- Added resources / research
+	- `agr_cri`
+	
+---
+
+## 2026-05-19
+### Anatomy of the 42  
+- **v3.4.1** 
+	- Added edges to Authoritariansim's *Edge Summaries* table
 		- Authoritarianism → Agriculture
 		- Authoritarianism → Corruption
 
@@ -196,7 +211,7 @@
 
 ---
 
-## 2026-04-05
+## 2026-04-06
 ### Anatomy of the 42
 - **v3.3.2**
 	- Added edges to Agriculture's *Edge Summaries* table
