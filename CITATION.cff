@@ -5,7 +5,6 @@ type: generic
 authors:
   - family-names: "Levy"
     given-names: "Evan"
-	affiliation: Independent Researcher / Techno-Artist	
 repository-code: https://github.com/thesoundofcolor/society-v1
 url: https://github.com/thesoundofcolor/society-v1
 version: 0.1.1
