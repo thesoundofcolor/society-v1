@@ -1,6 +1,6 @@
 # Society V1 - Captian's Log
 
-## 2026-05-19
+## 2026-05-26
 ### Anatomy of the 42  
 - **v3.4.1** 
 	- Added edges to Authoritariansim's *Edge Summaries* table
